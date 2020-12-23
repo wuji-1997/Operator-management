@@ -1,0 +1,966 @@
+2020-12-20 00:01:12,991 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-20 00:01:12,991 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-20 00:01:12,991 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-20 00:01:12,991 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-20 00:12:58,516 - readexcel.py:[40] - ERROR -27- 打开EXCEL文件<xlrd.book.Book object at 0x000002D357644288>失败
+Traceback (most recent call last):
+  File "D:\webapp\venv\lib\site-packages\xlrd\book.py", line 474, in sheet_by_name
+    sheetx = self._sheet_names.index(sheet_name)
+ValueError: 'login' is not in list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\webapp\webUI\common\readexcel.py", line 25, in __init__
+    self.worksheet = self.workbook.sheet_by_name(sheet_name)
+  File "D:\webapp\venv\lib\site-packages\xlrd\book.py", line 476, in sheet_by_name
+    raise XLRDError('No sheet named <%r>' % sheet_name)
+xlrd.biffh.XLRDError: No sheet named <'login'>
+2020-12-20 00:14:46,852 - readexcel.py:[40] - ERROR -27- 打开EXCEL文件<xlrd.book.Book object at 0x000001B083B32D48>失败
+Traceback (most recent call last):
+  File "D:\webapp\venv\lib\site-packages\xlrd\book.py", line 474, in sheet_by_name
+    sheetx = self._sheet_names.index(sheet_name)
+ValueError: 'login' is not in list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\webapp\webUI\common\readexcel.py", line 25, in __init__
+    self.worksheet = self.workbook.sheet_by_name(sheet_name)
+  File "D:\webapp\venv\lib\site-packages\xlrd\book.py", line 476, in sheet_by_name
+    raise XLRDError('No sheet named <%r>' % sheet_name)
+xlrd.biffh.XLRDError: No sheet named <'login'>
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002A035D43C88>成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:15:30,147 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000018D72A13D08>成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:16:45,546 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:18:47,394 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000027153B24188>成功
+2020-12-20 00:18:47,394 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:18:47,394 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:18:47,394 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:18:47,394 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:18:47,395 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:18:50,663 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="3fde6a3f317f00c36e5a66a74c455902")>驱动成功
+2020-12-20 00:18:50,663 - my_unit.py:[20] - INFO -18- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="3fde6a3f317f00c36e5a66a74c455902")>成功
+2020-12-20 00:18:50,758 - base_page.py:[40] - ERROR -39- open url"http://localhost/iwebsns/main.php" fail !
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 37, in open
+    self.__open(self.base_url)
+  File "D:\webapp\webUI\Page\base_page.py", line 28, in __open
+    self.base_url.maximize_window()
+AttributeError: 'str' object has no attribute 'maximize_window'
+2020-12-20 00:18:54,051 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="cebfed44f113da8ffa3694f4f8650903")>驱动成功
+2020-12-20 00:18:56,174 - my_unit.py:[20] - INFO -41- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="cebfed44f113da8ffa3694f4f8650903")>成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000025F1E512C88>成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:19:23,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:19:23,424 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:19:23,424 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:19:26,721 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="45e23c4a6d689a2b7d8b39728290aa1f")>驱动成功
+2020-12-20 00:19:26,722 - my_unit.py:[20] - INFO -18- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="45e23c4a6d689a2b7d8b39728290aa1f")>成功
+2020-12-20 00:19:27,032 - base_page.py:[40] - ERROR -39- open url"http://localhost/iwebsns/index.php" fail !
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 37, in open
+    self.__open(self.base_url)
+  File "D:\webapp\webUI\Page\base_page.py", line 28, in __open
+    self.base_url.maximize_window()
+AttributeError: 'str' object has no attribute 'maximize_window'
+2020-12-20 00:19:30,290 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="ad1c36396eded2fbf9bbfd4b2a5fcf2a")>驱动成功
+2020-12-20 00:19:32,434 - my_unit.py:[20] - INFO -41- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="ad1c36396eded2fbf9bbfd4b2a5fcf2a")>成功
+2020-12-20 00:21:12,213 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001A6FF022D48>成功
+2020-12-20 00:21:12,213 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:21:12,214 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:21:15,512 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="b317f637c6655b388e77869fc7c39673")>驱动成功
+2020-12-20 00:21:17,665 - my_unit.py:[20] - INFO -19- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="b317f637c6655b388e77869fc7c39673")>成功
+2020-12-20 00:21:17,943 - base_page.py:[40] - ERROR -39- open url"http://localhost/iwebsns/index.php" fail !
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 37, in open
+    self.__open(self.base_url)
+  File "D:\webapp\webUI\Page\base_page.py", line 28, in __open
+    self.base_url.maximize_window()
+AttributeError: 'str' object has no attribute 'maximize_window'
+2020-12-20 00:21:21,134 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="4224041d832f151c41c0123fc2268db5")>驱动成功
+2020-12-20 00:21:23,305 - my_unit.py:[20] - INFO -42- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="4224041d832f151c41c0123fc2268db5")>成功
+2020-12-20 00:22:28,260 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000228F37F2E08>成功
+2020-12-20 00:22:28,260 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:22:28,260 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:22:28,260 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:22:28,260 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:22:28,261 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:22:31,486 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c0be269beab8d8a4797769d2a59cc835")>驱动成功
+2020-12-20 00:22:33,654 - my_unit.py:[20] - INFO -19- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c0be269beab8d8a4797769d2a59cc835")>成功
+2020-12-20 00:22:33,953 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 00:22:33,953 - my_unit.py:[20] - INFO -28- ------------------执行案例开始-----------------
+2020-12-20 00:22:33,968 - base_page.py:[20] - INFO -57- 定位元素('id', '13382197195@189.cn')成功
+2020-12-20 00:22:33,968 - base_page.py:[40] - ERROR -128- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 126, in input_value
+    element.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 00:22:34,054 - my_unit.py:[20] - INFO -36- ------------------执行案例完成-----------------
+2020-12-20 00:22:37,303 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="811b98179f3ec5cccc57d017d8ff114e")>驱动成功
+2020-12-20 00:22:39,862 - my_unit.py:[20] - INFO -42- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="811b98179f3ec5cccc57d017d8ff114e")>成功
+2020-12-20 00:26:46,250 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000181CA4B30C8>成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 00:26:46,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 00:26:49,475 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="96ade93c9bb22c83fc695db0b7cc3bd1")>驱动成功
+2020-12-20 00:26:51,637 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="96ade93c9bb22c83fc695db0b7cc3bd1")>成功
+2020-12-20 00:26:51,925 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 00:26:51,925 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 00:27:01,978 - base_page.py:[20] - INFO -57- 定位元素('id', '13382197195@189.cn')成功
+2020-12-20 00:27:01,978 - base_page.py:[40] - ERROR -128- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 126, in input_value
+    element.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 00:27:02,089 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 00:27:05,337 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c029e6e8e81900196b1cf7f0a04c3e8f")>驱动成功
+2020-12-20 00:27:07,464 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c029e6e8e81900196b1cf7f0a04c3e8f")>成功
+2020-12-20 19:28:23,152 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002AADC2DFC48>成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:28:23,156 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:28:26,576 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="d5c91bcf3dfd2b1d217f2d00f4f70397")>驱动成功
+2020-12-20 19:28:28,720 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="d5c91bcf3dfd2b1d217f2d00f4f70397")>成功
+2020-12-20 19:28:36,592 - base_page.py:[40] - ERROR -38- open url"http://localhost/iwebsns/index.php" fail !
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 36, in open
+    self.__open(self.base_url)
+  File "D:\webapp\webUI\Page\base_page.py", line 27, in __open
+    self.base_driver.get(test_url)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=86.0.4240.183)
+
+2020-12-20 19:28:51,983 - driver.py:[40] - ERROR -15- 请先安装chorme驱动
+Traceback (most recent call last):
+  File "D:\webapp\webUI\common\driver.py", line 13, in usechorme
+    self.driver =webdriver.Chrome()
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from chrome not reachable
+  (Session info: chrome=86.0.4240.183)
+
+2020-12-20 19:29:48,538 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001D60A0B2F08>成功
+2020-12-20 19:29:48,538 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:29:48,543 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:29:51,760 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9599977d8e84c84986d419a62fab457f")>驱动成功
+2020-12-20 19:29:53,895 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="9599977d8e84c84986d419a62fab457f")>成功
+2020-12-20 19:29:54,216 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:29:54,217 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:30:04,250 - base_page.py:[20] - INFO -57- 定位元素('id', '13382197195@189.cn')成功
+2020-12-20 19:30:04,250 - base_page.py:[40] - ERROR -128- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 126, in input_value
+    element.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 19:30:04,361 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:30:07,600 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="91334d788b07a1d0b3aa9af4853dbbc8")>驱动成功
+2020-12-20 19:30:09,712 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="91334d788b07a1d0b3aa9af4853dbbc8")>成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000130A4FCFFC8>成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:33:17,104 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:33:20,325 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="8ef30ef3a55e9f1a76c687fb4a2abf3e")>驱动成功
+2020-12-20 19:33:22,469 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="8ef30ef3a55e9f1a76c687fb4a2abf3e")>成功
+2020-12-20 19:33:22,708 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:33:22,708 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:33:32,709 - base_page.py:[20] - INFO -57- 定位元素('id', '13382197195@189.cn')成功
+2020-12-20 19:33:32,709 - base_page.py:[40] - ERROR -128- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 126, in input_value
+    element.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 19:33:32,831 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:33:36,000 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="15611a03f60e08def99998fde5730fc5")>驱动成功
+2020-12-20 19:33:38,106 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="15611a03f60e08def99998fde5730fc5")>成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002A750BE2E08>成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:38:11,004 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:38:14,213 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="eb5f29f25c501151d9106719d8fe1851")>驱动成功
+2020-12-20 19:38:16,363 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="eb5f29f25c501151d9106719d8fe1851")>成功
+2020-12-20 19:38:16,627 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:38:16,627 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:38:16,710 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:38:19,899 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="19a92e18cb3e40dc293704cf74349fb5")>驱动成功
+2020-12-20 19:38:22,011 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="19a92e18cb3e40dc293704cf74349fb5")>成功
+2020-12-20 19:41:52,112 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001F150512EC8>成功
+2020-12-20 19:41:52,112 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:41:52,112 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:41:52,112 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:41:52,112 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:41:52,116 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:41:55,302 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="363a902123f7fcbf67141c2d1d1611a1")>驱动成功
+2020-12-20 19:41:57,456 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="363a902123f7fcbf67141c2d1d1611a1")>成功
+2020-12-20 19:41:57,703 - base_page.py:[20] - INFO -41- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:41:57,703 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:42:07,995 - base_page.py:[40] - ERROR -54- 定位元素('id', 'login_email')失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 52, in findelement
+    WebDriverWait(driver=self.base_driver,timeout=10,poll_frequency=0.5).until(EC.invisibility_of_element_located(element))
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-12-20 19:42:08,000 - base_page.py:[40] - ERROR -128- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 126, in input_value
+    self.findelement(find_way,value).send_keys(test_value)
+  File "D:\webapp\webUI\Page\base_page.py", line 52, in findelement
+    WebDriverWait(driver=self.base_driver,timeout=10,poll_frequency=0.5).until(EC.invisibility_of_element_located(element))
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-12-20 19:42:08,108 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:42:11,344 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="0e45536468af202a4c327b9e8b3c593f")>驱动成功
+2020-12-20 19:42:13,467 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0e45536468af202a4c327b9e8b3c593f")>成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001460E652D48>成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:44:47,526 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:44:50,758 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="7e5ace22c57cb3ef39af63d7a1bbb8e3")>驱动成功
+2020-12-20 19:44:52,899 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="7e5ace22c57cb3ef39af63d7a1bbb8e3")>成功
+2020-12-20 19:44:53,172 - base_page.py:[20] - INFO -43- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:44:53,172 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:45:03,472 - base_page.py:[40] - ERROR -56- 定位元素('id', 'login_email')失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 54, in findelement
+    WebDriverWait(driver=self.base_driver,timeout=10,poll_frequency=0.5).until(EC.invisibility_of_element_located(element))
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-12-20 19:45:03,472 - base_page.py:[40] - ERROR -130- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 128, in input_value
+    self.findelement(find_way,value).send_keys(test_value)
+  File "D:\webapp\webUI\Page\base_page.py", line 54, in findelement
+    WebDriverWait(driver=self.base_driver,timeout=10,poll_frequency=0.5).until(EC.invisibility_of_element_located(element))
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-12-20 19:45:03,589 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:45:06,779 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="6e5ae2a3865dd652685b81b4332369b0")>驱动成功
+2020-12-20 19:45:08,902 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="6e5ae2a3865dd652685b81b4332369b0")>成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002238A2F3E48>成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:50:40,924 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:50:44,188 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="0d0083d6665ae938ebdb23478b615a17")>驱动成功
+2020-12-20 19:50:46,316 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0d0083d6665ae938ebdb23478b615a17")>成功
+2020-12-20 19:50:46,576 - base_page.py:[20] - INFO -40- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:50:46,576 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:50:46,599 - base_page.py:[20] - INFO -56- 定位元素('id', 'login_email')成功
+2020-12-20 19:50:46,600 - base_page.py:[40] - ERROR -126- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 124, in input_value
+    self.findelement(find_way,value).send_keys(test_value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 19:50:46,685 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:50:49,884 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="44cc5dbe60bd5e9c5107a454caa516ec")>驱动成功
+2020-12-20 19:50:51,986 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="44cc5dbe60bd5e9c5107a454caa516ec")>成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000181D3862E48>成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:52:53,330 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:52:56,631 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="a25d148389817db08ae44626e2934cb8")>驱动成功
+2020-12-20 19:52:58,770 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="a25d148389817db08ae44626e2934cb8")>成功
+2020-12-20 19:52:59,031 - base_page.py:[20] - INFO -40- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:52:59,031 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:52:59,056 - base_page.py:[20] - INFO -56- 定位元素('id', 'login_email')成功
+2020-12-20 19:52:59,056 - base_page.py:[40] - ERROR -127- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 125, in input_value
+    element.send_keys(test_value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 19:52:59,146 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:53:02,343 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f44bbe573ae879e46fba17029090067a")>驱动成功
+2020-12-20 19:53:04,476 - my_unit.py:[20] - INFO -43- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="f44bbe573ae879e46fba17029090067a")>成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001AD590C3E08>成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 19:59:07,154 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 19:59:10,343 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="8ff47fce34ef3de7ad3f803a95d9777f")>驱动成功
+2020-12-20 19:59:12,489 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="8ff47fce34ef3de7ad3f803a95d9777f")>成功
+2020-12-20 19:59:12,736 - base_page.py:[20] - INFO -40- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 19:59:12,737 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 19:59:12,760 - base_page.py:[20] - INFO -56- 定位元素('id', 'login_email')成功
+2020-12-20 19:59:12,761 - base_page.py:[40] - ERROR -127- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 125, in input_value
+    element.send_keys(test_value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 19:59:12,844 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 19:59:14,994 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="8ff47fce34ef3de7ad3f803a95d9777f")>成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002ABB7753E08>成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:11:20,951 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:11:24,177 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="5d9a746d7c1de3bb17584f83df4a238c")>驱动成功
+2020-12-20 20:11:26,329 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="5d9a746d7c1de3bb17584f83df4a238c")>成功
+2020-12-20 20:11:26,586 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:11:26,587 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:11:26,610 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:11:26,610 - base_page.py:[40] - ERROR -129- 输入值  13382197195@189.cn 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 127, in input_value
+    self.findelement(find_way, value).send_keys(test_value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2020-12-20 20:11:26,678 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:11:28,798 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="5d9a746d7c1de3bb17584f83df4a238c")>成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001FF6CB38CC8>成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:26:27,250 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:26:27,251 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:26:30,548 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="be4a9d411b95d91d5175a4c92514a2e3")>驱动成功
+2020-12-20 20:26:32,713 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="be4a9d411b95d91d5175a4c92514a2e3")>成功
+2020-12-20 20:26:32,985 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:26:32,985 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:26:33,010 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:26:33,086 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:26:35,249 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="be4a9d411b95d91d5175a4c92514a2e3")>成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000026C0832D888>成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:30:51,601 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:30:51,602 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:30:51,602 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:30:51,602 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:30:51,602 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:30:51,602 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:30:54,848 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="a13b74eecbfc0fdbc13db33654e23085")>驱动成功
+2020-12-20 20:30:56,991 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="a13b74eecbfc0fdbc13db33654e23085")>成功
+2020-12-20 20:30:57,273 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:30:57,273 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:30:57,296 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:30:57,401 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:30:57,501 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:30:59,643 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="a13b74eecbfc0fdbc13db33654e23085")>成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000017CD0A4FA08>成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:32:31,103 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:32:34,350 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="e9ca94de0a9072de26469c8fb350ae87")>驱动成功
+2020-12-20 20:32:36,533 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="e9ca94de0a9072de26469c8fb350ae87")>成功
+2020-12-20 20:32:36,810 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:32:36,810 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:32:36,836 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:32:36,931 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:32:36,955 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:32:37,020 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:32:37,020 - login_page.py:[20] - INFO -55- 登录成功
+2020-12-20 20:32:42,022 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/index.php
+2020-12-20 20:32:42,023 - test_login.py:[40] - ERROR -24- 断言失败，案例不通过---------http://localhost/iwebsns/index.php错误
+Traceback (most recent call last):
+  File "D:\PyCharm 2019.3.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: 'http://localhost/iwebsns/index.php' != 'http://localhost/iwebsns/main.php'
+- http://localhost/iwebsns/index.php
+?                            ---
++ http://localhost/iwebsns/main.php
+?                          ++
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\webapp\webUI\test_case\test_login.py", line 21, in test_a_login
+    self.assertEqual(value,'http://localhost/iwebsns/main.php')
+  File "D:\PyCharm 2019.3.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: http://localhost/iwebsns/index.php != http://localhost/iwebsns/main.php
+2020-12-20 20:32:56,316 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="e9ca94de0a9072de26469c8fb350ae87")>成功
+2020-12-20 20:33:15,422 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002A9E2A3FB48>成功
+2020-12-20 20:33:15,422 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:33:15,422 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:33:15,422 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:33:15,422 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:33:15,423 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:33:18,684 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="21a657917dff35897292587a69de16c2")>驱动成功
+2020-12-20 20:33:20,853 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="21a657917dff35897292587a69de16c2")>成功
+2020-12-20 20:33:21,107 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:33:21,108 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:33:21,134 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:33:21,219 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:33:21,243 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:33:21,306 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:33:21,328 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:33:21,372 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="21a657917dff35897292587a69de16c2", element="764dc7eb-77a9-412c-94fe-09deadc1aec3")> 成功
+2020-12-20 20:33:21,373 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:33:21,373 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:33:26,380 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/index.php
+2020-12-20 20:33:26,381 - test_login.py:[40] - ERROR -24- 断言失败，案例不通过---------http://localhost/iwebsns/index.php错误
+Traceback (most recent call last):
+  File "D:\PyCharm 2019.3.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: 'http://localhost/iwebsns/index.php' != 'http://localhost/iwebsns/main.php'
+- http://localhost/iwebsns/index.php
+?                            ---
++ http://localhost/iwebsns/main.php
+?                          ++
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\webapp\webUI\test_case\test_login.py", line 21, in test_a_login
+    self.assertEqual(value,'http://localhost/iwebsns/main.php')
+  File "D:\PyCharm 2019.3.1\plugins\python\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: http://localhost/iwebsns/index.php != http://localhost/iwebsns/main.php
+2020-12-20 20:33:26,497 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:33:28,655 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="21a657917dff35897292587a69de16c2")>成功
+2020-12-20 20:36:42,685 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000135F5BB4108>成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:36:42,686 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:36:45,911 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="afb5bde88cfb0737f3b73d90fa719575")>驱动成功
+2020-12-20 20:36:48,072 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="afb5bde88cfb0737f3b73d90fa719575")>成功
+2020-12-20 20:36:48,337 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:36:48,338 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:36:48,365 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:36:48,456 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:36:48,484 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:36:48,551 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:36:48,576 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:36:48,621 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="afb5bde88cfb0737f3b73d90fa719575", element="3b25910c-d869-4758-a162-f8eb8e781caa")> 成功
+2020-12-20 20:36:48,621 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:36:48,621 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:36:53,638 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-20 20:36:53,638 - test_login.py:[20] - INFO -28- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-20 20:36:53,788 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:36:55,967 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="afb5bde88cfb0737f3b73d90fa719575")>成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000179A1138508>成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195.0"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:45:51,291 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:45:54,509 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="a7e8767a600e9c73ae803e01c42d45fb")>驱动成功
+2020-12-20 20:45:56,651 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="a7e8767a600e9c73ae803e01c42d45fb")>成功
+2020-12-20 20:45:56,905 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:45:56,905 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:45:56,928 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:45:56,933 - base_page.py:[40] - ERROR -135- 输入值  13382197195.0 失败
+Traceback (most recent call last):
+  File "D:\webapp\webUI\Page\base_page.py", line 133, in input_value
+    self.findelement(find_way, value).send_keys(test_value)
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 478, in send_keys
+    {'text': "".join(keys_to_typing(value)),
+  File "D:\webapp\venv\lib\site-packages\selenium\webdriver\common\utils.py", line 150, in keys_to_typing
+    for i in range(len(val)):
+TypeError: object of type 'float' has no len()
+2020-12-20 20:45:57,021 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:45:59,188 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="a7e8767a600e9c73ae803e01c42d45fb")>成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002B52A4C2FC8>成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:46:23,253 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:46:26,545 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="bf872abd1055a511d98249d5f0f001d9")>驱动成功
+2020-12-20 20:46:28,725 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="bf872abd1055a511d98249d5f0f001d9")>成功
+2020-12-20 20:46:28,997 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:46:28,997 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:46:29,023 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:46:29,096 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-20 20:46:29,122 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:46:29,186 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:46:29,204 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:46:29,250 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="bf872abd1055a511d98249d5f0f001d9", element="64ea55ff-ef02-494d-8fbf-2d23e1cc10e8")> 成功
+2020-12-20 20:46:29,251 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:46:29,251 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:46:34,271 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:46:34,272 - test_login.py:[20] - INFO -48- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-20 20:46:34,354 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:46:36,529 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="bf872abd1055a511d98249d5f0f001d9")>成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002AF1E6171C8>成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:50:51,733 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:50:54,994 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="d38cad074684e275c4a952f526d133ea")>驱动成功
+2020-12-20 20:50:57,166 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="d38cad074684e275c4a952f526d133ea")>成功
+2020-12-20 20:50:57,441 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:50:57,441 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:50:57,467 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:50:57,553 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:50:57,577 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:50:57,619 - base_page.py:[20] - INFO -138- 输入值   成功
+2020-12-20 20:50:57,643 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:50:57,687 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="d38cad074684e275c4a952f526d133ea", element="c8a16afd-c750-430f-a1b2-a875e16feedb")> 成功
+2020-12-20 20:50:57,687 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:50:57,687 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:51:02,705 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:51:02,705 - test_login.py:[20] - INFO -71- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-20 20:51:02,794 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:51:04,958 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="d38cad074684e275c4a952f526d133ea")>成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000172E0665308>成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:51:36,062 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:51:36,063 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:51:36,063 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:51:36,063 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:51:36,063 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:51:36,063 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:51:39,292 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f7b5806adbf37076cf1a3cb241b10344")>驱动成功
+2020-12-20 20:51:41,464 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="f7b5806adbf37076cf1a3cb241b10344")>成功
+2020-12-20 20:51:41,719 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:51:41,719 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:51:41,751 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:51:41,844 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-20 20:51:41,876 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:51:41,951 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:51:41,974 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:51:42,014 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="f7b5806adbf37076cf1a3cb241b10344", element="809294b5-d1bb-444d-8ecc-91efd25a2dc7")> 成功
+2020-12-20 20:51:42,014 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:51:42,014 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:51:47,031 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:51:47,031 - test_login.py:[20] - INFO -31- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-20 20:51:47,114 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:51:47,185 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:51:47,185 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:51:47,201 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:51:47,277 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-20 20:51:47,298 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:51:47,362 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:51:47,379 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:51:47,419 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="f7b5806adbf37076cf1a3cb241b10344", element="4bd2caa4-2622-48ba-a53f-282bf2f8746e")> 成功
+2020-12-20 20:51:47,419 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:51:47,419 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:51:52,430 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:51:52,432 - test_login.py:[40] - ERROR -47- 断言失败，案例不通过---------用户密码错误!不在当前页面
+Traceback (most recent call last):
+  File "D:\webapp\webUI\test_case\test_login.py", line 44, in test_b_wrong
+    self.assertIn(value2,value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1119, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '用户密码错误!' not found in '<html xmlns="http://www.w3.org/1999/xhtml"><head>\n<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">\n<meta http-equiv="Content-Language" content="zh-cn">\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n<meta name="Description" content="iwebSNS">\n<meta name="Keywords" content="iwebSNS">\n<meta name="author" content="">\n<meta name="robots" content="all">\n<title>聚易社区</title>\n<base href="http://localhost/iwebsns/">\n<link rel="stylesheet" href="skin/default/jooyea/css/layout.css">\n<script src="servtools/ajax_client/ajax.js" language="javascript"></script>\n<script src="skin/default/js/yui-utilities.js" type="text/javascript"></script>\n<script src="skin/default/js/tbra.js" type="text/javascript"></script>\n<script src="skin/default/js/jooyea.js" type="text/javascript"></script>\n<script src="servtools/md5.js" language="javascript"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDrag.js"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDialog.js"></script>\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\n</script>\n</head>\n<body id="index">\n<div class="container">\n<script type="text/javascript" language="javascript" src="skin/default/js/jy.js"></script>\n<script language="javascript">\nfunction addBookMark()\n{\n    var nome_sito = "聚易社区";\n    var url_sito = "http://localhost/iwebsns/";\n    if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt\n        (navigator.appVersion) >= 4))\n        window.external.AddFavorite(url_sito, nome_sito);\n    else if (navigator.appName == "Netscape")\n        window.sidebar.addPanel(nome_sito, url_sito, \'\');\n    else\n        parent.Dialog.alert("您的浏览器不允许脚本访问收藏夹，请手动添加！");\n}\n\nfunction setMyHomepage(url){   //  设置首页 \n\t\t if(!!(window.attachEvent && !window.opera)){\n\t\t\t\tdocument.body.style.behavior = \'url(#default#homepage)\';\n\t\t\t\tdocument.body.setHomePage(url);\n\t\t}else{\n\t\t\tif(window.clipboardData && clipboardData.setData){\n\t\t        clipboardData.setData(\'text\', url);\n\t\t    }else{\n\t\t         parent.Dialog.alert(\'您的浏览器不允许脚本访问剪切板，请手动设置！\');\n\t\t    }\n\t\t}\n}\n</script>\n<div class="head">\n    <h1><a href="index.php"><img alt="jooyea" src="skin/default/jooyea/images/snslogo.gif"></a></h1>\n    <div class="search">\n        <div class="schbox">\n           <form class="search_box" action="index.php" target="_blank" onsubmit="clear_def(this,\'输入姓名...\');">\n            <input id="searchtop_input" maxlength="20" class="inpt" type="text" name="memName" value="输入姓名..." onblur="inputTxt(this,\'set\');" onfocus="inputTxt(this,\'clean\');">\n            <input class="btn" type="submit" value="">\n        \t<input type="hidden" name="tg" value="search_pals_list">\n        </form>\n        </div>\n        <a href="javascript:goLogin();">高级搜索</a>\n    </div>\n</div>\n<div class="clear"></div>\n<div class="top_bg">\n\t<div class="nav">\n\t  <span class="left">\n\t    <a href="index.php">首页</a>\n\t    <a href="index.php?tg=search_pals_list&amp;online=1">看谁在线</a>\n\t    <a href="help/help.html">帮助</a>\n\t\t</span>\n\t  <span class="right">\n\t\t  <a href="javascript:addBookMark();">加入收藏</a>\n\t\t  <a href="javascript:setMyHomepage(\'http://localhost/iwebsns/\');">设为首页</a>\n\t\t  <a href="modules.php?app=user_reg">注册</a>\n\t\t  <a href="index.php">请登录</a>\n\t  </span>\n\t</div>\n</div>\t<div class="wrapper">\n        <div class="main">\n            <script src="skin/default/js/login.js" language="javascript"></script>\n<div class="snsidea"><a href="modules.php?app=user_reg" hidefocus="true"><img src="skin/default/jooyea/images/sns_idea1.jpg" width="664" height="314"></a></div>\n  \t<div class="login">\n        <h2>会员登录 <span id="loadingmsg"></span></h2>\n        <form name="login_form" method="post" onsubmit="return false;">\n            <p><label>登录邮箱： <span id="emailmsg" class="red">登录帐号错误，请重试</span></label><input class="input" name="login_email" id="login_email" type="text"></p>\n            <p><label>密码： <span id="pwdmsg" class="red"></span></label><input class="pwd" name="login_pws" id="login_pws" type="password"></p>\n            <p class="chk">\n                <label for="tmpiId">\n                    <input name="tmpiId" class="chk" id="tmpiId" type="checkbox" value="save" checked="checked" onkeydown="getEnt();">\n                    记住我                </label>\n                <label for="hidden">\n                \t<input name="hidden" class="chk" id="hidden" type="checkbox" value="1" onkeydown="getEnt();">\n                \t隐身登录                </label>\n            </p>\n            <p><span><a href="modules.php?app=user_forget" class="forget">忘记密码？</a></span><input type="submit" onclick="login();" class="button" name="loginsubm" id="loginsubm" hidefocus="true" value="登录"></p>\n        </form>\n\t<!--插件位置!-->\n\t<div class="index_right">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n\t</div>\n\n</div>\n<div class="clear"></div>\n<div class="main recom_user">\n\t<div class="cont">\n    \t<div class="user_holder">\n            <h2>共有9名会员活动在这里...</h2>\n    <div class="left_part">\n        <div id="MainPromotionBanner">\n            <div id="SlidePlayer">\n                <ul class="Slides">\n                                                            <li style=""><a href="#"><img src="skin/default/jooyea/images/def.jpg" alt=""></a></li>\n                                    </ul>\n            <ul class="SlideTriggers"><li class="Current">1</li></ul></div>\n        </div>\n\n        <script type="text/javascript">\n        TB.widget.SimpleSlide.decorate(\'SlidePlayer\', {eventType:\'mouse\', effect:\'scroll\'});\n        </script>\n\t</div>\n    <div class="right_part">\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=9" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="mrwu"></a></dt>\n                <dd><a href="home.php?h=9" hidefocus="true" target="_blank">mrwu</a></dd>\n                <dd class="time">昨天</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=8" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=8" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">02月13日</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=7" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=7" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">2019年11月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=6" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="wuji0121"></a></dt>\n                <dd><a href="home.php?h=6" hidefocus="true" target="_blank">wuji0..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=5" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=5" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=4" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="test22"></a></dt>\n                <dd><a href="home.php?h=4" hidefocus="true" target="_blank">test2..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=3" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=3" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=2" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wu121"></a></dt>\n                <dd><a href="home.php?h=2" hidefocus="true" target="_blank">wu121</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n            </div>\n\n        </div>\n        <div class="snsintro">\n        \t<dl>\n                <dt class="space1">个人空间</dt><dd>建立自己的空间，发表日志、照片，分</dd><dd>享生活中的点点滴滴..</dd>            </dl>\n            <dl>\n                <dt class="group2">群组/分享</dt><dd>创建自己的群组，与志同道合者讨论感</dd><dd>兴趣话题，分享交流信息...</dd>            </dl>\n            <dl>\n                <dt class="game3">游戏应用</dt><dd>与好友们一起玩超酷的互动游戏和应用</dd><dd>满足你休闲娱乐的需求...</dd>            </dl>\n        </div>\n\t</div>\n\t<!--插件位置!-->\n\t<div class="index_newMember">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\nfunction getEnt(){\n\tdocument.onkeydown = function (e){\n\t\tvar theEvent = window.event || e;\n\t\tvar code = theEvent.keyCode || theEvent.which;\n\t\tif(code == 13){\n\t\t\t  login();\n\t\t}\n\t}\n}\nfunction inputTxt(obj,act)\n{\n  var str="输入姓名...";\n  if(obj.value==\'\'&&act==\'set\')\n  {\n     obj.value=str;\n     obj.style.color=\'#cccccc\';\n  }\n  if(obj.value==str&&act==\'clean\')\n  {\n     obj.value=\'\';\n     obj.style.color=\'gray\';\n  }\n}\n//ajax\nfunction login_callback(content)\n{\n\tvar check=/\\.php/;\n\tif(check.test(content)){\n\t\t if($("tmpiId").checked){\n\t\t\tsaveTmpEmail(1);\n\t\t }else{\n\t\t\t  saveTmpEmail(0);\n\t\t }\n\t\t window.location.href=content;\n\t}else{\n\t\t$("emailmsg").innerHTML = \'\';\n\t\t$("pwdmsg").innerHTML = \'\';\n\t\t$("loadingmsg").innerHTML = \'\';\n\t\tvar return_array=content.split("|");\n\t\tif($(return_array[0])){\n\t\t\t$(return_array[0]).innerHTML = return_array[1];\n\t\t}else if(return_array[0]==\'active\'){\n\t\t\twindow.location.href="modules.php?app=user_activation";\n\t\t}\n\t}\n}\nfunction login_unready_callback(){\n\tvar argb_div = $("loadingmsg");\n\tif($("emailmsg").innerHTML == \'\' || $("pwdmsg").innerHTML == \'\'){\n\t\targb_div.innerHTML=\'\';\n\t}else{\n\t\targb_div.innerHTML="<img src=\'skin/default/jooyea/images/login_loading.gif\' align=\'top\' >登录连接中...";\n\t}\n}\nfunction saveTmpEmail(para){\n\tvar email_time=new Date();\n\tvar login_time=new Date();\n\temail_time.setTime(email_time.getTime() +3600*1000*24*300 );\n\tlogin_time.setTime(login_time.getTime() +3600*250 );\n\tif(para==1){\n\t\tvar uemailStr=$("login_email").value;\n\t\tdocument.cookie=\'iweb_email=\'+uemailStr+\';expires=\'+ email_time.toGMTString();\n\t}\n\tdocument.cookie="IsReged=Y;expires="+ login_time.toGMTString();\n}\nfunction login(){\n\tu_email=$(\'login_email\').value;\n\tu_pws=$(\'login_pws\').value;\n\tu_hidden=0;\n\tif($(\'hidden\').checked){\n\t\tu_hidden=1;\n\t}\n\tvar ajax_login=new Ajax();\n\tajax_login.getInfo("do.php?act=login","post","app","u_email="+u_email+"&u_pws="+u_pws+"&hidden="+u_hidden,function(c){login_callback(c);},function(){login_unready_callback();});\n}\n//取得cookie值\n$(\'login_email\').value=get_cookie(\'iweb_email\');\n</script>        </div>\n        <div class="index_bottom">\n\t\n\t\t        </div>\n\t</div>\n<script type="text/javascript">\n\tfunction set_cookie_lp(lp_str){\n\t\tdocument.cookie = "lp_name=" + escape(lp_str);\n\t\twindow.location.reload();\n\t}\n</script>\n<div class="foot">\n\t<a href="about/about.html">关于我们</a>\n\t<a href="about/privacy.html">隐私安全</a>\n\t<a href="http://tech.jooyea.com/bbs/">开发者社区</a>\n\t<a href="mailto:">联系邮件</a>Powered by <strong>iWeb<b>SNS</b>1.0</strong> © 2009-2010 Jooyea.net</div>\n<div style="display: none;" class="emBg" id="face_list_menu"></div>\n<div id="append_parent"></div></div>\n<script language="JavaScript" src="servtools/ajax_client/auto_ajax.js"></script>\n\n</body></html>'
+2020-12-20 20:51:52,516 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:51:52,620 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:51:52,621 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:51:52,644 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:51:52,731 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:51:52,756 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:51:52,801 - base_page.py:[20] - INFO -138- 输入值   成功
+2020-12-20 20:51:52,822 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:51:52,863 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="f7b5806adbf37076cf1a3cb241b10344", element="12b68748-6380-4c9b-aa1f-8f2696802db1")> 成功
+2020-12-20 20:51:52,863 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:51:52,863 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:51:57,883 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:51:57,883 - test_login.py:[20] - INFO -71- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-20 20:51:57,988 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:51:58,075 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:51:58,075 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:51:58,093 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:51:58,182 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:51:58,197 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:51:58,264 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:51:58,286 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:51:58,328 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="f7b5806adbf37076cf1a3cb241b10344", element="16f04149-cfc3-4b71-bdc0-9da1e9f6cdbc")> 成功
+2020-12-20 20:51:58,328 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:51:58,328 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:52:03,349 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-20 20:52:03,349 - test_login.py:[20] - INFO -91- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-20 20:52:03,482 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:52:05,647 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="f7b5806adbf37076cf1a3cb241b10344")>成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000029EAB040D88>成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:52:56,231 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:52:56,232 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:52:56,232 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:52:56,232 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:52:56,232 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:52:59,412 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c1d5903a121df6b524f104a5f0884c42")>驱动成功
+2020-12-20 20:53:01,582 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c1d5903a121df6b524f104a5f0884c42")>成功
+2020-12-20 20:53:01,832 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:53:01,832 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:53:01,858 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:53:01,948 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-20 20:53:01,977 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:53:02,052 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:53:02,074 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:53:02,117 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="c1d5903a121df6b524f104a5f0884c42", element="0f5f947f-bd8f-4c39-8b79-b6fb01750d3f")> 成功
+2020-12-20 20:53:02,117 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:53:02,117 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:53:07,128 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:53:07,129 - test_login.py:[20] - INFO -31- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-20 20:53:07,225 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:53:07,298 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:53:07,299 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:53:07,312 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:53:07,377 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-20 20:53:07,398 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:53:07,460 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:53:07,481 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:53:07,520 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="c1d5903a121df6b524f104a5f0884c42", element="04d5069c-a300-4f93-80ee-025bb0f4b8d0")> 成功
+2020-12-20 20:53:07,520 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:53:07,520 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:53:12,536 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:53:12,536 - test_login.py:[40] - ERROR -47- 断言失败，案例不通过---------用户密码错误!不在当前页面
+Traceback (most recent call last):
+  File "D:\webapp\webUI\test_case\test_login.py", line 44, in test_b_wrong
+    self.assertIn(value2,value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1119, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '用户密码错误!' not found in '<html xmlns="http://www.w3.org/1999/xhtml"><head>\n<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">\n<meta http-equiv="Content-Language" content="zh-cn">\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n<meta name="Description" content="iwebSNS">\n<meta name="Keywords" content="iwebSNS">\n<meta name="author" content="">\n<meta name="robots" content="all">\n<title>聚易社区</title>\n<base href="http://localhost/iwebsns/">\n<link rel="stylesheet" href="skin/default/jooyea/css/layout.css">\n<script src="servtools/ajax_client/ajax.js" language="javascript"></script>\n<script src="skin/default/js/yui-utilities.js" type="text/javascript"></script>\n<script src="skin/default/js/tbra.js" type="text/javascript"></script>\n<script src="skin/default/js/jooyea.js" type="text/javascript"></script>\n<script src="servtools/md5.js" language="javascript"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDrag.js"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDialog.js"></script>\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\n</script>\n</head>\n<body id="index">\n<div class="container">\n<script type="text/javascript" language="javascript" src="skin/default/js/jy.js"></script>\n<script language="javascript">\nfunction addBookMark()\n{\n    var nome_sito = "聚易社区";\n    var url_sito = "http://localhost/iwebsns/";\n    if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt\n        (navigator.appVersion) >= 4))\n        window.external.AddFavorite(url_sito, nome_sito);\n    else if (navigator.appName == "Netscape")\n        window.sidebar.addPanel(nome_sito, url_sito, \'\');\n    else\n        parent.Dialog.alert("您的浏览器不允许脚本访问收藏夹，请手动添加！");\n}\n\nfunction setMyHomepage(url){   //  设置首页 \n\t\t if(!!(window.attachEvent && !window.opera)){\n\t\t\t\tdocument.body.style.behavior = \'url(#default#homepage)\';\n\t\t\t\tdocument.body.setHomePage(url);\n\t\t}else{\n\t\t\tif(window.clipboardData && clipboardData.setData){\n\t\t        clipboardData.setData(\'text\', url);\n\t\t    }else{\n\t\t         parent.Dialog.alert(\'您的浏览器不允许脚本访问剪切板，请手动设置！\');\n\t\t    }\n\t\t}\n}\n</script>\n<div class="head">\n    <h1><a href="index.php"><img alt="jooyea" src="skin/default/jooyea/images/snslogo.gif"></a></h1>\n    <div class="search">\n        <div class="schbox">\n           <form class="search_box" action="index.php" target="_blank" onsubmit="clear_def(this,\'输入姓名...\');">\n            <input id="searchtop_input" maxlength="20" class="inpt" type="text" name="memName" value="输入姓名..." onblur="inputTxt(this,\'set\');" onfocus="inputTxt(this,\'clean\');">\n            <input class="btn" type="submit" value="">\n        \t<input type="hidden" name="tg" value="search_pals_list">\n        </form>\n        </div>\n        <a href="javascript:goLogin();">高级搜索</a>\n    </div>\n</div>\n<div class="clear"></div>\n<div class="top_bg">\n\t<div class="nav">\n\t  <span class="left">\n\t    <a href="index.php">首页</a>\n\t    <a href="index.php?tg=search_pals_list&amp;online=1">看谁在线</a>\n\t    <a href="help/help.html">帮助</a>\n\t\t</span>\n\t  <span class="right">\n\t\t  <a href="javascript:addBookMark();">加入收藏</a>\n\t\t  <a href="javascript:setMyHomepage(\'http://localhost/iwebsns/\');">设为首页</a>\n\t\t  <a href="modules.php?app=user_reg">注册</a>\n\t\t  <a href="index.php">请登录</a>\n\t  </span>\n\t</div>\n</div>\t<div class="wrapper">\n        <div class="main">\n            <script src="skin/default/js/login.js" language="javascript"></script>\n<div class="snsidea"><a href="modules.php?app=user_reg" hidefocus="true"><img src="skin/default/jooyea/images/sns_idea1.jpg" width="664" height="314"></a></div>\n  \t<div class="login">\n        <h2>会员登录 <span id="loadingmsg"></span></h2>\n        <form name="login_form" method="post" onsubmit="return false;">\n            <p><label>登录邮箱： <span id="emailmsg" class="red">登录帐号错误，请重试</span></label><input class="input" name="login_email" id="login_email" type="text"></p>\n            <p><label>密码： <span id="pwdmsg" class="red"></span></label><input class="pwd" name="login_pws" id="login_pws" type="password"></p>\n            <p class="chk">\n                <label for="tmpiId">\n                    <input name="tmpiId" class="chk" id="tmpiId" type="checkbox" value="save" checked="checked" onkeydown="getEnt();">\n                    记住我                </label>\n                <label for="hidden">\n                \t<input name="hidden" class="chk" id="hidden" type="checkbox" value="1" onkeydown="getEnt();">\n                \t隐身登录                </label>\n            </p>\n            <p><span><a href="modules.php?app=user_forget" class="forget">忘记密码？</a></span><input type="submit" onclick="login();" class="button" name="loginsubm" id="loginsubm" hidefocus="true" value="登录"></p>\n        </form>\n\t<!--插件位置!-->\n\t<div class="index_right">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n\t</div>\n\n</div>\n<div class="clear"></div>\n<div class="main recom_user">\n\t<div class="cont">\n    \t<div class="user_holder">\n            <h2>共有9名会员活动在这里...</h2>\n    <div class="left_part">\n        <div id="MainPromotionBanner">\n            <div id="SlidePlayer">\n                <ul class="Slides">\n                                                            <li style=""><a href="#"><img src="skin/default/jooyea/images/def.jpg" alt=""></a></li>\n                                    </ul>\n            <ul class="SlideTriggers"><li class="Current">1</li></ul></div>\n        </div>\n\n        <script type="text/javascript">\n        TB.widget.SimpleSlide.decorate(\'SlidePlayer\', {eventType:\'mouse\', effect:\'scroll\'});\n        </script>\n\t</div>\n    <div class="right_part">\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=9" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="mrwu"></a></dt>\n                <dd><a href="home.php?h=9" hidefocus="true" target="_blank">mrwu</a></dd>\n                <dd class="time">昨天</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=8" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=8" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">02月13日</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=7" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=7" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">2019年11月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=6" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="wuji0121"></a></dt>\n                <dd><a href="home.php?h=6" hidefocus="true" target="_blank">wuji0..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=5" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=5" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=4" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="test22"></a></dt>\n                <dd><a href="home.php?h=4" hidefocus="true" target="_blank">test2..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=3" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=3" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=2" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wu121"></a></dt>\n                <dd><a href="home.php?h=2" hidefocus="true" target="_blank">wu121</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n            </div>\n\n        </div>\n        <div class="snsintro">\n        \t<dl>\n                <dt class="space1">个人空间</dt><dd>建立自己的空间，发表日志、照片，分</dd><dd>享生活中的点点滴滴..</dd>            </dl>\n            <dl>\n                <dt class="group2">群组/分享</dt><dd>创建自己的群组，与志同道合者讨论感</dd><dd>兴趣话题，分享交流信息...</dd>            </dl>\n            <dl>\n                <dt class="game3">游戏应用</dt><dd>与好友们一起玩超酷的互动游戏和应用</dd><dd>满足你休闲娱乐的需求...</dd>            </dl>\n        </div>\n\t</div>\n\t<!--插件位置!-->\n\t<div class="index_newMember">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\nfunction getEnt(){\n\tdocument.onkeydown = function (e){\n\t\tvar theEvent = window.event || e;\n\t\tvar code = theEvent.keyCode || theEvent.which;\n\t\tif(code == 13){\n\t\t\t  login();\n\t\t}\n\t}\n}\nfunction inputTxt(obj,act)\n{\n  var str="输入姓名...";\n  if(obj.value==\'\'&&act==\'set\')\n  {\n     obj.value=str;\n     obj.style.color=\'#cccccc\';\n  }\n  if(obj.value==str&&act==\'clean\')\n  {\n     obj.value=\'\';\n     obj.style.color=\'gray\';\n  }\n}\n//ajax\nfunction login_callback(content)\n{\n\tvar check=/\\.php/;\n\tif(check.test(content)){\n\t\t if($("tmpiId").checked){\n\t\t\tsaveTmpEmail(1);\n\t\t }else{\n\t\t\t  saveTmpEmail(0);\n\t\t }\n\t\t window.location.href=content;\n\t}else{\n\t\t$("emailmsg").innerHTML = \'\';\n\t\t$("pwdmsg").innerHTML = \'\';\n\t\t$("loadingmsg").innerHTML = \'\';\n\t\tvar return_array=content.split("|");\n\t\tif($(return_array[0])){\n\t\t\t$(return_array[0]).innerHTML = return_array[1];\n\t\t}else if(return_array[0]==\'active\'){\n\t\t\twindow.location.href="modules.php?app=user_activation";\n\t\t}\n\t}\n}\nfunction login_unready_callback(){\n\tvar argb_div = $("loadingmsg");\n\tif($("emailmsg").innerHTML == \'\' || $("pwdmsg").innerHTML == \'\'){\n\t\targb_div.innerHTML=\'\';\n\t}else{\n\t\targb_div.innerHTML="<img src=\'skin/default/jooyea/images/login_loading.gif\' align=\'top\' >登录连接中...";\n\t}\n}\nfunction saveTmpEmail(para){\n\tvar email_time=new Date();\n\tvar login_time=new Date();\n\temail_time.setTime(email_time.getTime() +3600*1000*24*300 );\n\tlogin_time.setTime(login_time.getTime() +3600*250 );\n\tif(para==1){\n\t\tvar uemailStr=$("login_email").value;\n\t\tdocument.cookie=\'iweb_email=\'+uemailStr+\';expires=\'+ email_time.toGMTString();\n\t}\n\tdocument.cookie="IsReged=Y;expires="+ login_time.toGMTString();\n}\nfunction login(){\n\tu_email=$(\'login_email\').value;\n\tu_pws=$(\'login_pws\').value;\n\tu_hidden=0;\n\tif($(\'hidden\').checked){\n\t\tu_hidden=1;\n\t}\n\tvar ajax_login=new Ajax();\n\tajax_login.getInfo("do.php?act=login","post","app","u_email="+u_email+"&u_pws="+u_pws+"&hidden="+u_hidden,function(c){login_callback(c);},function(){login_unready_callback();});\n}\n//取得cookie值\n$(\'login_email\').value=get_cookie(\'iweb_email\');\n</script>        </div>\n        <div class="index_bottom">\n\t\n\t\t        </div>\n\t</div>\n<script type="text/javascript">\n\tfunction set_cookie_lp(lp_str){\n\t\tdocument.cookie = "lp_name=" + escape(lp_str);\n\t\twindow.location.reload();\n\t}\n</script>\n<div class="foot">\n\t<a href="about/about.html">关于我们</a>\n\t<a href="about/privacy.html">隐私安全</a>\n\t<a href="http://tech.jooyea.com/bbs/">开发者社区</a>\n\t<a href="mailto:">联系邮件</a>Powered by <strong>iWeb<b>SNS</b>1.0</strong> © 2009-2010 Jooyea.net</div>\n<div style="display: none;" class="emBg" id="face_list_menu"></div>\n<div id="append_parent"></div></div>\n<script language="JavaScript" src="servtools/ajax_client/auto_ajax.js"></script>\n\n</body></html>'
+2020-12-20 20:53:12,643 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:53:12,718 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:53:12,718 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:53:12,739 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:53:12,829 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:53:12,854 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:53:12,900 - base_page.py:[20] - INFO -138- 输入值   成功
+2020-12-20 20:53:12,921 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:53:12,962 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="c1d5903a121df6b524f104a5f0884c42", element="73360a1b-c2c3-409d-a2d6-362ad4c74bfe")> 成功
+2020-12-20 20:53:12,963 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:53:12,963 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:53:17,980 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:53:17,980 - test_login.py:[20] - INFO -71- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-20 20:53:18,049 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:53:18,118 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:53:18,118 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:53:18,137 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:53:18,221 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:53:18,240 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:53:18,309 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:53:18,327 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:53:18,366 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="c1d5903a121df6b524f104a5f0884c42", element="22955b70-9eae-44cf-8879-0d3144f47ba3")> 成功
+2020-12-20 20:53:18,366 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:53:18,366 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:53:23,374 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-20 20:53:23,374 - test_login.py:[20] - INFO -91- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-20 20:53:23,498 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:53:25,659 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c1d5903a121df6b524f104a5f0884c42")>成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002834F283F88>成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:53:50,248 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:53:50,249 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:53:50,249 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:53:53,488 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9a308391ed511b7143e730888efdfebe")>驱动成功
+2020-12-20 20:53:55,666 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="9a308391ed511b7143e730888efdfebe")>成功
+2020-12-20 20:53:55,924 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:53:55,925 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:53:55,949 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:53:56,013 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-20 20:53:56,044 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:53:56,107 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:53:56,130 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:53:56,174 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="9a308391ed511b7143e730888efdfebe", element="132ccec8-2367-4543-b78b-e0356d42c777")> 成功
+2020-12-20 20:53:56,174 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:53:56,174 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:54:01,190 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:54:01,190 - test_login.py:[40] - ERROR -47- 断言失败，案例不通过---------用户密码错误!不在当前页面
+Traceback (most recent call last):
+  File "D:\webapp\webUI\test_case\test_login.py", line 44, in test_b_wrong
+    self.assertIn(value2,value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1119, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '用户密码错误!' not found in '<html xmlns="http://www.w3.org/1999/xhtml"><head>\n<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">\n<meta http-equiv="Content-Language" content="zh-cn">\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n<meta name="Description" content="iwebSNS">\n<meta name="Keywords" content="iwebSNS">\n<meta name="author" content="">\n<meta name="robots" content="all">\n<title>聚易社区</title>\n<base href="http://localhost/iwebsns/">\n<link rel="stylesheet" href="skin/default/jooyea/css/layout.css">\n<script src="servtools/ajax_client/ajax.js" language="javascript"></script>\n<script src="skin/default/js/yui-utilities.js" type="text/javascript"></script>\n<script src="skin/default/js/tbra.js" type="text/javascript"></script>\n<script src="skin/default/js/jooyea.js" type="text/javascript"></script>\n<script src="servtools/md5.js" language="javascript"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDrag.js"></script>\n<script type="text/javascript" language="javascript" src="servtools/dialog/zDialog.js"></script>\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\n</script>\n</head>\n<body id="index">\n<div class="container">\n<script type="text/javascript" language="javascript" src="skin/default/js/jy.js"></script>\n<script language="javascript">\nfunction addBookMark()\n{\n    var nome_sito = "聚易社区";\n    var url_sito = "http://localhost/iwebsns/";\n    if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt\n        (navigator.appVersion) >= 4))\n        window.external.AddFavorite(url_sito, nome_sito);\n    else if (navigator.appName == "Netscape")\n        window.sidebar.addPanel(nome_sito, url_sito, \'\');\n    else\n        parent.Dialog.alert("您的浏览器不允许脚本访问收藏夹，请手动添加！");\n}\n\nfunction setMyHomepage(url){   //  设置首页 \n\t\t if(!!(window.attachEvent && !window.opera)){\n\t\t\t\tdocument.body.style.behavior = \'url(#default#homepage)\';\n\t\t\t\tdocument.body.setHomePage(url);\n\t\t}else{\n\t\t\tif(window.clipboardData && clipboardData.setData){\n\t\t        clipboardData.setData(\'text\', url);\n\t\t    }else{\n\t\t         parent.Dialog.alert(\'您的浏览器不允许脚本访问剪切板，请手动设置！\');\n\t\t    }\n\t\t}\n}\n</script>\n<div class="head">\n    <h1><a href="index.php"><img alt="jooyea" src="skin/default/jooyea/images/snslogo.gif"></a></h1>\n    <div class="search">\n        <div class="schbox">\n           <form class="search_box" action="index.php" target="_blank" onsubmit="clear_def(this,\'输入姓名...\');">\n            <input id="searchtop_input" maxlength="20" class="inpt" type="text" name="memName" value="输入姓名..." onblur="inputTxt(this,\'set\');" onfocus="inputTxt(this,\'clean\');">\n            <input class="btn" type="submit" value="">\n        \t<input type="hidden" name="tg" value="search_pals_list">\n        </form>\n        </div>\n        <a href="javascript:goLogin();">高级搜索</a>\n    </div>\n</div>\n<div class="clear"></div>\n<div class="top_bg">\n\t<div class="nav">\n\t  <span class="left">\n\t    <a href="index.php">首页</a>\n\t    <a href="index.php?tg=search_pals_list&amp;online=1">看谁在线</a>\n\t    <a href="help/help.html">帮助</a>\n\t\t</span>\n\t  <span class="right">\n\t\t  <a href="javascript:addBookMark();">加入收藏</a>\n\t\t  <a href="javascript:setMyHomepage(\'http://localhost/iwebsns/\');">设为首页</a>\n\t\t  <a href="modules.php?app=user_reg">注册</a>\n\t\t  <a href="index.php">请登录</a>\n\t  </span>\n\t</div>\n</div>\t<div class="wrapper">\n        <div class="main">\n            <script src="skin/default/js/login.js" language="javascript"></script>\n<div class="snsidea"><a href="modules.php?app=user_reg" hidefocus="true"><img src="skin/default/jooyea/images/sns_idea1.jpg" width="664" height="314"></a></div>\n  \t<div class="login">\n        <h2>会员登录 <span id="loadingmsg"></span></h2>\n        <form name="login_form" method="post" onsubmit="return false;">\n            <p><label>登录邮箱： <span id="emailmsg" class="red">登录帐号错误，请重试</span></label><input class="input" name="login_email" id="login_email" type="text"></p>\n            <p><label>密码： <span id="pwdmsg" class="red"></span></label><input class="pwd" name="login_pws" id="login_pws" type="password"></p>\n            <p class="chk">\n                <label for="tmpiId">\n                    <input name="tmpiId" class="chk" id="tmpiId" type="checkbox" value="save" checked="checked" onkeydown="getEnt();">\n                    记住我                </label>\n                <label for="hidden">\n                \t<input name="hidden" class="chk" id="hidden" type="checkbox" value="1" onkeydown="getEnt();">\n                \t隐身登录                </label>\n            </p>\n            <p><span><a href="modules.php?app=user_forget" class="forget">忘记密码？</a></span><input type="submit" onclick="login();" class="button" name="loginsubm" id="loginsubm" hidefocus="true" value="登录"></p>\n        </form>\n\t<!--插件位置!-->\n\t<div class="index_right">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n\t</div>\n\n</div>\n<div class="clear"></div>\n<div class="main recom_user">\n\t<div class="cont">\n    \t<div class="user_holder">\n            <h2>共有9名会员活动在这里...</h2>\n    <div class="left_part">\n        <div id="MainPromotionBanner">\n            <div id="SlidePlayer">\n                <ul class="Slides">\n                                                            <li style=""><a href="#"><img src="skin/default/jooyea/images/def.jpg" alt=""></a></li>\n                                    </ul>\n            <ul class="SlideTriggers"><li class="Current">1</li></ul></div>\n        </div>\n\n        <script type="text/javascript">\n        TB.widget.SimpleSlide.decorate(\'SlidePlayer\', {eventType:\'mouse\', effect:\'scroll\'});\n        </script>\n\t</div>\n    <div class="right_part">\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=9" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="mrwu"></a></dt>\n                <dd><a href="home.php?h=9" hidefocus="true" target="_blank">mrwu</a></dd>\n                <dd class="time">昨天</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=8" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=8" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">02月13日</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=7" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wuji"></a></dt>\n                <dd><a href="home.php?h=7" hidefocus="true" target="_blank">wuji</a></dd>\n                <dd class="time">2019年11月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=6" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="wuji0121"></a></dt>\n                <dd><a href="home.php?h=6" hidefocus="true" target="_blank">wuji0..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=5" target="_blank"><img src="skin/default/jooyea/images/d_ico_0_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=5" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=4" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="test22"></a></dt>\n                <dd><a href="home.php?h=4" hidefocus="true" target="_blank">test2..</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=3" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="root"></a></dt>\n                <dd><a href="home.php?h=3" hidefocus="true" target="_blank">root</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n                    <dl>\n                <dt><a class="avatar" hidefocus="true" href="home.php?h=2" target="_blank"><img src="skin/default/jooyea/images/d_ico_1_small.gif" alt="wu121"></a></dt>\n                <dd><a href="home.php?h=2" hidefocus="true" target="_blank">wu121</a></dd>\n                <dd class="time">2019年10月</dd>\n            </dl>\n            </div>\n\n        </div>\n        <div class="snsintro">\n        \t<dl>\n                <dt class="space1">个人空间</dt><dd>建立自己的空间，发表日志、照片，分</dd><dd>享生活中的点点滴滴..</dd>            </dl>\n            <dl>\n                <dt class="group2">群组/分享</dt><dd>创建自己的群组，与志同道合者讨论感</dd><dd>兴趣话题，分享交流信息...</dd>            </dl>\n            <dl>\n                <dt class="game3">游戏应用</dt><dd>与好友们一起玩超酷的互动游戏和应用</dd><dd>满足你休闲娱乐的需求...</dd>            </dl>\n        </div>\n\t</div>\n\t<!--插件位置!-->\n\t<div class="index_newMember">\n\t\t\n\t\t\t</div>\n\t<!--插件位置!-->\n<script language="javascript">\nfunction goLogin(){\n\tDialog.confirm("登录后才能执行操作,现在登录？",function(){top.location="index.php";});\n}\nfunction getEnt(){\n\tdocument.onkeydown = function (e){\n\t\tvar theEvent = window.event || e;\n\t\tvar code = theEvent.keyCode || theEvent.which;\n\t\tif(code == 13){\n\t\t\t  login();\n\t\t}\n\t}\n}\nfunction inputTxt(obj,act)\n{\n  var str="输入姓名...";\n  if(obj.value==\'\'&&act==\'set\')\n  {\n     obj.value=str;\n     obj.style.color=\'#cccccc\';\n  }\n  if(obj.value==str&&act==\'clean\')\n  {\n     obj.value=\'\';\n     obj.style.color=\'gray\';\n  }\n}\n//ajax\nfunction login_callback(content)\n{\n\tvar check=/\\.php/;\n\tif(check.test(content)){\n\t\t if($("tmpiId").checked){\n\t\t\tsaveTmpEmail(1);\n\t\t }else{\n\t\t\t  saveTmpEmail(0);\n\t\t }\n\t\t window.location.href=content;\n\t}else{\n\t\t$("emailmsg").innerHTML = \'\';\n\t\t$("pwdmsg").innerHTML = \'\';\n\t\t$("loadingmsg").innerHTML = \'\';\n\t\tvar return_array=content.split("|");\n\t\tif($(return_array[0])){\n\t\t\t$(return_array[0]).innerHTML = return_array[1];\n\t\t}else if(return_array[0]==\'active\'){\n\t\t\twindow.location.href="modules.php?app=user_activation";\n\t\t}\n\t}\n}\nfunction login_unready_callback(){\n\tvar argb_div = $("loadingmsg");\n\tif($("emailmsg").innerHTML == \'\' || $("pwdmsg").innerHTML == \'\'){\n\t\targb_div.innerHTML=\'\';\n\t}else{\n\t\targb_div.innerHTML="<img src=\'skin/default/jooyea/images/login_loading.gif\' align=\'top\' >登录连接中...";\n\t}\n}\nfunction saveTmpEmail(para){\n\tvar email_time=new Date();\n\tvar login_time=new Date();\n\temail_time.setTime(email_time.getTime() +3600*1000*24*300 );\n\tlogin_time.setTime(login_time.getTime() +3600*250 );\n\tif(para==1){\n\t\tvar uemailStr=$("login_email").value;\n\t\tdocument.cookie=\'iweb_email=\'+uemailStr+\';expires=\'+ email_time.toGMTString();\n\t}\n\tdocument.cookie="IsReged=Y;expires="+ login_time.toGMTString();\n}\nfunction login(){\n\tu_email=$(\'login_email\').value;\n\tu_pws=$(\'login_pws\').value;\n\tu_hidden=0;\n\tif($(\'hidden\').checked){\n\t\tu_hidden=1;\n\t}\n\tvar ajax_login=new Ajax();\n\tajax_login.getInfo("do.php?act=login","post","app","u_email="+u_email+"&u_pws="+u_pws+"&hidden="+u_hidden,function(c){login_callback(c);},function(){login_unready_callback();});\n}\n//取得cookie值\n$(\'login_email\').value=get_cookie(\'iweb_email\');\n</script>        </div>\n        <div class="index_bottom">\n\t\n\t\t        </div>\n\t</div>\n<script type="text/javascript">\n\tfunction set_cookie_lp(lp_str){\n\t\tdocument.cookie = "lp_name=" + escape(lp_str);\n\t\twindow.location.reload();\n\t}\n</script>\n<div class="foot">\n\t<a href="about/about.html">关于我们</a>\n\t<a href="about/privacy.html">隐私安全</a>\n\t<a href="http://tech.jooyea.com/bbs/">开发者社区</a>\n\t<a href="mailto:">联系邮件</a>Powered by <strong>iWeb<b>SNS</b>1.0</strong> © 2009-2010 Jooyea.net</div>\n<div style="display: none;" class="emBg" id="face_list_menu"></div>\n<div id="append_parent"></div></div>\n<script language="JavaScript" src="servtools/ajax_client/auto_ajax.js"></script>\n\n</body></html>'
+2020-12-20 20:54:01,302 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:54:03,465 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="9a308391ed511b7143e730888efdfebe")>成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002587FFE9548>成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:54:17,979 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:54:17,980 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:17,980 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:54:21,238 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c914fea52f1cae9c38b7902816273833")>驱动成功
+2020-12-20 20:54:23,405 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c914fea52f1cae9c38b7902816273833")>成功
+2020-12-20 20:54:23,659 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:54:23,660 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:54:23,690 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:54:23,790 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:54:23,812 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:54:23,877 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-20 20:54:23,901 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:54:23,943 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="c914fea52f1cae9c38b7902816273833", element="609dcf26-61fe-4596-b96a-cc306ba8a07a")> 成功
+2020-12-20 20:54:23,943 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:54:23,943 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:54:28,966 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:54:28,966 - test_login.py:[20] - INFO -51- 断言成功，案例通过，当前页面网址-----------用户密码错误!在当前页面
+2020-12-20 20:54:29,071 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:54:31,223 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="c914fea52f1cae9c38b7902816273833")>成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000019D8AF05308>成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-20 20:54:36,023 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-20 20:54:39,219 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="aa7c3a9b12ba80b94c14f8d99026ab51")>驱动成功
+2020-12-20 20:54:41,376 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="aa7c3a9b12ba80b94c14f8d99026ab51")>成功
+2020-12-20 20:54:41,620 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:54:41,621 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:54:41,651 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:54:41,736 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-20 20:54:41,762 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:54:41,830 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:54:41,850 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:54:41,896 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="aa7c3a9b12ba80b94c14f8d99026ab51", element="c3af38fa-97ca-4382-b8c0-4ad36063539e")> 成功
+2020-12-20 20:54:41,896 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:54:41,896 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:54:46,912 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:54:46,912 - test_login.py:[20] - INFO -31- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-20 20:54:46,996 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:54:47,088 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:54:47,088 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:54:47,107 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:54:47,190 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:54:47,206 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:54:47,272 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-20 20:54:47,293 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:54:47,330 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="aa7c3a9b12ba80b94c14f8d99026ab51", element="160304bb-c296-4caa-9e8c-929bee3cce39")> 成功
+2020-12-20 20:54:47,330 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:54:47,330 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:54:52,350 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:54:52,351 - test_login.py:[20] - INFO -51- 断言成功，案例通过，当前页面网址-----------用户密码错误!在当前页面
+2020-12-20 20:54:52,435 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:54:52,533 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:54:52,533 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:54:52,554 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:54:52,645 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:54:52,668 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:54:52,714 - base_page.py:[20] - INFO -138- 输入值   成功
+2020-12-20 20:54:52,734 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:54:52,774 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="aa7c3a9b12ba80b94c14f8d99026ab51", element="761fcd07-579d-4981-a223-501365f4aa75")> 成功
+2020-12-20 20:54:52,774 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:54:52,774 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:54:57,784 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-20 20:54:57,784 - test_login.py:[20] - INFO -71- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-20 20:54:57,853 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:54:57,917 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-20 20:54:57,917 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-20 20:54:57,934 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-20 20:54:58,018 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-20 20:54:58,033 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-20 20:54:58,100 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-20 20:54:58,114 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-20 20:54:58,154 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="aa7c3a9b12ba80b94c14f8d99026ab51", element="f2613b36-2573-437f-9031-adedc697e662")> 成功
+2020-12-20 20:54:58,154 - login_page.py:[20] - INFO -28- ---------------------------登录中------------------------------------
+2020-12-20 20:54:58,154 - login_page.py:[20] - INFO -56- 登录成功
+2020-12-20 20:55:03,175 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-20 20:55:03,176 - test_login.py:[20] - INFO -91- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-20 20:55:03,291 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-20 20:55:05,455 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="aa7c3a9b12ba80b94c14f8d99026ab51")>成功

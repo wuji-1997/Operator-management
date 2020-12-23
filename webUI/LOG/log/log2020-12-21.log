@@ -1,0 +1,274 @@
+2020-12-21 11:43:06,677 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 11:44:26,541 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 11:45:04,226 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 11:45:47,789 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 11:45:47,846 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002598A13F548>成功
+2020-12-21 11:45:47,847 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"序号"成功
+2020-12-21 11:46:55,964 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 11:46:56,021 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000018082425488>成功
+2020-12-21 11:46:56,022 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"序号"成功
+2020-12-21 16:17:38,326 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:18:18,202 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:18:18,264 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001B204205508>成功
+2020-12-21 16:18:18,265 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"序号"成功
+2020-12-21 16:20:10,472 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:20:10,496 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001EA13BB8188>成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:20:10,497 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:20:14,515 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="5a278a09836b19f9fc048f72231cdf8c")>驱动成功
+2020-12-21 16:20:16,680 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="5a278a09836b19f9fc048f72231cdf8c")>成功
+2020-12-21 16:20:17,003 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:20:17,003 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:20:17,025 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:20:17,093 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:20:17,118 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:20:17,187 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:20:17,205 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:20:17,249 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="5a278a09836b19f9fc048f72231cdf8c", element="14c2c3e5-97d9-48a7-bfa1-71127f02489a")> 成功
+2020-12-21 16:20:17,249 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:20:17,250 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:20:22,260 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:20:22,260 - test_login.py:[20] - INFO -32- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-21 16:20:22,372 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:20:24,535 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="5a278a09836b19f9fc048f72231cdf8c")>成功
+2020-12-21 16:37:34,417 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000028ADAF7EDC8>成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:37:34,441 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:37:34,442 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:37:34,442 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:37:34,442 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:37:38,107 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="30ff6066d8e3a3d25825f0a7b97ec233")>驱动成功
+2020-12-21 16:37:40,239 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="30ff6066d8e3a3d25825f0a7b97ec233")>成功
+2020-12-21 16:37:40,549 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:37:40,550 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:37:40,584 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:37:40,689 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:37:40,714 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:37:40,789 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:37:40,807 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:37:40,851 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="30ff6066d8e3a3d25825f0a7b97ec233", element="e0ae0ddc-7db2-48e8-98c7-f15b00a7a927")> 成功
+2020-12-21 16:37:40,851 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:37:40,851 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:37:46,272 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:37:46,272 - test_login.py:[20] - INFO -35- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-21 16:37:46,388 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:37:48,573 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="30ff6066d8e3a3d25825f0a7b97ec233")>成功
+2020-12-21 16:39:34,844 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001A44C3BF748>成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:39:34,868 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:39:34,869 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:39:38,525 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f08c525602ac85b8f7807f42f2780700")>驱动成功
+2020-12-21 16:39:40,695 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="f08c525602ac85b8f7807f42f2780700")>成功
+2020-12-21 16:39:40,973 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:39:40,974 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:39:41,003 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:39:41,103 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-21 16:39:41,126 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:39:41,197 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-21 16:39:41,215 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:39:41,259 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="f08c525602ac85b8f7807f42f2780700", element="cf1ae0b1-8086-44e3-b687-106eabfde4cc")> 成功
+2020-12-21 16:39:41,260 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:39:41,260 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:39:46,676 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:39:46,676 - test_login.py:[20] - INFO -56- 断言成功，案例通过，当前页面网址-----------用户密码错误!在当前页面
+2020-12-21 16:39:46,785 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:39:49,028 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="f08c525602ac85b8f7807f42f2780700")>成功
+2020-12-21 16:40:09,770 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:40:09,800 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001B93F1EF548>成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:40:09,801 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:40:13,463 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="11404c51a824fb03c6b8c91bdf344290")>驱动成功
+2020-12-21 16:40:15,631 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="11404c51a824fb03c6b8c91bdf344290")>成功
+2020-12-21 16:40:15,926 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:40:15,926 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:40:15,963 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:40:16,070 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-21 16:40:16,097 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:40:16,165 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:40:16,187 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:40:16,227 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="11404c51a824fb03c6b8c91bdf344290", element="246c6abd-ea62-4020-82ba-1152505a24d0")> 成功
+2020-12-21 16:40:16,227 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:40:16,227 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:40:21,573 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-21 16:40:21,573 - test_login.py:[20] - INFO -98- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-21 16:40:21,721 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:40:23,921 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="11404c51a824fb03c6b8c91bdf344290")>成功
+2020-12-21 16:43:28,386 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:43:28,409 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x00000248440C84C8>成功
+2020-12-21 16:43:28,409 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:43:28,409 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:43:28,410 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:43:32,077 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="16995e63e9b5c4e119ceb4428bb4f706")>驱动成功
+2020-12-21 16:43:34,225 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="16995e63e9b5c4e119ceb4428bb4f706")>成功
+2020-12-21 16:43:34,510 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:43:34,510 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:43:34,540 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:43:34,613 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:43:34,637 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:43:34,697 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:43:34,719 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:43:34,765 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="16995e63e9b5c4e119ceb4428bb4f706", element="765a92e5-e02f-4a22-ab6a-e6f209ef9881")> 成功
+2020-12-21 16:43:34,765 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:43:34,765 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:43:40,186 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:43:40,186 - test_login.py:[20] - INFO -35- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-21 16:43:40,288 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:43:42,464 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="16995e63e9b5c4e119ceb4428bb4f706")>成功
+2020-12-21 16:49:45,428 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:49:45,454 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000022A32ECF788>成功
+2020-12-21 16:49:45,454 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:49:45,455 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:49:49,128 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="0df0ba375271adc68200e8d6d55df157")>驱动成功
+2020-12-21 16:49:51,300 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0df0ba375271adc68200e8d6d55df157")>成功
+2020-12-21 16:49:51,581 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:49:51,581 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:49:51,613 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:49:51,700 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:49:51,730 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:49:51,808 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:49:51,830 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:49:51,876 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="0df0ba375271adc68200e8d6d55df157", element="5b12946c-2345-46ec-bb01-00c8890b6f8e")> 成功
+2020-12-21 16:49:51,876 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:49:51,877 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:49:56,996 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:49:59,168 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0df0ba375271adc68200e8d6d55df157")>成功
+2020-12-21 16:50:39,298 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000001CDA0DAEBC8>成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:50:39,324 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:50:39,325 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:50:39,325 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:50:39,325 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:50:39,325 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:50:42,963 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="ba082d40ef4b17b61dea1358e40f9f6e")>驱动成功
+2020-12-21 16:50:45,127 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="ba082d40ef4b17b61dea1358e40f9f6e")>成功
+2020-12-21 16:50:45,409 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:50:45,409 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:50:45,434 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:50:45,531 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:50:45,555 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:50:45,628 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:50:45,651 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:50:45,696 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="ba082d40ef4b17b61dea1358e40f9f6e", element="aca4691a-166f-4299-9e76-be546d8b01d6")> 成功
+2020-12-21 16:50:45,696 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:50:45,696 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:50:51,115 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:50:51,115 - test_login.py:[20] - INFO -35- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-21 16:50:51,207 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:50:53,586 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="ba082d40ef4b17b61dea1358e40f9f6e")>成功
+2020-12-21 16:51:28,480 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-21 16:51:28,507 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x000002043D55F848>成功
+2020-12-21 16:51:28,507 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:51:28,507 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-21 16:51:28,507 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-21 16:51:28,507 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-21 16:51:28,508 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-21 16:51:32,121 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="0dff502974a0e484649d89d44b1c0a45")>驱动成功
+2020-12-21 16:51:34,295 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0dff502974a0e484649d89d44b1c0a45")>成功
+2020-12-21 16:51:34,599 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:51:34,599 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:51:34,622 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:51:34,685 - base_page.py:[20] - INFO -138- 输入值  13382197195# 成功
+2020-12-21 16:51:34,709 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:51:34,761 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:51:34,783 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:51:34,831 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="0dff502974a0e484649d89d44b1c0a45", element="63239f9a-7173-4b94-ba59-a4e4591bab4f")> 成功
+2020-12-21 16:51:34,832 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:51:34,832 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:51:40,261 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:51:40,261 - test_login.py:[20] - INFO -35- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-21 16:51:40,379 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:51:40,470 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:51:40,471 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:51:40,487 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:51:40,589 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-21 16:51:40,614 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:51:40,683 - base_page.py:[20] - INFO -138- 输入值  wuji1235 成功
+2020-12-21 16:51:40,704 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:51:40,743 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="0dff502974a0e484649d89d44b1c0a45", element="6a7f7231-3445-43fc-bb8e-5885803c0662")> 成功
+2020-12-21 16:51:40,744 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:51:40,744 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:51:46,231 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:51:46,231 - test_login.py:[20] - INFO -56- 断言成功，案例通过，当前页面网址-----------用户密码错误!在当前页面
+2020-12-21 16:51:46,350 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:51:46,429 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:51:46,430 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:51:46,452 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:51:46,542 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-21 16:51:46,564 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:51:46,605 - base_page.py:[20] - INFO -138- 输入值   成功
+2020-12-21 16:51:46,632 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:51:46,672 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="0dff502974a0e484649d89d44b1c0a45", element="5da9d877-2032-45bd-bc07-247dfb1aecfe")> 成功
+2020-12-21 16:51:46,673 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:51:46,673 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:51:52,098 - base_page.py:[20] - INFO -213- 获取当前页面源码成功
+2020-12-21 16:51:52,098 - test_login.py:[20] - INFO -77- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-21 16:51:52,202 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:51:52,284 - base_page.py:[20] - INFO -42- open url"http://localhost/iwebsns/index.php" success !
+2020-12-21 16:51:52,284 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-21 16:51:52,301 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_email')成功
+2020-12-21 16:51:52,384 - base_page.py:[20] - INFO -138- 输入值  13382197195@189.cn 成功
+2020-12-21 16:51:52,403 - base_page.py:[20] - INFO -58- 定位元素('id', 'login_pws')成功
+2020-12-21 16:51:52,473 - base_page.py:[20] - INFO -138- 输入值  wuji0121 成功
+2020-12-21 16:51:52,494 - base_page.py:[20] - INFO -58- 定位元素('id', 'loginsubm')成功
+2020-12-21 16:51:52,540 - base_page.py:[20] - INFO -154- 点击元素  <selenium.webdriver.remote.webelement.WebElement (session="0dff502974a0e484649d89d44b1c0a45", element="d8b6d927-6be9-423e-9a28-81e9581e2397")> 成功
+2020-12-21 16:51:52,540 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-21 16:51:52,540 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-21 16:51:57,880 - base_page.py:[20] - INFO -204- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-21 16:51:57,881 - test_login.py:[20] - INFO -98- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-21 16:51:58,068 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-21 16:52:00,227 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="0dff502974a0e484649d89d44b1c0a45")>成功

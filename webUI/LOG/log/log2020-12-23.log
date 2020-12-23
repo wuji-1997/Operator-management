@@ -1,0 +1,416 @@
+2020-12-23 10:34:51,430 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,431 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,432 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,432 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,433 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,434 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:34:51,822 - sendemail.py:[40] - ERROR -57- 邮件发送失败
+Traceback (most recent call last):
+  File "D:/webapp/webUI/common/sendemail.py", line 52, in send_email
+    smtp.login(user, pws)  # 登录，需要传入用户名和授权码
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (550, b'User has no permission')
+2020-12-23 10:49:00,212 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,212 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,213 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,213 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,214 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,214 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:49:00,642 - sendemail.py:[40] - ERROR -62- 邮件发送失败
+Traceback (most recent call last):
+  File "D:/webapp/webUI/common/sendemail.py", line 57, in send_email
+    smtp.login(user, pws)  # 登录，需要传入用户名和授权码
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (550, b'User has no permission')
+2020-12-23 10:52:38,558 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:38,558 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:38,559 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:38,559 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:38,559 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:38,560 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 10:52:39,840 - sendemail.py:[20] - INFO -65- 邮件发送成功
+2020-12-23 11:23:00,195 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:00,195 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:00,196 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:00,196 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:00,197 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:00,197 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 11:23:01,225 - sendemail.py:[20] - INFO -65- 邮件发送成功
+2020-12-23 14:51:05,347 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,474 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,475 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,475 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,475 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,476 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000020D2FCA9848>成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:51:05,716 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000020D2FCC1A08>成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"class"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"app_blog"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"新建日志"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"blog_title"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"test"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"添加分类"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"new_sort_name"成功
+2020-12-23 14:51:05,727 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试008"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="newSort"]/input[2]"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"blog_sort_list"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试008"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"KINDEDITORBODY"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"自动化测试案例"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="iframecontent"]/form/table/tbody/tr[8]/td/input[1]"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"tag"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"selenium"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"标题变更"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,728 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"删除"成功
+2020-12-23 14:51:05,729 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,729 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"编辑"成功
+2020-12-23 14:51:05,729 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"标题变更"成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000020D2FD0F908>成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"class"成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"app_album"成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"新建相册"成功
+2020-12-23 14:51:05,736 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试新建相册"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_information"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试截图"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"tag"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"自动化测试相册"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"action"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"上传相片"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_name"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试新建相册"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"切换上传方式"成功
+2020-12-23 14:51:05,737 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="attach[]"]"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"D:\\webapp\\webUI\\data\\phone.png"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="normal_upload"]/tbody/tr[6]/td/input"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="isns_album:12:"]/dd[6]/a[2]"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="isns_album:12:"]/dd[6]/a[1]"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"变成名称"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:51:05,738 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="iframecontent"]/form/table/tbody/tr[5]/td[2]/input"成功
+2020-12-23 14:51:08,964 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="eb8b0a39a9aa389cd10d34ddd3f3a175")>驱动成功
+2020-12-23 14:52:03,512 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,612 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,613 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,613 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,614 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,614 - readini.py:[20] - INFO -33- 从配置文件D:\webapp\webUI\config\config.ini中读取数据成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000022A062EF748>成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_email"成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195@189.cn"成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"13382197195#"成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:52:03,773 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"login_pws"成功
+2020-12-23 14:52:03,774 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji0121"成功
+2020-12-23 14:52:03,774 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"wuji1235"成功
+2020-12-23 14:52:03,774 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:52:03,774 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"loginsubm"成功
+2020-12-23 14:52:03,785 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000022A063765C8>成功
+2020-12-23 14:52:03,785 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"class"成功
+2020-12-23 14:52:03,785 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"app_blog"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"新建日志"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"blog_title"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"test"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"添加分类"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"new_sort_name"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试008"成功
+2020-12-23 14:52:03,786 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="newSort"]/input[2]"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"blog_sort_list"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试008"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"id"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"KINDEDITORBODY"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"自动化测试案例"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="iframecontent"]/form/table/tbody/tr[8]/td/input[1]"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"tag"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"selenium"成功
+2020-12-23 14:52:03,787 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"标题变更"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"删除"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"编辑"成功
+2020-12-23 14:52:03,788 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"标题变更"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -30- 打开EXCEL文件<xlrd.book.Book object at 0x0000022A0639A5C8>成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"class"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"app_album"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"新建相册"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,797 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_name"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试新建相册"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_information"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试截图"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"tag"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"自动化测试相册"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"action"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"上传相片"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"name"成功
+2020-12-23 14:52:03,798 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"album_name"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"测试新建相册"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"link_text"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"切换上传方式"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="attach[]"]"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"D:\\webapp\\webUI\\data\\phone.png"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="normal_upload"]/tbody/tr[6]/td/input"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="isns_album:13:"]/dd[6]/a[2]"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="isns_album:13:"]/dd[6]/a[1]"成功
+2020-12-23 14:52:03,799 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"变成名称"成功
+2020-12-23 14:52:03,800 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"xpath"成功
+2020-12-23 14:52:03,800 - readexcel.py:[20] - INFO -45- 从EXCEL文件中获取值"//*[@id="iframecontent"]/form/table/tbody/tr[5]/td[2]/input"成功
+2020-12-23 14:52:07,034 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="11ebb0e5f9dcf9ea1cb3b253bcbd4d02")>驱动成功
+2020-12-23 14:52:09,205 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="11ebb0e5f9dcf9ea1cb3b253bcbd4d02")>成功
+2020-12-23 14:52:09,511 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:52:09,512 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:52:09,540 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:52:09,634 - base_page.py:[20] - INFO -140- 输入值  13382197195# 成功
+2020-12-23 14:52:09,665 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:52:09,730 - base_page.py:[20] - INFO -140- 输入值  wuji0121 成功
+2020-12-23 14:52:09,752 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:52:09,795 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:09,795 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:52:09,795 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:52:15,204 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:52:15,205 - test_a_login.py:[20] - INFO -35- 断言成功，案例通过，当前页面网址-----------登录帐号错误，请重试在当前页面
+2020-12-23 14:52:15,307 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:52:15,396 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:52:15,396 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:52:15,416 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:52:15,502 - base_page.py:[20] - INFO -140- 输入值  13382197195@189.cn 成功
+2020-12-23 14:52:15,519 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:52:15,586 - base_page.py:[20] - INFO -140- 输入值  wuji1235 成功
+2020-12-23 14:52:15,606 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:52:15,650 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:15,650 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:52:15,650 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:52:21,081 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:52:21,081 - test_a_login.py:[20] - INFO -56- 断言成功，案例通过，当前页面网址-----------用户密码错误!在当前页面
+2020-12-23 14:52:21,184 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:52:21,250 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:52:21,251 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:52:21,272 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:52:21,360 - base_page.py:[20] - INFO -140- 输入值  13382197195@189.cn 成功
+2020-12-23 14:52:21,380 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:52:21,425 - base_page.py:[20] - INFO -140- 输入值   成功
+2020-12-23 14:52:21,447 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:52:21,490 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:21,490 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:52:21,490 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:52:26,903 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:52:26,904 - test_a_login.py:[20] - INFO -77- 断言成功，案例通过，当前页面网址-----------密码不能为空!在当前页面
+2020-12-23 14:52:26,990 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:52:27,066 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:52:27,066 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:52:27,085 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:52:27,172 - base_page.py:[20] - INFO -140- 输入值  13382197195@189.cn 成功
+2020-12-23 14:52:27,186 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:52:27,247 - base_page.py:[20] - INFO -140- 输入值  wuji0121 成功
+2020-12-23 14:52:27,266 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:52:27,306 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:27,306 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:52:27,306 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:52:32,636 - base_page.py:[20] - INFO -235- 获取页面网址http://localhost/iwebsns/main.php
+2020-12-23 14:52:32,637 - test_a_login.py:[20] - INFO -98- 断言成功，案例通过，当前页面网址-----------http://localhost/iwebsns/main.php
+2020-12-23 14:52:32,748 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:52:34,897 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="11ebb0e5f9dcf9ea1cb3b253bcbd4d02")>成功
+2020-12-23 14:52:38,117 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="8a04b2dce8ee80846bb5c319dadc5975")>驱动成功
+2020-12-23 14:52:40,276 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="8a04b2dce8ee80846bb5c319dadc5975")>成功
+2020-12-23 14:52:40,515 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:52:40,515 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:52:40,539 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:52:40,622 - base_page.py:[20] - INFO -140- 输入值  13382197195@189.cn 成功
+2020-12-23 14:52:40,645 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:52:40,711 - base_page.py:[20] - INFO -140- 输入值  wuji0121 成功
+2020-12-23 14:52:40,735 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:52:40,779 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:40,779 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:52:40,779 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:52:45,800 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_blog')成功
+2020-12-23 14:52:45,844 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:45,906 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:52:45,906 - blog_page.py:[20] - INFO -44- 进入日志的内置表单
+2020-12-23 14:52:47,939 - base_page.py:[20] - INFO -107- 定位元素('link text', '新建日志')成功
+2020-12-23 14:52:48,138 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:48,160 - base_page.py:[20] - INFO -71- 定位元素('name', 'blog_title')成功
+2020-12-23 14:52:48,222 - base_page.py:[20] - INFO -140- 输入值  test 成功
+2020-12-23 14:52:48,247 - base_page.py:[20] - INFO -71- 定位元素('name', 'tag')成功
+2020-12-23 14:52:48,309 - base_page.py:[20] - INFO -140- 输入值  selenium 成功
+2020-12-23 14:52:48,328 - base_page.py:[20] - INFO -107- 定位元素('link text', '添加分类')成功
+2020-12-23 14:52:48,398 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:49,423 - base_page.py:[20] - INFO -71- 定位元素('name', 'new_sort_name')成功
+2020-12-23 14:52:49,484 - base_page.py:[20] - INFO -140- 输入值  测试008 成功
+2020-12-23 14:52:50,514 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="newSort"]/input[2]')成功
+2020-12-23 14:52:50,591 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:52:53,617 - base_page.py:[20] - INFO -71- 定位元素('name', 'blog_sort_list')成功
+2020-12-23 14:52:53,683 - base_page.py:[20] - INFO -173- 处理下拉框--<selenium.webdriver.remote.webelement.WebElement (session="8a04b2dce8ee80846bb5c319dadc5975", element="f1113307-bcba-4cc9-8409-50b9d7e1d306")>--- 成功
+2020-12-23 14:52:55,706 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:52:58,732 - base_page.py:[20] - INFO -60- 定位元素('id', 'KINDEDITORBODY')成功
+2020-12-23 14:52:58,809 - base_page.py:[20] - INFO -140- 输入值  自动化测试案例 成功
+2020-12-23 14:52:58,812 - base_page.py:[20] - INFO -203- 返回上一层表单成功
+2020-12-23 14:53:01,842 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="iframecontent"]/form/table/tbody/tr[8]/td/input[1]')成功
+2020-12-23 14:53:02,082 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:07,401 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:53:07,401 - test_b_blog.py:[20] - INFO -40- 断言成功，案例通过，当前页面网址-----------selenium在当前页面
+2020-12-23 14:53:07,538 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:53:07,724 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:53:07,724 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:53:07,743 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_blog')成功
+2020-12-23 14:53:07,796 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:07,846 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:53:07,846 - blog_page.py:[20] - INFO -44- 进入日志的内置表单
+2020-12-23 14:53:07,874 - base_page.py:[20] - INFO -107- 定位元素('link text', 'test')成功
+2020-12-23 14:53:08,058 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:11,079 - base_page.py:[20] - INFO -107- 定位元素('link text', '编辑')成功
+2020-12-23 14:53:11,229 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:14,250 - base_page.py:[20] - INFO -71- 定位元素('name', 'blog_title')成功
+2020-12-23 14:53:14,282 - base_page.py:[20] - INFO -262- 清空元素输入框成功
+2020-12-23 14:53:16,302 - base_page.py:[20] - INFO -71- 定位元素('name', 'blog_title')成功
+2020-12-23 14:53:16,362 - base_page.py:[20] - INFO -140- 输入值  标题变更 成功
+2020-12-23 14:53:18,394 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="iframecontent"]/form/table/tbody/tr[8]/td/input[1]')成功
+2020-12-23 14:53:18,621 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:20,648 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_blog')成功
+2020-12-23 14:53:20,705 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:24,035 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:53:24,035 - test_b_blog.py:[20] - INFO -63- 断言成功，案例通过，当前页面网址-----------标题变更在当前页面
+2020-12-23 14:53:24,153 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:53:24,368 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:53:24,368 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:53:24,388 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_blog')成功
+2020-12-23 14:53:24,430 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:24,482 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:53:24,482 - blog_page.py:[20] - INFO -44- 进入日志的内置表单
+2020-12-23 14:53:24,505 - base_page.py:[20] - INFO -107- 定位元素('link text', '标题变更')成功
+2020-12-23 14:53:24,666 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:27,704 - base_page.py:[20] - INFO -107- 定位元素('link text', '删除')成功
+2020-12-23 14:53:27,769 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:30,780 - base_page.py:[20] - INFO -285- 处理提示框<selenium.webdriver.common.alert.Alert object at 0x0000022A063A5648>成功
+2020-12-23 14:53:33,811 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_blog')成功
+2020-12-23 14:53:33,869 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:37,216 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:53:37,216 - test_b_blog.py:[20] - INFO -86- 断言成功，案例通过，当前页面网址-----------selenium在当前页面
+2020-12-23 14:53:37,364 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:53:39,534 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="8a04b2dce8ee80846bb5c319dadc5975")>成功
+2020-12-23 14:53:42,773 - driver.py:[20] - INFO -18- 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="91a2ba449d485a77da8b8f6d9ec4ea47")>驱动成功
+2020-12-23 14:53:44,933 - my_unit.py:[20] - INFO -20- 连接驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="91a2ba449d485a77da8b8f6d9ec4ea47")>成功
+2020-12-23 14:53:45,191 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:53:45,191 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:53:45,216 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_email')成功
+2020-12-23 14:53:45,307 - base_page.py:[20] - INFO -140- 输入值  13382197195@189.cn 成功
+2020-12-23 14:53:45,330 - base_page.py:[20] - INFO -60- 定位元素('id', 'login_pws')成功
+2020-12-23 14:53:45,399 - base_page.py:[20] - INFO -140- 输入值  wuji0121 成功
+2020-12-23 14:53:45,421 - base_page.py:[20] - INFO -60- 定位元素('id', 'loginsubm')成功
+2020-12-23 14:53:45,462 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:45,462 - login_page.py:[20] - INFO -29- ---------------------------登录中------------------------------------
+2020-12-23 14:53:45,462 - login_page.py:[20] - INFO -57- 登录成功
+2020-12-23 14:53:50,491 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:53:50,536 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:50,604 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:53:50,605 - album_page.py:[20] - INFO -46- 进入相册内置表单
+2020-12-23 14:53:50,632 - base_page.py:[20] - INFO -107- 定位元素('link text', '新建相册')成功
+2020-12-23 14:53:50,779 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:51,809 - base_page.py:[20] - INFO -71- 定位元素('name', 'album_name')成功
+2020-12-23 14:53:51,873 - base_page.py:[20] - INFO -140- 输入值  测试新建相册 成功
+2020-12-23 14:53:52,893 - base_page.py:[20] - INFO -71- 定位元素('name', 'album_information')成功
+2020-12-23 14:53:52,945 - base_page.py:[20] - INFO -140- 输入值  测试截图 成功
+2020-12-23 14:53:53,972 - base_page.py:[20] - INFO -71- 定位元素('name', 'tag')成功
+2020-12-23 14:53:54,042 - base_page.py:[20] - INFO -140- 输入值  自动化测试相册 成功
+2020-12-23 14:53:55,073 - base_page.py:[20] - INFO -71- 定位元素('name', 'action')成功
+2020-12-23 14:53:55,283 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:53:56,311 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:53:56,371 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:01,715 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:54:01,715 - test_c_album.py:[20] - INFO -38- 断言成功，案例通过，当前页面网址-----------测试新建相册在当前页面
+2020-12-23 14:54:01,813 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:54:02,026 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:54:02,026 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:54:02,045 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:54:02,084 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:02,143 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:54:02,143 - album_page.py:[20] - INFO -46- 进入相册内置表单
+2020-12-23 14:54:02,168 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="isns_album:13:"]/dd[6]/a[1]')成功
+2020-12-23 14:54:02,305 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:04,328 - base_page.py:[20] - INFO -71- 定位元素('name', 'album_name')成功
+2020-12-23 14:54:04,362 - base_page.py:[20] - INFO -262- 清空元素输入框成功
+2020-12-23 14:54:06,383 - base_page.py:[20] - INFO -71- 定位元素('name', 'album_name')成功
+2020-12-23 14:54:06,435 - base_page.py:[20] - INFO -140- 输入值  变成名称 成功
+2020-12-23 14:54:08,460 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="iframecontent"]/form/table/tbody/tr[5]/td[2]/input')成功
+2020-12-23 14:54:08,633 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:10,652 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:54:10,716 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:16,045 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:54:16,045 - test_c_album.py:[20] - INFO -64- 断言成功，案例通过，当前页面网址-----------变成名称在当前页面
+2020-12-23 14:54:16,144 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:54:16,362 - base_page.py:[20] - INFO -44- open url"http://localhost/iwebsns/index.php" success !
+2020-12-23 14:54:16,363 - my_unit.py:[20] - INFO -29- ------------------执行案例开始-----------------
+2020-12-23 14:54:16,388 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:54:16,433 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:16,498 - base_page.py:[20] - INFO -189- 切换表单成功
+2020-12-23 14:54:16,498 - album_page.py:[20] - INFO -46- 进入相册内置表单
+2020-12-23 14:54:16,526 - base_page.py:[20] - INFO -95- 定位元素('xpath', '//*[@id="isns_album:13:"]/dd[6]/a[2]')成功
+2020-12-23 14:54:16,604 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:18,609 - base_page.py:[20] - INFO -285- 处理提示框<selenium.webdriver.common.alert.Alert object at 0x0000022A063B1A88>成功
+2020-12-23 14:54:18,763 - base_page.py:[20] - INFO -83- 定位元素('class name', 'app_album')成功
+2020-12-23 14:54:18,826 - base_page.py:[20] - INFO -156- 点击元素成功
+2020-12-23 14:54:26,194 - base_page.py:[20] - INFO -244- 获取当前页面源码成功
+2020-12-23 14:54:26,194 - test_c_album.py:[20] - INFO -89- 断言成功，案例通过，当前页面网址-----------变成名称在当前页面
+2020-12-23 14:54:26,293 - my_unit.py:[20] - INFO -37- ------------------执行案例完成-----------------
+2020-12-23 14:54:28,448 - my_unit.py:[20] - INFO -46- 断开驱动<selenium.webdriver.chrome.webdriver.WebDriver (session="91a2ba449d485a77da8b8f6d9ec4ea47")>成功
