@@ -16,7 +16,7 @@ log_path = os.path.join(projectpath,'webUI','LOG','log')
 
 #测试数据文件路径
 #D:\webapp\webUI\data\test_data.xlsx
-excel_path =os.path.join(projectpath,'webUI','data','test_data.xlsx')
+excel_path =os.path.join(projectpath,'webUI','data')
 
 #测试用例路径
 #D:\demo\webUI\test_case
@@ -25,5 +25,8 @@ case_path = os.path.join(projectpath,'webUI','test_case')
 #测试截图路径
 ##D:\demo\webUI\report\screenshot
 photo_path = os.path.join(projectpath,'webUI','report','screenshot','photo')
+
+#测试报告路径
+report_path = os.path.join(projectpath,'webUI','report','test_report','Report')
 
 
