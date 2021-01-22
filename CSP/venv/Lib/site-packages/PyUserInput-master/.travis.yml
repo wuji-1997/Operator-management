@@ -1,0 +1,16 @@
+language: python
+python:
+  - 2.7
+  - 3.4
+  - 3.5
+os:
+  - linux
+  # - osx  travis is failing to build python on osx
+
+sudo: false
+
+install: pip install pytest
+script: py.test
+
+notifications:
+  on_success: change

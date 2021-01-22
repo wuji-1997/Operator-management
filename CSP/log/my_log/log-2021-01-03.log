@@ -1,0 +1,201 @@
+2021-01-03 00:58:39,681-my_log.py:[44]-[INFO]-这是一个info日志
+2021-01-03 01:00:44,073-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:00:44,091-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "name" success]
+2021-01-03 01:00:44,091-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "username" success]
+2021-01-03 01:00:44,091-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "wuji2020" success]
+2021-01-03 01:00:44,091-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "wuji20" success]
+2021-01-03 01:00:44,091-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "name" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "password" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get ".WKE$gpJGr5H" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "name" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "link_text" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "登录" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "id" success]
+2021-01-03 01:00:44,092-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "imgCode" success]
+2021-01-03 01:00:44,093-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "class" success]
+2021-01-03 01:00:44,093-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001A286D90848> get "sms_Verification" success]
+2021-01-03 01:00:47,380-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="36569dd1180e01ddb4fcbf6e84218f16")> SUCCESS
+2021-01-03 01:00:49,548-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="36569dd1180e01ddb4fcbf6e84218f16")> success
+2021-01-03 01:01:12,385-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:01:12,402-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "name" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "username" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "wuji2020" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "wuji20" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "name" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "password" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get ".WKE$gpJGr5H" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "name" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "link_text" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "登录" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "id" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "imgCode" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "class" success]
+2021-01-03 01:01:12,403-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000002AEB0432048> get "sms_Verification" success]
+2021-01-03 01:01:15,645-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="dfac39d6a1bfdf3e768e89cb79db8435")> SUCCESS
+2021-01-03 01:01:17,816-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="dfac39d6a1bfdf3e768e89cb79db8435")> success
+2021-01-03 01:01:31,269-base_page.py:[44]-[INFO]-open url"http://isp.ct5g.cn/maap_isp/index" success !
+2021-01-03 01:01:31,269-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-01-03 01:01:31,294-base_page.py:[71]-[INFO]-locate ('name', 'username') SUCCESS
+2021-01-03 01:01:31,353-base_page.py:[140]-[INFO]-input   SUCCESS
+2021-01-03 01:01:32,380-base_page.py:[71]-[INFO]-locate ('name', 'password') SUCCESS
+2021-01-03 01:01:32,463-base_page.py:[140]-[INFO]-input  .WKE$gpJGr5H SUCCESS
+2021-01-03 01:01:33,500-base_page.py:[107]-[INFO]-locate ('link text', '登录') SUCCESS
+2021-01-03 01:01:33,547-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="dfac39d6a1bfdf3e768e89cb79db8435", element="31e661ad-618b-4302-af94-996b65678b8a")> SUCCESS
+2021-01-03 01:01:33,547-screenshoot.py:[25]-[INFO]-screenshoot csp_username_null save in E:\CSP\screenshoot\CSP\login\photo2021-01-03-01-01-33csp_username_null.png success
+2021-01-03 01:01:33,908-base_page.py:[244]-[INFO]-get page source code SUCCESS
+2021-01-03 01:01:33,908-test_a_login.py:[30]-[INFO]-Assertion Successed，case is  pass---------账号不能为空。 is  in page 
+2021-01-03 01:03:19,778-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "name" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "username" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "wuji2020" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "wuji20" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "name" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "password" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get ".WKE$gpJGr5H" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "name" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "link_text" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "登录" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "id" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "imgCode" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "class" success]
+2021-01-03 01:03:19,795-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x00000207196E1748> get "sms_Verification" success]
+2021-01-03 01:03:23,031-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="7244eda675381103157ca596c1ce8f4b")> SUCCESS
+2021-01-03 01:03:25,208-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="7244eda675381103157ca596c1ce8f4b")> success
+2021-01-03 01:03:27,398-base_page.py:[44]-[INFO]-open url"http://isp.ct5g.cn/maap_isp/index" success !
+2021-01-03 01:03:27,398-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-01-03 01:03:27,419-base_page.py:[71]-[INFO]-locate ('name', 'username') SUCCESS
+2021-01-03 01:03:27,471-base_page.py:[140]-[INFO]-input   SUCCESS
+2021-01-03 01:03:28,504-base_page.py:[71]-[INFO]-locate ('name', 'password') SUCCESS
+2021-01-03 01:03:28,591-base_page.py:[140]-[INFO]-input  .WKE$gpJGr5H SUCCESS
+2021-01-03 01:03:29,614-base_page.py:[107]-[INFO]-locate ('link text', '登录') SUCCESS
+2021-01-03 01:03:29,654-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="7244eda675381103157ca596c1ce8f4b", element="bcc74bf2-8e70-4688-88e2-ae542d0113e5")> SUCCESS
+2021-01-03 01:03:29,654-screenshoot.py:[25]-[INFO]-screenshoot csp_username_null save in E:\CSP\screenshoot\CSP\login\photo2021-01-03-01-03-29csp_username_null.png success
+2021-01-03 01:03:30,011-base_page.py:[244]-[INFO]-get page source code SUCCESS
+2021-01-03 01:03:30,011-test_a_login.py:[30]-[INFO]-Assertion Successed，case is  pass---------账号不能为空。 is  in page 
+2021-01-03 01:03:30,140-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-01-03 01:03:32,324-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="7244eda675381103157ca596c1ce8f4b")> SUCCESS
+2021-01-03 01:05:25,439-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:05:25,462-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "name"-- success
+2021-01-03 01:05:25,462-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "username"-- success
+2021-01-03 01:05:25,462-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "wuji2020"-- success
+2021-01-03 01:05:25,462-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "wuji20"-- success
+2021-01-03 01:05:25,462-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "name"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "password"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- ".WKE$gpJGr5H"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "name"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "link_text"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "登录"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "id"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "imgCode"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "class"-- success
+2021-01-03 01:05:25,463-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001C0E7492748> get-- "sms_Verification"-- success
+2021-01-03 01:05:28,681-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="6b29a531d40150a350b9670902b14b1e")> SUCCESS
+2021-01-03 01:05:30,850-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6b29a531d40150a350b9670902b14b1e")> success
+2021-01-03 01:05:35,495-base_page.py:[44]-[INFO]-open url"http://isp.ct5g.cn/maap_isp/index" success !
+2021-01-03 01:05:35,496-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-01-03 01:05:35,519-base_page.py:[71]-[INFO]-locate ('name', 'username') SUCCESS
+2021-01-03 01:05:35,600-base_page.py:[140]-[INFO]-input  wuji2020 SUCCESS
+2021-01-03 01:05:36,635-base_page.py:[71]-[INFO]-locate ('name', 'password') SUCCESS
+2021-01-03 01:05:36,681-base_page.py:[140]-[INFO]-input   SUCCESS
+2021-01-03 01:05:37,715-base_page.py:[107]-[INFO]-locate ('link text', '登录') SUCCESS
+2021-01-03 01:05:37,756-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="6b29a531d40150a350b9670902b14b1e", element="f6fed446-829c-4d61-92e6-0facee825261")> SUCCESS
+2021-01-03 01:05:37,756-screenshoot.py:[25]-[INFO]-screenshoot csp_userpws_null save in E:\CSP\screenshoot\CSP\login\photo2021-01-03-01-05-37csp_userpws_null.png success
+2021-01-03 01:05:38,098-base_page.py:[244]-[INFO]-get page source code SUCCESS
+2021-01-03 01:05:38,098-test_a_login.py:[48]-[INFO]-Assertion Successed，case is  pass---------“密码不能为空。” is  in page 
+2021-01-03 01:05:38,290-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-01-03 01:05:40,456-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6b29a531d40150a350b9670902b14b1e")> SUCCESS
+2021-01-03 01:06:55,840-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:06:55,857-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "name"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "username"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "wuji2020"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "wuji20"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "name"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "password"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- ".WKE$gpJGr5H"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "name"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "link_text"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "登录"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "id"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "imgCode"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "class"-- success
+2021-01-03 01:06:55,858-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001ABD3442088> get-- "sms_Verification"-- success
+2021-01-03 01:06:59,087-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="fa585c9d676e149df3fa0f10e588994d")> SUCCESS
+2021-01-03 01:07:01,248-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="fa585c9d676e149df3fa0f10e588994d")> success
+2021-01-03 01:07:02,879-base_page.py:[44]-[INFO]-open url"http://isp.ct5g.cn/maap_isp/index" success !
+2021-01-03 01:07:02,879-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-01-03 01:07:02,903-base_page.py:[71]-[INFO]-locate ('name', 'username') SUCCESS
+2021-01-03 01:07:02,979-base_page.py:[140]-[INFO]-input  wuji2020 SUCCESS
+2021-01-03 01:07:04,006-base_page.py:[71]-[INFO]-locate ('name', 'password') SUCCESS
+2021-01-03 01:07:04,083-base_page.py:[140]-[INFO]-input  .WKE$gpJGr5H SUCCESS
+2021-01-03 01:07:05,109-base_page.py:[60]-[INFO]-locate ('id', 'imgCode') SUCCESS
+2021-01-03 01:07:05,143-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="fa585c9d676e149df3fa0f10e588994d", element="ccb938d6-1fdb-4ccb-aa41-cc566e32fef7")> SUCCESS
+2021-01-03 01:07:20,176-base_page.py:[83]-[INFO]-locate ('class name', 'sms_Verification') SUCCESS
+2021-01-03 01:07:20,278-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="fa585c9d676e149df3fa0f10e588994d", element="10dc7fab-c211-4798-a481-3fe6a98ef293")> SUCCESS
+2021-01-03 01:08:00,316-base_page.py:[107]-[INFO]-locate ('link text', '登录') SUCCESS
+2021-01-03 01:08:00,359-base_page.py:[156]-[INFO]-click <selenium.webdriver.remote.webelement.WebElement (session="fa585c9d676e149df3fa0f10e588994d", element="0b69194b-fec2-41ba-baec-978deb2a5ce2")> SUCCESS
+2021-01-03 01:08:02,371-screenshoot.py:[25]-[INFO]-screenshoot csp_login save in E:\CSP\screenshoot\CSP\login\photo2021-01-03-01-08-02csp_login.png success
+2021-01-03 01:09:11,348-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="fa585c9d676e149df3fa0f10e588994d")> SUCCESS
+2021-01-03 01:09:17,534-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "name"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "username"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "wuji2020"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "wuji20"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "name"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "password"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- ".WKE$gpJGr5H"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "name"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "link_text"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "登录"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "id"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "imgCode"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "class"-- success
+2021-01-03 01:09:17,556-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001E379589CC8> get-- "sms_Verification"-- success
+2021-01-03 01:09:20,713-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="8ac06cde6a13994797e01479b6c8d13e")> SUCCESS
+2021-01-03 01:09:22,868-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="8ac06cde6a13994797e01479b6c8d13e")> success
+2021-01-03 01:09:48,186-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="8ac06cde6a13994797e01479b6c8d13e")> SUCCESS
+2021-01-03 01:09:53,748-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "name"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "username"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "wuji2020"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "wuji20"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "name"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "password"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- ".WKE$gpJGr5H"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "name"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "link_text"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "登录"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "id"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "imgCode"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "class"-- success
+2021-01-03 01:09:53,763-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x000001F1465832C8> get-- "sms_Verification"-- success
+2021-01-03 01:09:56,989-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="115ac92f1c55ece1d76792ed595f41d0")> SUCCESS
+2021-01-03 01:09:59,134-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="115ac92f1c55ece1d76792ed595f41d0")> success
+2021-01-03 01:10:19,033-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="115ac92f1c55ece1d76792ed595f41d0")> SUCCESS
+2021-01-03 01:10:19,361-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "name"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "username"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "wuji2020"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "wuji20"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "name"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "password"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- ".WKE$gpJGr5H"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "name"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "link_text"-- success
+2021-01-03 01:10:19,379-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "登录"-- success
+2021-01-03 01:10:19,380-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "id"-- success
+2021-01-03 01:10:19,380-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "imgCode"-- success
+2021-01-03 01:10:19,380-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "class"-- success
+2021-01-03 01:10:19,380-readexcel.py:[34]-[INFO]-from <xlrd.book.Book object at 0x0000020C689EF9C8> get-- "sms_Verification"-- success
+2021-01-03 01:10:22,590-mydriver.py:[24]-[INFO]-connection <selenium.webdriver.chrome.webdriver.WebDriver (session="2a5cad6d9e04d23a3ca50304ee4ec709")> SUCCESS
+2021-01-03 01:10:24,734-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="2a5cad6d9e04d23a3ca50304ee4ec709")> success
+2021-01-03 01:10:28,499-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="2a5cad6d9e04d23a3ca50304ee4ec709")> SUCCESS
+2021-01-03 02:14:10,982-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:16:46,813-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:17:17,937-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:19:14,026-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:20:53,659-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:20:53,676-readexcel.py:[38]-[INFO]-from <xlrd.book.Book object at 0x000001DE8F62D248> get-- "点击新增CSP按钮"-- success
+2021-01-03 02:23:44,686-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:39:06,138-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:40:15,002-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-01-03 02:40:15,019-readexcel.py:[36]-[INFO]-from <xlrd.book.Book object at 0x0000026E1FFEAA08> get-- "点击CSP管理一级菜单"-- success
