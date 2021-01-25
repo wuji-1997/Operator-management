@@ -21,6 +21,8 @@ class LoginPage_CSP(BasePage):
     photo = (csplogin_excel.get_excel(6,3),csplogin_excel.get_excel(6,4))
     msg = (csplogin_excel.get_excel(7,3),csplogin_excel.get_excel(7,4))
 
+    url =Readini().get_value(os.path.join(current_path,'config.ini'),'test_url','url3')
+
 
     def loginbutton(self):
         """

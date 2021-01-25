@@ -379,10 +379,10 @@ class BasePage(object):
 
 
         except Exception:
-            base_log.csp_log.exception(f'{element} upload file {filepath} failed')
+            base_log.csp_log.exception(f'上传文件 failed')
             raise
         else:
-            base_log.csp_log.info(f'{element} upload_file {filepath} successed')
+            base_log.csp_log.info(f'上传文件 successed')
 
 
     def F5(self):

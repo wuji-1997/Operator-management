@@ -3,9 +3,7 @@ from common.my_log import Log
 from common import screenshoot
 import logging
 import unittest
-from common.readini import Readini
-import os
-from config.Conf import *
+
 
 test_csplogin_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
 
@@ -99,7 +97,7 @@ class Test_csp(MYunit):
         self.login.csp_login()
         self.login.wait(2)
         screenshoot.screen_shoot(self.driver,r'\login','csp_login')
-        value = 'https://isptest.189.cn/maap_isp/admin/main'
+        value = self.login.url
         value2 = self.login.get_url()
         try:
             self.assertEqual(value, value2)

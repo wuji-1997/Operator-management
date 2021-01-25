@@ -26,7 +26,7 @@ class CspPage(BasePage):
               (search_data.get_excel(9, 3), search_data.get_excel(9, 4)),  # 8点击查看按钮
               (search_data.get_excel(10, 3), search_data.get_excel(10, 4)),  # 9点击上架该csp按钮
               (search_data.get_excel(11, 3), search_data.get_excel(11, 4)),  # 10点击确认上架按钮
-              (search_data.get_excel(12, 3), search_data.get_excel(12, 4), search_data.get_excel(12, 5)),  # 11点击上传测试报告稿
+              (search_data.get_excel(12,3), search_data.get_excel(12,4),search_data.get_excel(12,5)),  #11点击上传测试报告稿
               (search_data.get_excel(13, 3), search_data.get_excel(13, 4)),  # 12点击提交审核按钮
               ]
 
@@ -58,6 +58,7 @@ class CspPage(BasePage):
            (add_data.get_excel(26, 3), add_data.get_excel(26, 4), add_data.get_excel(26, 5)),  # 25输入注册资金
            (add_data.get_excel(27, 3), add_data.get_excel(27, 4), add_data.get_excel(27, 5)),  # 26处理注册地下拉框
            (add_data.get_excel(28, 3), add_data.get_excel(28, 4), add_data.get_excel(28, 5)),  ##27输入注册地址
+           (add_data.get_excel(2,5)+'5'),  #28
            ]
 
     add_legal = [(add_data.get_excel(29, 3), add_data.get_excel(29, 4), add_data.get_excel(29, 5)),  # 0输入年检度
@@ -88,6 +89,7 @@ class CspPage(BasePage):
                  (add_data.get_excel(59, 3), add_data.get_excel(59, 4)),  # 25点击提交审核按钮
                  (add_data.get_excel(60, 3), add_data.get_excel(60, 4), add_data.get_excel(60, 5)),  # 26点击选择文件
                  (add_data.get_excel(61, 3), add_data.get_excel(61, 4)),  # 27点击开始上传按钮
+                 (add_data.get_excel(2,5)+'2'),  #28文件导入新增的csp名称
                  ]
 
     check = [(check_data.get_excel(1, 3), check_data.get_excel(1, 4)),  # 0点击csp审核二级菜单
@@ -385,7 +387,7 @@ class CspPage(BasePage):
         else:
             csp_log.csp_log.info(f'进入chatbot审核二级表单')
 
-    def find_check_csp(self, cspname=add[1][-1], check_type='0'):
+    def find_check_csp(self, cspname=add[1][-1], check_type='0',check_csp_type=add[3][-1]):
         """
         csp审核二级菜单查询待审核或已审核的csp
         :param cspname:
@@ -401,7 +403,7 @@ class CspPage(BasePage):
 
         self.input_value(self.check[3][0], self.check[3][1], cspname)  # 输入查询条件
         self.wait(2)
-        self.handle_select(self.check[5][0], self.check[5][1], self.add[3][-1])  # 选择csp类型
+        self.handle_select(self.check[5][0], self.check[5][1],check_csp_type)  # 选择csp类型
         self.click_element(self.check[11][0], self.check[11][1])  # 点击查询
         self.wait(2)
 
@@ -452,13 +454,15 @@ class CspPage(BasePage):
 
         if text == '1':  # 查看token变更内容
 
-            self.isElementExist(self.update[10][0], self.update[10][1])
+            token_value = self.isElementExist(self.update[10][0], self.update[10][1])
             self.wait(2)
+            return token_value
 
         elif text == '2':  # 查看接入密匙前后变更内容
 
-            self.isElementExist(self.update[9][0], self.update[9][1])
+            code_value = self.isElementExist(self.update[9][0], self.update[9][1])
             self.wait(2)
+            return code_value
 
         elif text == '3':  # 点击查看客户类型变更前后内容
             self.isElementExist(self.update[11][0], self.update[11][1])
@@ -490,8 +494,10 @@ class CspPage(BasePage):
         :return:
         """
         self.click_element(self.groundingdata[11][0], self.groundingdata[11][1])  # 点击下架按钮
+        csp_log.csp_log.info('进入csp查看页面点击下架按钮')
         self.wait(2)
         self.click_element(self.groundingdata[12][0], self.groundingdata[12][1])  # 点击确定下架按钮
+        csp_log.csp_log.info('点击确定下架按钮')
         self.wait(2)
         self.F5()
 
@@ -501,10 +507,13 @@ class CspPage(BasePage):
         :return:
         """
         self.click_element(self.groundingdata[13][0], self.groundingdata[13][1])  # 查看页面点击上架申请记录的编辑按钮
+        csp_log.csp_log.info('点击编辑按钮')
         self.wait(2)
         self.upload_file(self.groundingdata[14][0], self.groundingdata[14][1], self.groundingdata[14][2])  # 上传附件
+        csp_log.csp_log.info('点击csp上架上传文件按钮')
         self.wait(2)
         self.click_element(self.groundingdata[15][0], self.groundingdata[15][1])  # 点击提交审核
+        csp_log.csp_log.info('点击提交审核按钮')
         self.wait(2)
         self.F5()
 
@@ -529,19 +538,23 @@ class CspPage(BasePage):
         else:
             csp_log.csp_log.info(f'进入chatbot审核二级表单')
 
-    def find_grounding_data(self, grounding_name=add[1][-1]):
+    def find_grounding_data(self, grounding_name=add[1][-1],gronding_csp_type=add[3][-1]):
         """
         查询出待审核的上架申请数据
         :param grounding_name:
         :return:
         """
         self.click_element(self.groundingdata[3][0], self.groundingdata[3][1])  # 点击待审核
+        csp_log.csp_log.info('点击待审核按钮')
         self.wait(2)
-        self.input_value(self.groundingdata[4][0], self.groundingdata[4][1], grounding_name)  # 输入查询条件
+        self.input_value(self.groundingdata[4][0], self.groundingdata[4][1],grounding_name)  # 输入查询条件
+        csp_log.csp_log.info(f'输入客户名称{grounding_name}')
         self.wait(2)
-        self.handle_select(self.groundingdata[5][0], self.groundingdata[5][1], self.add[3][-1])  # 选择csp类型
+        self.handle_select(self.groundingdata[5][0], self.groundingdata[5][1],gronding_csp_type)  # 选择csp类型
         self.wait(2)
+        csp_log.csp_log.info(f'选择csp类型{gronding_csp_type}')
         self.click_element(self.groundingdata[6][0], self.groundingdata[6][1])  # 点击查询按钮
+        csp_log.csp_log.info(f'点击查看按钮')
         self.wait(2)
 
     def check_grounding(self, result='1'):
@@ -550,18 +563,22 @@ class CspPage(BasePage):
         :param result:
         :return:
         """
+        self.wait(5)
         self.click_element(self.groundingdata[7][0], self.groundingdata[7][1])  # 点击审核按钮
+        csp_log.csp_log.info('点击审核按钮')
         if result == '1':
             # 审核通过
             self.input_value(self.groundingdata[8][0], self.groundingdata[8][1], self.random_number())
+            csp_log.csp_log.info(f'选择审核通过，输入审核通过原因')
             self.wait(2)
 
         elif result == '0':
             # 审核不同过
-            self.click_element(self.groundingdata)
-            self.input_value(self.groundingdata[10][0], self.groundingdata[10][1])  # 点击审核不通过
+            self.click_element(self.groundingdata[10][0], self.groundingdata[10][1])  # 点击审核不通过
+            csp_log.csp_log.info('点击审核不通过按钮')
             self.wait(2)
             self.input_value(self.groundingdata[8][0], self.groundingdata[8][1], self.random_number())
+            csp_log.csp_log.info(f'选择审核不通过，输入审核不通过原因')
             self.wait(2)
 
         self.click_element(self.groundingdata[9][0], self.groundingdata[9][1])  # 点击确认审核
@@ -578,9 +595,13 @@ class CspPage(BasePage):
 
         self.intoform()  # 进入csp管理内置表单
         self.wait(2)
-        self.handle_select(self.search[5][0], self.search[5][1], result)  # 选择csp状态
+        self.handle_select(self.search[5][0], self.search[5][1],result)  # 选择csp状态
+        csp_log.csp_log.info(f'csp上架审核节点选择csp状态---{result}')
         self.wait(2)
         self.input_value(self.search[2][0], self.search[2][1], self.add[1][-1])  # 输入csp名称
+        csp_log.csp_log.info(f'csp上架审核节点输入csp名称---{self.add[1][-1]}')
+        self.click_element(self.search[7][0],self.search[7][1])
+        csp_log.csp_log.info('点击查询按钮')
         self.wait(2)
 
     def get_assert_text(self, text=add[1][-1]):
@@ -611,10 +632,9 @@ class CspPage(BasePage):
         self.wait(2)
         self.upload_file(self.add_legal[26][0], self.add_legal[26][1], self.add_legal[26][2])  # 上传文件
         self.wait(2)
-        self.click_element(self.add_legal[27][0], self.add_legal[27][0])  # 点击开始上传
+        self.click_element(self.add_legal[27][0], self.add_legal[27][1])  # 点击开始上传
         self.wait(2)
-        self.input_value(self.add[1][0], self.add[1][1], self.random_number())  # 输入csp名称
-        csp_name = self.get_text(self.add[1][0], self.add[1][1])  # 获取csp名称
+        self.input_value(self.add[1][0], self.add[1][1],self.add_legal[28])  # 输入csp名称
         self.wait(2)
         self.upload_file(self.add[10][0], self.add[10][1], self.add[10][2])  # 上传新增的CSP的经办人身份证正面
         self.wait(2)
@@ -640,12 +660,12 @@ class CspPage(BasePage):
         self.wait(2)
         self.upload_file(self.add_legal[24][0], self.add_legal[24][1], self.add_legal[24][2])  # 上传合同附件
         self.wait(2)
+        self.click_element(self.add_legal[25][0], self.add_legal[25][1])  # 点击提交审核
+        self.wait(2)
         self.F5()
-        return csp_name
 
 
 if __name__ == '__main__':
     pass
 
-if __name__ == '__main__':
-    pass
+

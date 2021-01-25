@@ -17,7 +17,7 @@ run()方法执行discover，大大简化了测试用例的查找与执行
 
 if __name__ == "__main__":
 
-    #test_suite = addcase()
-    #filename = runTc(test_suite)
+    test_suite = addcase()
+    filename = runTc(test_suite)
     send_report = Latest_report()
     sendemail.sendSmptEmail().send_email(send_report)
