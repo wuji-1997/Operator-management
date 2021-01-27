@@ -24,7 +24,7 @@ class Test_csp(MYunit):
         self.csp.intocheck()  #进入csp审核节点
         self.csp.find_check_csp()   #查询待审核的csp数据
         csp_testlog.csp_log.info(f'查询出待审核的csp---{self.csp.add[1][-1]}')
-        screenshoot.screen_shoot(self.driver,r'\csp','new_csp')
+        screenshoot.screen_shoot(self.driver,r'\csp','新建csp成功')
         value2 = self.csp.getpagecode()
         value=self.csp.get_assert_text()
         try:
@@ -49,7 +49,7 @@ class Test_csp(MYunit):
         csp_testlog.csp_log.info(f'操作csp--{self.csp.add[1][-1]}审核通过')
         self.csp.find_csp_data()   #进入管理节点查询出已经通过审核的数据数据
         csp_testlog.csp_log.info(f'查询出已经审核通过的csp---{self.csp.add[1][-1]}')
-        screenshoot.screen_shoot(self.driver,r'\csp','check_csp')
+        screenshoot.screen_shoot(self.driver,r'\csp','csp信息创建审核通过')
         value2=self.csp.getpagecode()
         value =self.csp.get_assert_text()
         try:
@@ -78,7 +78,7 @@ class Test_csp(MYunit):
         self.csp.look_csp_data()  # 进入查看csp信息页面
         value2 = self.csp.getpagecode()
         value = self.csp.get_assert_look_text(element_text=self.csp.update[1][-1])
-        screenshoot.screen_shoot(self.driver, r'\csp', 'update_csp_customertype_fail')
+        screenshoot.screen_shoot(self.driver, r'\csp', '变更csp客户类型失败')
 
         try:
             self.assertNotIn(value, value2)
@@ -106,7 +106,7 @@ class Test_csp(MYunit):
         self.csp.look_csp_data()    #进入查看csp信息页面
         value2 = self.csp.getpagecode()
         value =self.csp.get_assert_look_text(element_text=self.csp.update[1][-1])
-        screenshoot.screen_shoot(self.driver,r'\csp','update_csp_customertype_success')
+        screenshoot.screen_shoot(self.driver,r'\csp','变更客户类型成功')
 
         try:
             self.assertIn(value,value2)
@@ -131,7 +131,7 @@ class Test_csp(MYunit):
         self.csp.starting_check(result='10')  # 审核不通过
         self.csp.find_csp_data(csp_type=self.csp.update[2][-1])  # 查询出数据
         value2 = self.csp.getpagecode()
-        screenshoot.screen_shoot(self.driver, r'\csp', 'update_csp_type_fail')
+        screenshoot.screen_shoot(self.driver, r'\csp', '变更csp类型失败')
         value = self.csp.get_assert_text()
 
         try:
@@ -158,7 +158,7 @@ class Test_csp(MYunit):
         self.csp.find_csp_data(csp_type=self.csp.update[2][-1])  # 查询出数据
         value2 = self.csp.getpagecode()
         self.csp.look_csp_data()  # 进入查看csp信息页面
-        screenshoot.screen_shoot(self.driver, r'\csp', 'update_csp_type_success')
+        screenshoot.screen_shoot(self.driver, r'\csp', '变更csp类型成功')
         value = self.csp.get_assert_text()
 
         try:
@@ -189,7 +189,7 @@ class Test_csp(MYunit):
         self.csp.look_checked_csp()  #点击查看已经审核的数据
         value = self.csp.look_update('1')  # 查看csptoken变更前后内容
         self.csp.wait(2)
-        screenshoot.screen_shoot(self.driver, r'\csp', 'update_csp_token')
+        screenshoot.screen_shoot(self.driver, r'\csp', '变更csp--token成功')
         try:
             self.assertTrue(value)
         except Exception:
@@ -217,7 +217,7 @@ class Test_csp(MYunit):
         self.csp.look_checked_csp()  # 点击查看已经审核的数据
         value = self.csp.look_update('2')  # 查看csp密匙变更前后内容
         self.csp.wait(2)
-        screenshoot.screen_shoot(self.driver, r'\csp', 'update_csp_code')
+        screenshoot.screen_shoot(self.driver, r'\csp', '变更csp接入密匙成功')
         try:
             self.assertTrue(value)
         except Exception:
@@ -248,7 +248,7 @@ class Test_csp(MYunit):
         csp_testlog.csp_log.info(f'csp---------{self.csp.add[1][-1]}操作审核通过')
         self.csp.look_gronding()         #查询已经上架的csp
         csp_testlog.csp_log.info(f'查询出已经上架的csp---------{self.csp.add[1][-1]}')
-        screenshoot.screen_shoot(self.driver, r'\csp', 'grouding_on')
+        screenshoot.screen_shoot(self.driver, r'\csp', 'csp上架成功')
         value = self.csp.get_assert_text()  #获取文本
         self.csp.wait(2)
         value2 = self.csp.getpagecode()
@@ -276,7 +276,7 @@ class Test_csp(MYunit):
         self.csp.look_gronding()  #查询已经下架的csp
         csp_testlog.csp_log.info(f'查询出已经下架的csp---------{self.csp.add[1][-1]}')
         value2 = self.csp.getpagecode()
-        screenshoot.screen_shoot(self.driver, r'\csp', 'grouding_off')
+        screenshoot.screen_shoot(self.driver, r'\csp', 'csp下架')
         value = self.csp.get_assert_text()
         try:
             self.assertNotIn(value,value2)
@@ -305,7 +305,7 @@ class Test_csp(MYunit):
         self.csp.check_grounding()  # 审核通过
         self.csp.look_gronding(result='已上架')  # 查询已经上架的csp
         csp_testlog.csp_log.info(f'查询出存在过上架记录的再次上架的csp--{self.csp.add[1][-1]}')
-        screenshoot.screen_shoot(self.driver, r'\csp', 'grouding_on_again')
+        screenshoot.screen_shoot(self.driver, r'\csp', 'csp再次上架成功')
         value = self.csp.get_assert_text()  # 获取文本
         self.csp.wait(2)
         value2 = self.csp.getpagecode()
@@ -329,7 +329,7 @@ class Test_csp(MYunit):
         self.csp.other_add()
         self.csp.intocheck(way='10')  #进入审核内置表单
         self.csp.find_check_csp(cspname=self.csp.add_legal[28])  # 查询出待审核的数据
-        screenshoot.screen_shoot(self.driver, r'\csp', 'check_csp')
+        screenshoot.screen_shoot(self.driver, r'\csp', '文件导入新建csp')
         value2 = self.csp.getpagecode()
         value = self.csp.get_assert_text(text=self.csp.add_legal[28])
         try:
@@ -342,7 +342,7 @@ class Test_csp(MYunit):
 
     def testcase13(self):
         """
-        测试文件导入新建csp审核不通过
+        测试文件导入新建csp审核通过
         :return:
         """
 
@@ -350,15 +350,15 @@ class Test_csp(MYunit):
         self.csp.intocheck(way='10')  # 进入csp审核节点
         self.csp.find_check_csp(cspname=self.csp.add_legal[28])  # 查询出待审核的数据
         csp_testlog.csp_log.info(f'查询出待审核的csp---{self.csp.add_legal[28]}')
-        self.csp.starting_check(result='3')  # csp审核不通过
-        csp_testlog.csp_log.info(f'操作csp--{self.csp.add_legal[28]}审核不通过')
-        self.csp.find_csp_data(name=self.csp.add_legal[28])  # 进入管理节点查询审核不通过的数据
+        self.csp.starting_check()  # csp审核通过
+        csp_testlog.csp_log.info(f'操作csp--{self.csp.add_legal[28]}审核通过')
+        self.csp.find_csp_data(name=self.csp.add_legal[28])  # 进入管理节点查询审核通过的数据
         csp_testlog.csp_log.info(f'查询出已经审核不通过的csp---{self.csp.add_legal[28]}')
-        screenshoot.screen_shoot(self.driver, r'\csp', 'check_csp')
+        screenshoot.screen_shoot(self.driver, r'\csp', '文件导入新建csp审核通过')
         value2 = self.csp.getpagecode()
-        value = self.csp.get_assert_text('待审核通过后生成')
+        value = self.csp.get_assert_text(text=self.csp.add_legal[28])
         try:
-            self.assertNotIn(value, value2)
+            self.assertIn(value, value2)
         except Exception:
             csp_testlog.csp_log.exception(f'Assertion Failed，case is not pass---------{value} is not  in page')
             raise
@@ -373,13 +373,14 @@ class Test_csp(MYunit):
         self.csp = CspPage(self.driver)
         self.csp.new_csp(name=self.csp.add[28])  # 新增一个csp
         csp_testlog.csp_log.info(f'新增csp---{self.csp.add[28]}')
+
         self.csp.intocheck(way='10')  # 进入csp审核节点
         self.csp.find_check_csp(cspname=self.csp.add[28])  # 查询待审核的csp数据
         csp_testlog.csp_log.info(f'查询出待审核的csp---{self.csp.add[28]}')
         self.csp.starting_check(result='4')  # csp审核不通过
         csp_testlog.csp_log.info(f'操作csp--{self.csp.add[28]}审核不通过')
         self.csp.find_csp_data(name=self.csp.add[28])  # 进入管理节点查询出已经通过审核的数据数据
-        screenshoot.screen_shoot(self.driver, r'\csp', 'new_csp')
+        screenshoot.screen_shoot(self.driver, r'\csp', '手动新建csp审核不通过')
         value2 = self.csp.getpagecode()
         value = self.csp.get_assert_text('待审核通过后生成')
         try:
