@@ -88,6 +88,7 @@ class Test_csp(MYunit):
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
 
+
     def test_e_csplogin(self):
         """
         测试登录成功

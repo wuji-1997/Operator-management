@@ -2,7 +2,6 @@
 
 import xlrd
 import logging
-
 from config.Conf import *
 from common.my_log import Log
 

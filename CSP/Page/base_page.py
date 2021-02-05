@@ -152,10 +152,10 @@ class BasePage(object):
         try:
             element.click()
         except Exception:
-            base_log.csp_log.exception(f"click {value} Failed")
+            base_log.csp_log.exception(f"click element Failed")
             raise
         else:
-            base_log.csp_log.info(f"click {value} successed")
+            base_log.csp_log.info(f"click element successed")
 
 
     def handle_select(self,find_way,value,text):
@@ -169,10 +169,10 @@ class BasePage(object):
             Select(element).select_by_visible_text(text)
 
         except Exception:
-            base_log.csp_log.exception(f'handle select--{value}--- Failed')
+            base_log.csp_log.exception(f'handle select----- Failed')
             raise
         else:
-            base_log.csp_log.info(f'handle select--{value}--- successed')
+            base_log.csp_log.info(f'handle select----- successed')
 
     def handleform(self,id):
         """
@@ -434,6 +434,13 @@ class BasePage(object):
         :return:
         """
         self.base_driver.back()
+
+
+
+if __name__=="__main__":
+    pass
+
+
 
 
 

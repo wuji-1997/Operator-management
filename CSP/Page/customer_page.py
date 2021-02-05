@@ -3,6 +3,10 @@ import logging
 from Page.base_page import BasePage
 from common.readexcel import ReadExcel
 from config.Conf import *
+from common import write_text
+from config import Conf
+import time
+from common.writeexcel import Write_Excel
 custmoer_log=Log(__name__,file=logging.INFO,cmd=logging.INFO)
 add_data=ReadExcel(filepath=test_data+r'\test_customer_data.xlsx',sheetname="add")
 search_data=ReadExcel(filepath=test_data+r'\test_customer_data.xlsx',sheetname="search")
@@ -12,85 +16,57 @@ check_data = ReadExcel(filepath=test_data+r'\test_customer_data.xlsx',sheetname=
 class CustmoerPage(BasePage):
 
 
-    add = [(add_data.get_excel(1,3),add_data.get_excel(1,4)),  #0点击“新增客户”按钮
-           (add_data.get_excel(2,3),add_data.get_excel(2,4),add_data.get_excel(2,5)), #1输入新增的客户名称
-           (add_data.get_excel(3,3),add_data.get_excel(3,4),add_data.get_excel(3,5)), #2操作选择所属csp下拉框
-           (add_data.get_excel(4,3),add_data.get_excel(4,4),add_data.get_excel(4,5)), #3上传企业logo
-           (add_data.get_excel(5,3),add_data.get_excel(5,4),add_data.get_excel(5,5)), #4上传营业执照
-           (add_data.get_excel(6,3),add_data.get_excel(6,4),add_data.get_excel(6,5)), #5输入企业介绍
-           (add_data.get_excel(7,3),add_data.get_excel(7,4),add_data.get_excel(7,5)), #6输入企业所在地
-           (add_data.get_excel(8,3),add_data.get_excel(8,4),add_data.get_excel(8,5)), #7处理行业类型下拉框
-           (add_data.get_excel(9,3),add_data.get_excel(9,4),add_data.get_excel(9,5)), #8处理客户等级下拉框
-           (add_data.get_excel(10,3),add_data.get_excel(10,4),add_data.get_excel(10,5)), #9输入企业法人
-           (add_data.get_excel(11,3),add_data.get_excel(11,4),add_data.get_excel(11,5)), #10输入企业法人身份证号
-           (add_data.get_excel(12,3),add_data.get_excel(12,4),add_data.get_excel(12,5)), #11上传企业法人身份证正面
-           (add_data.get_excel(13,3),add_data.get_excel(13, 4),add_data.get_excel(13, 5)), #12上传企业法人身份证反面
-           (add_data.get_excel(14,3),add_data.get_excel(14, 4),add_data.get_excel(14, 5)), #13输入客户联系人姓名
-           (add_data.get_excel(15,3),add_data.get_excel(15, 4),add_data.get_excel(15, 5)), #14输入客户联系人电话
-           (add_data.get_excel(16,3),add_data.get_excel(16, 4),add_data.get_excel(16, 5)),#15输入客户联系人邮箱
-           (add_data.get_excel(17,3),add_data.get_excel(17,4),add_data.get_excel(17,5)),  #16输入客户联系人身份证号
-           (add_data.get_excel(18,3), add_data.get_excel(18,4),add_data.get_excel(18,5)), #17上传客户联系人身份证正面
-           (add_data.get_excel(19,3),add_data.get_excel(19,4),add_data.get_excel(19,5)), #18上传客户联系人身份证反面
-           (add_data.get_excel(20,3),add_data.get_excel(20,4)), #19输入合同编号
-           (add_data.get_excel(21,3),add_data.get_excel(21,4),add_data.get_excel(21,5)),  #20输入合同名称
-           (add_data.get_excel(22,3),add_data.get_excel(22,4),add_data.get_excel(22,5)),  #21输入合同生效日期
-           (add_data.get_excel(23,3),add_data.get_excel(23,4),add_data.get_excel(23,5)),  #22输入合同失效日期
-           (add_data.get_excel(24,3),add_data.get_excel(24,4)),  #23点击是否续约为是
-           (add_data.get_excel(25,3),add_data.get_excel(25,4),add_data.get_excel(25,5)),  #24输入合同续约日期
-           (add_data.get_excel(26,3),add_data.get_excel(26,4),add_data.get_excel(26,5)),  #25上传合同附件
-           (add_data.get_excel(27,3),add_data.get_excel(27,4)),  #26点击确认新建客户按钮
-           (add_data.get_excel(28,3),add_data.get_excel(28,4),add_data.get_excel(28,5)),  #27输入办公电话
-           add_data.get_excel(2,5)+'1',  #28新增另一个客户名称
+    add = [Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=3).read_column(2),
+           Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=3).read_column(4),
+           Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=3).read_column(5),
            ]
+    add_value = [add_data.get_excel(2,5),  #0输入新增的客户名称
+                 add_data.get_excel(3,5),  #1操作选择所属csp下拉框
+                 add_data.get_excel(4,5),  #2上传企业logo
+                 add_data.get_excel(5,5),  #3上传营业执照
+                 add_data.get_excel(6,5),  #4输入企业介绍
+                 add_data.get_excel(7,5),  #5输入企业所在地
+                 add_data.get_excel(8,5),  #6处理行业类型下拉框
+                 add_data.get_excel(9,5),  #7处理客户等级下拉框
+                 add_data.get_excel(10,5), #8输入企业法人
+                 add_data.get_excel(11,5), #9输入企业法人身份证号
+                 add_data.get_excel(12,5), #10上传企业法人身份证正面
+                 add_data.get_excel(13,5), #11上传企业法人身份证反面
+                 add_data.get_excel(14,5), #12输入客户联系人姓名
+                 add_data.get_excel(15,5), #13输入客户联系人电话
+                 add_data.get_excel(16,5), #14输入客户联系人邮箱
+                 add_data.get_excel(17,5), #15输入客户联系人身份证号
+                 add_data.get_excel(18,5), #16上传客户联系人身份证正面
+                 add_data.get_excel(19,5), #17上传客户联系人身份证反面
+                 add_data.get_excel(21,5), #18输入合同名称
+                 add_data.get_excel(22,5), #19输入合同生效日期
+                 add_data.get_excel(23,5), #20输入合同失效日期
+                 add_data.get_excel(25,5), #21输入合同续约日期
+                 add_data.get_excel(26,5), #22上传合同附件
+                 add_data.get_excel(28,5), #23输入办公电话
+                 ]
 
-    search = [(search_data.get_excel(1,3),search_data.get_excel(1,4)), #0点击客户管理一级菜单
-              (search_data.get_excel(2,3),search_data.get_excel(2,4)), #1点击客户管理二级菜单
-              (search_data.get_excel(3,3),search_data.get_excel(3,4),search_data.get_excel(3,5)), #2输入客户名称查询
-              (search_data.get_excel(4,3),search_data.get_excel(4,4),search_data.get_excel(4,5)), #3输入客户编码查询
-              (search_data.get_excel(5,3),search_data.get_excel(5,4),search_data.get_excel(5,5)), #4选择所属省份下拉框
-              (search_data.get_excel(6,3),search_data.get_excel(6,4),search_data.get_excel(6,5)), #5选择客户类型下拉框
-              (search_data.get_excel(7,3),search_data.get_excel(7,4)), #6点击确认查询按钮
-              (search_data.get_excel(8,3),search_data.get_excel(8,4)),#7查询出数据点击查看按钮
-              (search_data.get_excel(9,3),search_data.get_excel(9,4)), #8获取客户管理模块客户名称文本值
-              (search_data.get_excel(10,3),search_data.get_excel(10,4)), #9获取客户信息查看页面客户类型文本值
-              (search_data.get_excel(11,3),search_data.get_excel(11,4)), #10获取客户信息查看页面客户归属csp文本值
-              (search_data.get_excel(12,3),search_data.get_excel(12,4)), #11点击注销客户按钮
-              (search_data.get_excel(13,3),search_data.get_excel(13,4)), #12确认注销按钮
-              (search_data.get_excel(14,3),search_data.get_excel(14,4)), #13获取查看客户数据页面客户编码
+    search = [Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=0).read_column(2),
+              Write_Excel(filepath=test_data + r'\test_customer_data.xlsx', number=0).read_column(4),
+              Write_Excel(filepath=test_data + r'\test_customer_data.xlsx', number=0).read_column(5),
+              search_data.get_excel(6,5),
               ]
 
-    check = [(check_data.get_excel(1,3),check_data.get_excel(1,4)),  #0点击客户审核二级菜单
-             (check_data.get_excel(2,3),check_data.get_excel(2,4)),  #1点击CSP客户类型
-             (check_data.get_excel(3,3),check_data.get_excel(3,4)),  #2点击集团客户类型
-             (check_data.get_excel(4,3),check_data.get_excel(4,4)),  #3点击省公司客户类型
-             (check_data.get_excel(5,3),check_data.get_excel(5,4)),  #4点击其他客户类型
-             (check_data.get_excel(6,3),check_data.get_excel(6,4),check_data.get_excel(6,5)), #5输入客户名称查询审核数据
-             (check_data.get_excel(7,3),check_data.get_excel(7,4),check_data.get_excel(7,5)), #6输入客户编码查询审核数据
-             (check_data.get_excel(8,3),check_data.get_excel(8,4),check_data.get_excel(8,5)), #7选择所属省份查询审核数据
-             (check_data.get_excel(9,3),check_data.get_excel(9,4),check_data.get_excel(9,5)), #8选择审核类型查询审核数据
-             (check_data.get_excel(10,3),check_data.get_excel(10,4)),  #9选择归属csp
-             (check_data.get_excel(11,3),check_data.get_excel(11,4)),  #10点击查询按钮
-             (check_data.get_excel(12,3),check_data.get_excel(12,4)),  #11获取客户审核页面客户名称文本
-             (check_data.get_excel(13,3),check_data.get_excel(13,4)),   #12点击审核按钮
-             (check_data.get_excel(14,3),check_data.get_excel(14,4)),   #13选择审核通过
-             (check_data.get_excel(15,3),check_data.get_excel(15,4)),   #14选择审核不通过
-             (check_data.get_excel(16,3),check_data.get_excel(16,4),check_data.get_excel(16,5)), #15输入审核不通过原因
-             (check_data.get_excel(17,3),check_data.get_excel(17,4)),   #16点击确定审核按钮
-             (check_data.get_excel(18,3),check_data.get_excel(18,4)),   #17点击待审核
-             (check_data.get_excel(19,3),check_data.get_excel(19,4)),   #18点击已审核
-             (check_data.get_excel(20,3),check_data.get_excel(20,4)),   #19点击已审核客户查看按钮
-             (check_data.get_excel(21,3),check_data.get_excel(21,4)),   #20点击获取身份验证码
-             (check_data.get_excel(22,3),check_data.get_excel(22,4))]   #21点击确定按钮
+    check = [Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=2).read_column(2),
+             Write_Excel(filepath=test_data + r'\test_customer_data.xlsx', number=2).read_column(4),
+             Write_Excel(filepath=test_data + r'\test_customer_data.xlsx', number=2).read_column(5),
+             check_data.get_excel(9,5),check_data.get_excel(10,5),check_data.get_excel(14,5),
+             ]
 
-    update_user=[(update_data.get_excel(1,3),update_data.get_excel(1,4)),  #0点击编辑按钮
-                 (update_data.get_excel(2,3),update_data.get_excel(2,4),update_data.get_excel(2,5)), #1变更客户名称
-                 (update_data.get_excel(3,3),update_data.get_excel(3,4)), #点击变更所属CSP
-                 (update_data.get_excel(4,3),update_data.get_excel(4,4)), #点击选择中国电信10000
-                 (update_data.get_excel(5,3),update_data.get_excel(5,4)), #点击确认变更按钮
+    update_user=[Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=1).read_column(2),
+                 Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=1).read_column(4),
+                 Write_Excel(filepath=test_data+r'\test_customer_data.xlsx',number=1).read_column(5),
+                 update_data.get_excel(2,5),
+                 update_data.get_excel(3,5),
                  ]
 
 
-
+    nowtime = time.strftime('%Y-%m-%d %H:%M:%S')
 
 
     def intoform(self):
@@ -98,59 +74,63 @@ class CustmoerPage(BasePage):
         进入客户管理二级菜单查询节点
         :return:
         """
-        self.click_element(self.search[0][0],self.search[0][1])
-        self.click_element(self.search[1][0],self.search[1][1])
-        self.handleform(0)
+        try:
+            custmoer_log.csp_log.info(f'进入客户管理内置表单----------开始{self.search[0][1]}')
+            self.click_element(self.search[1][1],self.search[2][1])
+            custmoer_log.csp_log.info(f'进入客户管理内置表单----------开始{self.search[0][2]}')
+            self.click_element(self.search[1][2],self.search[2][2])
+            custmoer_log.csp_log.info(f'开始{self.search[0][2]}')
+            self.handleform(0)
 
-    def find_name(self,customername=add[1][-1]):
+        except Exception:
+            custmoer_log.csp_log.exception('进入客户管理二级菜单失败')
+            raise
+        else:
+            custmoer_log.csp_log.info('点击客户管理二级菜单内嵌表单')
+
+
+    def find_name(self,customername=add_value[0],belog_csp=check[4]):
         """
         按客户名称和客户类型查询数据
-        :param customername:
+        :param customername: 查询的客户名称
+        :param belog_csp: 查询的客户归属csp
         :return:
         """
         self.intoform()
-        self.wait(2)
-        self.input_value(self.search[2][0],self.search[2][1],customername)  #输入客户名称查询
-        self.wait(2)
-        self.handle_select(self.search[5][0],self.search[5][1],self.search[5][2])  # 选择客户类型
-        self.wait(2)
-        self.click_element(self.search[6][0],self.search[6][1])  #点击查询按钮
-        self.wait(2)
-
-    def get_user_text(self):
-        """
-        获取客户管理节点客户名称文本值
-        :return:
-        """
+        self.wait(1)
         try:
-            value = self.get_text(self.search[8][0],self.search[8][1])    #获取客户名称文本值
+            custmoer_log.csp_log.info(f'客户信息查询--------------开始{self.search[0][3]}--------{customername}')
+            self.input_value(self.search[1][3],self.search[2][3],customername)
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户信息查询--------------开始{self.search[0][6]}----------{self.search[3]}')
+            self.handle_select(self.search[1][6],self.search[2][6],self.search[3])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户信息查询--------------开始{self.check[0][9]}-----------{belog_csp}')
+            self.input_value(self.search[1][9], self.search[2][9],belog_csp)
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户信息查询--------------开始{self.search[0][7]}')
+            self.click_element(self.search[1][7],self.search[2][7])  #点击查询按钮
+            self.wait(1)
         except Exception:
-            custmoer_log.csp_log.exception(f'查询的客户不存在')
-            return False
+            custmoer_log.csp_log.exception(f'查询客户----{customername}失败')
+            raise
         else:
-            custmoer_log.csp_log.info(f'查询到客户{self.add[1][-1]}')
-            return value
-
+            custmoer_log.csp_log.info(f'查询客户----{customername}成功')
 
     def look_user(self):
         """
         点击查看客户信息
         :return:
         """
-        self.click_element(self.search[7][0],self.search[7][1])  #点击查看按钮
-        self.wait(2)
+        try:
+            self.click_element(self.search[1][8],self.search[2][8])
+            self.wait(1)
 
-    def into_view_page(self,data='0'):
-        """
-        进入查看数据页面
-        :param data:
-        :return:
-        """
-        self.find_name()
-        if data=='0':
-            return self.get_text(self.search[9][0],self.search[9][1])  #获取客户信息查看页面客户类型文本值
-        elif data=='1':
-            return self.get_text(self.search[10][0],self.search[10][1]) #获取客户信息查看页面客户归属csp文本值
+        except Exception:
+            custmoer_log.csp_log.exception(f'查询客户----开始{self.search[0][8]} 失败')
+            raise
+        else:
+            custmoer_log.csp_log.info(f'查询客户----开始{self.search[0][8]} 成功')
 
     def delete_user(self):
         """
@@ -158,83 +138,124 @@ class CustmoerPage(BasePage):
         :return:
         """
         self.look_user() #点击查看按钮
-        code = self.get_text(self.search[13][0],self.search[13][1])
+        try:
+            custmoer_log.csp_log.info(f'客户信息查看页面------------开始{self.search[0][12]}')
+            self.click_element(self.search[1][12],self.search[2][12])  #点击注销按钮
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户信息查看页面------------开始{self.search[0][13]}')
+            self.click_element(self.search[1][13],self.search[2][13])  #点击确认注销按钮
+            self.wait(1)
+            self.F5()
+        except Exception:
+            custmoer_log.csp_log.exception(f'注销客户失败')
+        else:
+            custmoer_log.csp_log.info('注销客户成功')
 
-        self.click_element(self.search[11][0],self.search[11][1])  #点击注销按钮
-        self.wait(2)
-        self.click_element(self.search[12][0],self.search[12][1])  #点击确认注销按钮
-        self.wait(3)
-        self.F5()
-        return code
-
-    def add_customer(self,name=add[1][2]):
+    def add_customer(self,name=add_value[0]):
         """
         新增客户
         :param name: 新增的客户名称
         :return:
         """
-        self.intoform()
-        self.click_element(self.add[0][0],self.add[0][1])
-        self.wait(2)
-        self.input_value(self.add[1][0],self.add[1][1],name)  #输入客户名称
-        self.wait(2)
-        self.handle_select(self.add[2][0],self.add[2][1],self.add[2][2])   #操作选择所属csp下拉框
-        self.wait(2)
-        self.upload_file(self.add[3][0],self.add[3][1],self.add[3][2])   #上传企业logo
-        self.wait(2)
-        self.upload_file(self.add[4][0],self.add[4][1],self.add[4][2])   #上传营业执照
-        self.wait(2)
-        self.input_value(self.add[5][0],self.add[5][1],self.add[5][2])  #输入企业介绍
-        self.wait(2)
-        self.input_value(self.add[6][0],self.add[6][1],self.add[6][2])   #输入企业所在地
-        self.wait(2)
-        self.handle_select(self.add[7][0],self.add[7][1],self.add[7][2])   #处理行业类型下拉框
-        self.wait(2)
-        self.input_value(self.add[27][0],self.add[27][1],self.add[27][2])  #输入办公电话
-        self.wait(2)
-        self.handle_select(self.add[8][0],self.add[8][1],self.add[8][2])  #处理客户等级下拉框
-        self.wait(2)
-        self.input_value(self.add[9][0],self.add[9][1],self.add[9][2]) #输入企业法人
-        self.wait(2)
-        self.input_value(self.add[10][0],self.add[10][1],self.add[10][2]) #输入企业法人身份证号
-        self.wait(2)
-        self.upload_file(self.add[11][0],self.add[11][1],self.add[11][2]) #上传企业法人身份证正面
-        self.wait(2)
-        self.upload_file(self.add[12][0],self.add[12][1],self.add[12][2]) #上传企业法人身份证反面
-        self.wait(2)
-        self.input_value(self.add[13][0],self.add[13][1],self.add[13][2]) #输入客户联系人姓名
-        self.wait(2)
-        self.input_value(self.add[14][0],self.add[14][1],self.add[14][2]+self.random_number()) #输入客户联系人电话
-        self.wait(2)
-        self.input_value(self.add[15][0],self.add[15][1],self.add[15][2]) #输入客户联系人邮箱
-        self.wait(2)
-        self.input_value(self.add[16][0],self.add[16][1],self.add[16][2]) #输入客户联系人身份证号
-        self.wait(2)
-        self.upload_file(self.add[17][0],self.add[17][1],self.add[17][2])  #上传客户联系人身份证正面
-        self.wait(2)
-        self.upload_file(self.add[18][0],self.add[18][1],self.add[18][2])  #上传客户联系人身份证反面
-        self.wait(2)
-        self.input_value(self.add[19][0],self.add[19][1],self.random_number())  #输入合同编号
-        self.wait(2)
-        self.input_value(self.add[20][0],self.add[20][1],self.add[20][2])    #输入合同名称
-        self.wait(2)
-        self.jsp(self.add[21][1]) #输入合同生效日期
-        self.wait(2)
-        self.jsp(self.add[21][2])
-        self.wait(2)
-        self.jsp(self.add[22][1]) #输入合同失效日期
-        self.wait(2)
-        self.jsp(self.add[22][2])
-        self.wait(2)
-        self.jsp(self.add[24][1]) #输入合同续约日期
-        self.wait(2)
-        self.jsp(self.add[24][2])
-        self.wait(2)
-        self.upload_file(self.add[25][0],self.add[25][1],self.add[25][2])  #上传合同附件
-        self.wait(2)
-        self.click_element(self.add[26][0],self.add[26][1])  #点击确认新建客户按钮
-        self.wait(2)
-        self.F5()
+        try:
+            self.intoform()
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][1]}')
+            self.click_element(self.add[1][1],self.add[2][1])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][2]}-------{name}')
+            self.input_value(self.add[1][2],self.add[2][2],name)  #输入客户名称
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][3]}')
+            self.handle_select(self.add[1][3],self.add[2][3],self.add_value[1])   #操作选择所属csp下拉框
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][4]}')
+            self.upload_file(self.add[1][4],self.add[2][4],self.add_value[2])   #上传企业logo
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][5]}')
+            self.upload_file(self.add[1][5],self.add[2][5],self.add_value[3])   #上传营业执照
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][6]}')
+            self.input_value(self.add[1][6],self.add[2][6],self.add_value[4])  #输入企业介绍
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][7]}-------{self.add_value[5]}')
+            self.input_value(self.add[1][7],self.add[2][7],self.add_value[5])   #输入企业所在地
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][8]}-------{self.add_value[6]}')
+            self.handle_select(self.add[1][8],self.add[2][8],self.add_value[6])   #处理行业类型下拉框
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][28]}-----------{self.add_value[23]}')
+            self.input_value(self.add[1][28],self.add[2][28],self.add_value[23])  #输入办公电话
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][9]}-------{self.add_value[7]}')
+            self.handle_select(self.add[1][9],self.add[2][9],self.add_value[7])  #处理客户等级下拉框
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][10]}------{self.add_value[8]}')
+            self.input_value(self.add[1][10],self.add[2][10],self.add_value[8]) #输入企业法人
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][11]}--------{self.add_value[9]}')
+            self.input_value(self.add[1][11],self.add[2][11],self.add_value[9]) #输入企业法人身份证号
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][12]}---------{self.add_value[10]}')
+            self.upload_file(self.add[1][12],self.add[2][12],self.add_value[10]) #上传企业法人身份证正面
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][13]}---------{self.add_value[11]}')
+            self.upload_file(self.add[1][13],self.add[2][13],self.add_value[11]) #上传企业法人身份证反面
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][14]}----------{self.add_value[12]}')
+            self.input_value(self.add[1][14],self.add[2][14],self.add_value[12]) #输入客户联系人姓名
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][15]}')
+            self.input_value(self.add[1][15],self.add[2][15],self.add_value[13]+self.random_number()) #输入客户联系人电话
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][16]}------------{self.add_value[14]}')
+            self.input_value(self.add[1][16],self.add[2][16],self.add_value[14]) #输入客户联系人邮箱
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][17]}')
+            self.input_value(self.add[1][17],self.add[2][17],self.add_value[15]) #输入客户联系人身份证号
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][18]}')
+            self.upload_file(self.add[1][18],self.add[2][18],self.add_value[16])  #上传客户联系人身份证正面
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][19]}')
+            self.upload_file(self.add[1][19],self.add[2][19],self.add_value[17])  #上传客户联系人身份证反面
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][20]}')
+            self.input_value(self.add[1][20],self.add[2][20],self.random_number())  #输入合同编号
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][21]}--------{self.add_value[18]}')
+            self.input_value(self.add[1][21],self.add[2][21],self.add_value[18])    #输入合同名称
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][22]}')
+            self.jsp(self.add[2][22]) #输入合同生效日期
+            self.wait(1)
+            self.jsp(self.add_value[19])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][23]}')
+            self.jsp(self.add[2][23]) #输入合同失效日期
+            self.wait(1)
+            self.jsp(self.add_value[20])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][25]}')
+            self.jsp(self.add[2][25]) #输入合同续约日期
+            self.wait(1)
+            self.jsp(self.add_value[21])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][26]}')
+            self.upload_file(self.add[1][26],self.add[2][26],self.add_value[22])  #上传合同附件
+            self.wait(1)
+            custmoer_log.csp_log.info(f'客户新增页面-----------开始{self.add[0][27]}')
+            self.click_element(self.add[1][27],self.add[2][27])  #点击确认新建客户按钮
+            self.wait(1)
+
+        except Exception:
+            custmoer_log.csp_log.exception(f'新增客户---{name}失败')
+            raise
+        else:
+
+            write_text.Text_action(Conf.notebook+r'\notebook.txt').write_file(value=f'{self.nowtime}-----{name}')
+            self.F5()
+            custmoer_log.csp_log.info(f'新增客户-----{name}成功')
+
 
 
     def intoformcheck(self,intoway='0'):
@@ -243,54 +264,66 @@ class CustmoerPage(BasePage):
         :param way:
         :return:
         """
-        self.click_element(self.search[0][0], self.search[0][1])
-        self.click_element(self.check[0][0],self.check[0][1])
-        self.handleform(0)
-        # 判断页面是否存在身份验证
-        if intoway=='0':
-
-            if self.isElementExist(findway=self.check[20][0],elementvalue=self.check[20][1]):
-                self.wait(40)
-                self.click_element(self.check[21][0], self.check[21][1])
-                self.wait(5)
-            else:
-                custmoer_log.csp_log.info('无需身份验证')
+        try:
+            custmoer_log.csp_log.info(f'进入客户审核内置表单-----------开始{self.search[0][1]}')
+            self.click_element(self.search[1][1], self.search[2][1])
+            custmoer_log.csp_log.info(f'进入客户审核内置表单-----------开始{self.check[0][2]}')
+            self.click_element(self.check[1][1],self.check[2][1])
+            self.handleform(0)
+        except Exception:
+            custmoer_log.csp_log.exception('进入客户审核二级菜单失败')
+            raise
         else:
-            custmoer_log.csp_log.info(f'进入客户审核二级表单')
+            custmoer_log.csp_log.info('进入客户审核二级菜单成功')
+            # 判断页面是否存在身份验证
+            if intoway=='0':
 
-    def finding_check(self,check_way=check[1][1],way='0',checkname=add[1][-1],way_number='0'):
+                if self.isElementExist(findway=self.check[1][18],elementvalue=self.check[2][18]):
+                    self.wait(40)
+                    self.click_element(self.check[1][19], self.check[2][19])
+                    self.wait(5)
+                else:
+                    custmoer_log.csp_log.info(f'开始{self.check[0][19]}')
+            else:
+                custmoer_log.csp_log.info(f'身份验证成功')
+
+    def finding_check(self,way='0',checkname=add_value[0],way_number='0',check_way=check[3]):
         """
         查询已审核或者未审核的客户数据
-        :param check_way: 审核的客户类型默认为csp客户
-        :param way: 审核类型 已审核或者未审核 默认为未审核
-        :param checkname: 审核的客户名称
+        :param way: 判断查询已审核还是待审核数据
+        :param checkname: 查询的客户名称
+        :param way_number: 判断是否需要身份严重
+        :param check_way: 判读查询的数据审核类型
         :return:
         """
-        self.intoformcheck(intoway=way_number)                            #点击进入审核内置表单
-        self.click_element(self.check[2][0],check_way)  #点击客户类型
-        self.wait(2)
-        if way=='0':
-            self.click_element(self.check[17][0],self.check[17][1]) #点击待审核
-            self.wait(2)
-        elif way=='1':
-            self.click_element(self.check[18][0],self.check[18][1]) ##点击已审核
-            self.wait(2)
-        self.input_value(self.check[5][0],self.check[5][1],checkname)  #输入客户名称
-        self.click_element(self.check[10][0],self.check[10][1])             #点击查询按钮
-        self.wait(2)
-    def get_find_check_text(self):
-        """
-        获取查询的数据客户名称文本值
-        :return:
-        """
+
+        self.intoformcheck(intoway=way_number)#点击进入审核内置表单
+
+        if way == '0':
+            custmoer_log.csp_log.info('默认选择待审核')
+        elif way == '1':
+            custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][16]}')
+            self.click_element(self.check[1][16], self.check[2][16])  ##点击已审核
+            self.wait(1)
+
         try:
-            value = self.get_text(self.check[11][0],self.check[11][1])
+            custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][6]}')
+            self.input_value(self.check[1][6], self.check[2][6], checkname)  # 输入客户名称
+            self.wait(1)
+            custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][9]}')
+            self.handle_select(self.check[1][9], self.check[2][9],check_way)
+            self.wait(1)
+            custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][10]}')
+            self.handle_select(self.check[1][10], self.check[2][10], self.check[4])
+            self.wait(1)
+            custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][11]}')
+            self.click_element(self.check[1][11], self.check[2][11])  # 点击查询按钮
+            self.wait(1)
         except Exception:
-            custmoer_log.csp_log.exception(f'查询的客户---{self.add[1][-1]}不存在')
-            return False
+            custmoer_log.csp_log.exception(f'查询待审核的客户数据--------{checkname}失败')
         else:
-            custmoer_log.csp_log.info(f'查询的客户----{self.add[1][-1]}存在')
-            return value
+            custmoer_log.csp_log.info(f'查询待审核的客户数据--------{checkname}成功')
+
 
     def click_check(self,result='0'):
         """
@@ -298,32 +331,64 @@ class CustmoerPage(BasePage):
         :param result:默认审核通过
         :return:
         """
-        self.click_element(self.check[12][0],self.check[12][1])  #点击审核按钮
-        self.wait(2)
+        custmoer_log.csp_log.info(f'查询审核的数据---------开始{self.check[0][12]}')
+        self.click_element(self.check[1][12],self.check[2][12])  #点击审核按钮
+        self.wait(1)
+        if result == '1':
+            try:
+                custmoer_log.csp_log.info(f'客户信息审核页面-----------开始{self.check[0][13]}')
+                self.click_element(self.check[1][13],self.check[2][13])  #点击审核不通过
+                self.wait(1)
+                custmoer_log.csp_log.info(f'客户信息审核页面-----------开始{self.check[5]}')
+                self.input_value(self.check[1][14],self.check[2][14],self.check[5])  #输入审核不通过原因
+                self.wait(1)
+                custmoer_log.csp_log.info(f'开始{self.check[0][15]}')
+                self.click_element(self.check[1][15], self.check[2][15])  # 点击确认审核按钮
+                self.wait(1)
+            except Exception:
+                custmoer_log.csp_log.exception(f'审核失败')
+                raise
+            else:
+                custmoer_log.csp_log.info('审核成功')
+            finally:
+                   self.F5()
 
-        if result=='1':
-            self.click_element(self.check[14][0],self.check[14][1])  #点击审核不通过
-            self.wait(2)
-            self.input_value(self.check[15][0],self.check[15][1],self.check[15][2])  #输入审核不通过原因
-            self.wait(2)
-            self.click_element(self.check[16][0], self.check[16][1])  # 点击确认审核按钮
-            self.wait(2)
-        elif result=='0':
-            self.wait(2)
+        else:
+            custmoer_log.csp_log.info(f'客户信息审核页面-----------开始{self.check[0][15]}')
+            self.click_element(self.check[1][15], self.check[2][15])  # 点击确认审核按钮
+            self.wait(1)
+            self.F5()
 
-        self.click_element(self.check[16][0], self.check[16][1])  # 点击确认审核按钮
-        self.wait(2)
-        self.F5()
-
-
-
-    def look_check(self):
+    def assert_text(self,text):
         """
-        查看已审核的数据
+
+        :param text:
         :return:
         """
-        self.click_element(self.check[19][0],self.check[19][1])
-        self.wait(2)
+        value = f'<td>{text}</td>'
+        return value
+
+    def update_msg(self):
+        """
+        变更客户信息
+        :return:
+        """
+        self.look_user()  # 点击查看按钮
+        self.wait(1)
+        custmoer_log.csp_log.info(f'客户信息查看页面-------开始{self.update_user[0][1]}')
+        self.click_element(self.update_user[1][1],self.update_user[2][1])
+        self.wait(1)
+        custmoer_log.csp_log.info(f'客户信息查看页面-------开始{self.update_user[0][2]}')
+        self.clear_input(self.update_user[1][2],self.update_user[2][2])
+        self.wait(1)
+        custmoer_log.csp_log.info(f'客户信息查看页面-------开始{self.update_user[0][2]}-----------{self.update_user[3]}')
+        self.input_value(self.update_user[1][2],self.update_user[2][2],self.update_user[3])
+        self.wait(1)
+        custmoer_log.csp_log.info(f'客户信息查看页面-------开始{self.update_user[0][4]}')
+        self.click_element(self.update_user[1][4],self.update_user[2][4])
+        self.wait(1)
+        self.F5()
+
 
 
 

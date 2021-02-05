@@ -53,6 +53,8 @@ class SyStem_Management_Page(BasePage):
               (role_date.get_excel(10,3),role_date.get_excel(10,4)),  #9点击新增角色
               (role_date.get_excel(11,3),role_date.get_excel(11,4),role_date.get_excel(11,5)),  #10输入新增角色名称
               (role_date.get_excel(12,3),role_date.get_excel(12,4),role_date.get_excel(12,5)),  #11输入新增角色权限描述
+              (role_date.get_excel(13,3),role_date.get_excel(13,4)),  #12点击系统管理
+              (role_date.get_excel(14,3),role_date.get_excel(14,4)),  #13点击确认删除角色按钮
               ]
 
     sensitivedate=[(sensitive_date.get_excel(1,3),sensitive_date.get_excel(1,4)),   #0点击敏感词库管理
@@ -156,6 +158,7 @@ class SyStem_Management_Page(BasePage):
         self.click_element(self.accountdate[11][0],self.accountdate[11][1])
         system_log.csp_log.info(f'点击删除按钮')
         self.wait(2)
+        self.F5()
 
     def update_user(self):
         """
@@ -198,6 +201,7 @@ class SyStem_Management_Page(BasePage):
         value  =f'<span>{text}</span>'
         return value
 
+    '''
     def intorole(self):
         """
         进入角色管理
@@ -209,6 +213,113 @@ class SyStem_Management_Page(BasePage):
         system_log.csp_log.info(f'点击账号管理二级菜单')
         self.handleform(0)
         system_log.csp_log.info(f'切换至账号管理内置表单')
+
+    def find_role(self,role_name):
+        """
+        查询角色
+        :param role_name:
+        :return:
+        """
+        self.intorole()
+        self.input_value(self.roledate[1][0],self.roledate[1][1],role_name)
+        self.wait(2)
+        system_log.csp_log.info(f'输入查询的角色名称----{role_name}')
+        self.click_element(self.roledate[2][0],self.roledate[2][1])
+        system_log.csp_log.info('点击查询按钮')
+        self.wait(2)
+
+    def update_role(self):
+        """
+        变更角色信息
+        :return:
+        """
+        self.click_element(self.roledate[3][0],self.roledate[3][1])
+        self.wait(2)
+        system_log.csp_log.info('点击编辑按钮')
+        self.clear_input(self.roledate[1][0],self.roledate[1][1])
+        self.wait(2)
+        system_log.csp_log.info('清空用户名称输入框')
+        self.input_value(self.roledate[1][0],self.roledate[1][1],self.roledate[4][2])
+        self.wait(2)
+        system_log.csp_log.info(f'输入变更的用户名称{self.roledate[4][2]}')
+        self.click_element(self.roledate[5][0],self.roledate[5][1])
+        system_log.csp_log.info('点击确定变更按钮')
+        self.wait(2)
+        self.F5()
+
+    def delete_role(self):
+        """
+        删除角色
+        :return:
+        """
+        self.click_element(self.roledate[6][0],self.roledate[6][1])
+        system_log.csp_log.info('点击删除按钮')
+        self.wait(2)
+        self.click_element(self.roledate[13][0],self.roledate[13][1])
+        system_log.csp_log.info('点击确认删除按钮')
+        self.wait(2)
+        self.F5()
+
+    def add_role(self):
+        """
+        新增角色
+        :return:
+        """
+        self.click_element(self.roledate[9][0],self.roledate[9][1])
+        system_log.csp_log.info('点击新增角色按钮')
+        self.wait(2)
+        self.input_value(self.roledate[10][0],self.roledate[10][1],self.roledate[10][2])
+        system_log.csp_log.info(f'输入新增的角色名称{self.roledate[10][2]}')
+        self.wait(2)
+        self.input_value(self.roledate[11][0],self.roledate[11][1],self.roledate[11][2])
+        system_log.csp_log.info(f'输入新增的角色描述')
+        self.wait(2)
+        self.click_element(self.roledate[12][0],self.roledate[12][1])
+        system_log.csp_log.info('点击系统管理权限')
+        self.wait(2)
+        self.click_element(self.roledate[5][0], self.roledate[5][1])
+        system_log.csp_log.info('点击确认新增按钮')
+        self.wait(2)
+        self.F5()
+
+    def copy_add_role(self):
+        """
+        复制新增角色
+        :return:
+        """
+        self.find_role(role_name='普通管理员')
+        self.wait(2)
+
+        self.click_element(self.roledate[7][0],self.roledate[7][1])
+        system_log.csp_log.info('点击复制按钮')
+        self.wait(2)
+        self.input_value(self.roledate[10][0], self.roledate[10][1], 'copy新增角色')
+        system_log.csp_log.info(f'输入新增的角色名称')
+        self.wait(2)
+        self.click_element(self.roledate[5][0], self.roledate[5][1])
+        system_log.csp_log.info('点击确认新增按钮')
+        self.wait(2)
+        self.F5()
+
+    def assert_role(self,text):
+        """
+
+        :param text:
+        :return:
+        """
+        value =f'{text}</div>'
+        return value
+    '''
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,2179 @@
+2021-02-04 09:03:39,116-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 09:03:39,116-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 09:03:39,179-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 09:03:39,179-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 09:03:40,000-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:03:40,000-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,016-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:03:40,016-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,047-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:03:40,047-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户测试07"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\loading.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "江苏淮安"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "IT服务"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "金牌会员"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "张无忌"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "5g消息"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_home_ipt").value="2019/07/05""-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_end_ipt").value="2022/07/05""-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_renew_ipt").value="2021/07/05""-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 09:03:40,047-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360766327"-- successed
+2021-02-04 09:03:40,094-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:03:40,094-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,110-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:03:40,110-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,142-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:03:40,142-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,142-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 09:03:40,173-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:03:40,173-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,189-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:03:40,189-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,220-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:03:40,220-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,220-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 09:03:40,220-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-02-04 09:03:40,220-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户信息有误"-- successed
+2021-02-04 09:03:40,249-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:03:40,249-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,280-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:03:40,280-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,312-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:03:40,312-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:03:40,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "测试变更"-- successed
+2021-02-04 09:03:40,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信10000"-- successed
+2021-02-04 09:03:40,343-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 09:03:43,605-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="40a7acb69061b801f73e6021b6617858")> success
+2021-02-04 09:03:43,605-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:03:46,607-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 09:03:46,623-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 09:03:46,713-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 09:03:47,743-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 09:03:47,817-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 09:03:48,835-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 09:03:48,892-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:03,909-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 09:04:04,040-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:44,077-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 09:04:44,123-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:46,146-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:04:46,190-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:46,190-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:04:46,214-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:04:46,253-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:46,253-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:04:46,495-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:04:46,495-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:04:46,518-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/a/button') successed
+2021-02-04 09:04:47,103-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:04:47,103-customer_page.py:[162]-[INFO]-开始点击“新增客户”按钮
+2021-02-04 09:04:49,138-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:04:49,222-base_page.py:[142]-[INFO]-input  客户测试07 successed
+2021-02-04 09:04:49,223-customer_page.py:[165]-[INFO]-开始输入新增的客户名称-------客户测试07
+2021-02-04 09:04:51,248-base_page.py:[77]-[INFO]-locate ('name', 'cspId') successed
+2021-02-04 09:04:51,323-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:04:51,323-customer_page.py:[168]-[INFO]-开始操作选择所属csp下拉框
+2021-02-04 09:04:53,355-base_page.py:[66]-[INFO]-locate ('id', 'rcs_logo') successed
+2021-02-04 09:05:01,468-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:05:01,468-customer_page.py:[171]-[INFO]-开始上传企业logo
+2021-02-04 09:05:03,498-base_page.py:[66]-[INFO]-locate ('id', 'license') successed
+2021-02-04 09:05:11,599-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:05:11,599-customer_page.py:[174]-[INFO]-开始上传营业执照
+2021-02-04 09:05:13,624-base_page.py:[66]-[INFO]-locate ('id', 'introduce') successed
+2021-02-04 09:05:13,827-base_page.py:[142]-[INFO]-input  为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。 successed
+2021-02-04 09:05:13,827-customer_page.py:[177]-[INFO]-开始输入企业介绍
+2021-02-04 09:05:15,846-base_page.py:[77]-[INFO]-locate ('name', 'businessAddress') successed
+2021-02-04 09:05:15,917-base_page.py:[142]-[INFO]-input  江苏淮安 successed
+2021-02-04 09:05:15,917-customer_page.py:[180]-[INFO]-开始输入企业所在地-------江苏淮安
+2021-02-04 09:05:17,937-base_page.py:[66]-[INFO]-locate ('id', 'businessType') successed
+2021-02-04 09:05:18,013-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:05:18,013-customer_page.py:[183]-[INFO]-开始处理行业类型下拉框-------IT服务
+2021-02-04 09:05:20,032-base_page.py:[77]-[INFO]-locate ('name', 'workPhone') successed
+2021-02-04 09:05:20,126-base_page.py:[142]-[INFO]-input  18360766327 successed
+2021-02-04 09:05:20,127-customer_page.py:[186]-[INFO]-开始输入办公电话-----------18360766327
+2021-02-04 09:05:22,151-base_page.py:[66]-[INFO]-locate ('id', 'ecGrade') successed
+2021-02-04 09:05:22,226-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:05:22,226-customer_page.py:[189]-[INFO]-开始处理客户等级下拉框-------金牌会员
+2021-02-04 09:05:24,258-base_page.py:[66]-[INFO]-locate ('id', 'legalName') successed
+2021-02-04 09:05:24,341-base_page.py:[142]-[INFO]-input  吴忌 successed
+2021-02-04 09:05:24,341-customer_page.py:[192]-[INFO]-开始输入企业法人------吴忌
+2021-02-04 09:05:26,358-base_page.py:[77]-[INFO]-locate ('name', 'legalIdentification') successed
+2021-02-04 09:05:26,454-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 09:05:26,454-customer_page.py:[195]-[INFO]-开始输入企业法人身份证号--------320804199701025118
+2021-02-04 09:05:28,479-base_page.py:[66]-[INFO]-locate ('id', 'person_front') successed
+2021-02-04 09:05:36,598-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:05:36,598-customer_page.py:[198]-[INFO]-开始上传企业法人身份证正面---------E:\test\test_first.jpg
+2021-02-04 09:05:38,626-base_page.py:[66]-[INFO]-locate ('id', 'person_contrary') successed
+2021-02-04 09:05:46,733-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:05:46,733-customer_page.py:[201]-[INFO]-开始上传企业法人身份证反面---------E:\test\test_first.jpg
+2021-02-04 09:05:48,761-base_page.py:[77]-[INFO]-locate ('name', 'operatorName') successed
+2021-02-04 09:05:48,845-base_page.py:[142]-[INFO]-input  张无忌 successed
+2021-02-04 09:05:48,845-customer_page.py:[204]-[INFO]-开始输入客户联系人姓名----------张无忌
+2021-02-04 09:05:50,869-base_page.py:[77]-[INFO]-locate ('name', 'operatorPhone') successed
+2021-02-04 09:05:50,954-base_page.py:[142]-[INFO]-input  18360326071 successed
+2021-02-04 09:05:50,954-customer_page.py:[207]-[INFO]-开始输入客户联系人电话
+2021-02-04 09:05:52,986-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="email"]') successed
+2021-02-04 09:05:53,071-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 09:05:53,071-customer_page.py:[210]-[INFO]-开始输入客户联系人邮箱------------wuji0121@163.com
+2021-02-04 09:05:55,100-base_page.py:[77]-[INFO]-locate ('name', 'operatorCard') successed
+2021-02-04 09:05:55,200-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 09:05:55,200-customer_page.py:[213]-[INFO]-开始输入客户联系人身份证号
+2021-02-04 09:05:57,233-base_page.py:[66]-[INFO]-locate ('id', 'contacts_front') successed
+2021-02-04 09:06:05,341-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:06:05,341-customer_page.py:[216]-[INFO]-开始上传客户联系人身份证正面
+2021-02-04 09:06:07,371-base_page.py:[66]-[INFO]-locate ('id', 'contacts_contrary') successed
+2021-02-04 09:06:15,480-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:06:15,480-customer_page.py:[219]-[INFO]-开始上传客户联系人身份证反面
+2021-02-04 09:06:17,509-base_page.py:[77]-[INFO]-locate ('name', 'contractNo') successed
+2021-02-04 09:06:17,580-base_page.py:[142]-[INFO]-input  651380 successed
+2021-02-04 09:06:17,581-customer_page.py:[222]-[INFO]-开始输入合同编号
+2021-02-04 09:06:19,602-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="name"]') successed
+2021-02-04 09:06:19,669-base_page.py:[142]-[INFO]-input  5g消息 successed
+2021-02-04 09:06:19,669-customer_page.py:[225]-[INFO]-开始输入合同名称--------5g消息
+2021-02-04 09:06:21,675-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:06:23,692-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_ipt").value="2019/07/05" " successed
+2021-02-04 09:06:23,692-customer_page.py:[230]-[INFO]-开始输入合同生效日期
+2021-02-04 09:06:25,701-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:06:27,717-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_ipt").value="2022/07/05" " successed
+2021-02-04 09:06:27,717-customer_page.py:[235]-[INFO]-开始输入合同失效日期
+2021-02-04 09:06:29,736-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_renew_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:06:31,747-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_renew_ipt").value="2021/07/05" " successed
+2021-02-04 09:06:31,748-customer_page.py:[240]-[INFO]-开始输入合同续约日期
+2021-02-04 09:06:33,765-base_page.py:[66]-[INFO]-locate ('id', 'downaccessory') successed
+2021-02-04 09:06:41,878-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:06:41,878-customer_page.py:[243]-[INFO]-开始上传合同附件
+2021-02-04 09:06:43,901-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div[5]/button[2]') successed
+2021-02-04 09:06:44,393-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:06:44,393-customer_page.py:[246]-[INFO]-开始点击确认新建客户按钮
+2021-02-04 09:06:46,785-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:06:46,785-customer_page.py:[256]-[INFO]-新增客户-----客户测试07成功
+2021-02-04 09:06:46,808-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:06:46,848-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:06:46,848-customer_page.py:[268]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:06:46,866-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[2]') successed
+2021-02-04 09:06:46,904-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:06:46,904-customer_page.py:[270]-[INFO]-开始点击CSP客户类型
+2021-02-04 09:06:47,314-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:06:47,315-customer_page.py:[276]-[INFO]-进入客户审核二级菜单成功
+2021-02-04 09:06:47,336-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div/div[2]/div[2]/button') successed
+2021-02-04 09:06:47,425-base_page.py:[427]-[INFO]-元素存在且可以操作
+2021-02-04 09:07:27,465-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div/div[3]/button[2]') successed
+2021-02-04 09:07:27,544-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:32,546-customer_page.py:[302]-[INFO]-默认选择待审核
+2021-02-04 09:07:34,566-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:07:34,653-base_page.py:[142]-[INFO]-input  客户测试07 successed
+2021-02-04 09:07:36,675-base_page.py:[77]-[INFO]-locate ('name', 'reviewType') successed
+2021-02-04 09:07:36,739-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:07:36,739-customer_page.py:[312]-[INFO]-开始选择审核类型查询审核数据
+2021-02-04 09:07:38,757-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:07:38,830-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:07:38,831-customer_page.py:[315]-[INFO]-开始选择归属csp
+2021-02-04 09:07:40,857-base_page.py:[121]-[INFO]-locate ('css selector', '#findCspFrom > div > div.submit_btn > button.query') successed
+2021-02-04 09:07:41,187-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:41,187-customer_page.py:[318]-[INFO]-开始点击查询按钮
+2021-02-04 09:07:43,189-customer_page.py:[323]-[INFO]-开始输入客户名称查询审核数据--------客户测试07成功
+2021-02-04 09:07:43,204-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:07:43,220-base_page.py:[110]-[INFO]-locate ('link text', '审核') successed
+2021-02-04 09:07:43,645-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:43,646-customer_page.py:[334]-[INFO]-开始点击审核按钮
+2021-02-04 09:07:45,669-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[4]/button') successed
+2021-02-04 09:07:45,749-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:45,749-customer_page.py:[357]-[INFO]-开始点击确定审核按钮
+2021-02-04 09:07:48,122-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:07:48,145-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:07:48,186-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:48,186-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:07:48,210-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:07:48,246-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:48,246-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:07:48,415-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:07:48,415-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:07:50,431-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:07:50,511-base_page.py:[142]-[INFO]-input  客户测试07 successed
+2021-02-04 09:07:50,512-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------客户测试07
+2021-02-04 09:07:52,535-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:07:52,593-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:07:52,593-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:07:54,612-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:07:54,696-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:07:54,696-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:07:56,719-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:07:56,979-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:56,979-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:07:58,983-customer_page.py:[117]-[INFO]-查询客户----客户测试07成功
+2021-02-04 09:07:58,983-screenshoot.py:[25]-[INFO]-screenshoot 新增客户审核通过 save in E:\CSP\screenshoot\CSP\customer\photo2021-02-04-09-07-58新增客户审核通过.png success
+2021-02-04 09:07:59,308-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:07:59,308-test_b_customer.py:[40]-[INFO]-断言成功，案例--testcase02通过------<td>客户测试07</td> 在当前页面
+2021-02-04 09:07:59,308-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:07:59案例执行通过--成功
+NoneType: None
+2021-02-04 09:07:59,731-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:07:59,731-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:07:59,750-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:07:59,786-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:59,786-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:07:59,806-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:07:59,841-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:07:59,841-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:08:00,008-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:08:00,008-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:08:00,039-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/a/button') successed
+2021-02-04 09:08:00,276-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:08:00,276-customer_page.py:[162]-[INFO]-开始点击“新增客户”按钮
+2021-02-04 09:08:02,316-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:08:02,387-base_page.py:[142]-[INFO]-input  客户测试075 successed
+2021-02-04 09:08:02,387-customer_page.py:[165]-[INFO]-开始输入新增的客户名称-------客户测试075
+2021-02-04 09:08:04,403-base_page.py:[77]-[INFO]-locate ('name', 'cspId') successed
+2021-02-04 09:08:04,478-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:08:04,478-customer_page.py:[168]-[INFO]-开始操作选择所属csp下拉框
+2021-02-04 09:08:06,499-base_page.py:[66]-[INFO]-locate ('id', 'rcs_logo') successed
+2021-02-04 09:08:14,609-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:08:14,609-customer_page.py:[171]-[INFO]-开始上传企业logo
+2021-02-04 09:08:16,650-base_page.py:[66]-[INFO]-locate ('id', 'license') successed
+2021-02-04 09:08:24,755-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:08:24,755-customer_page.py:[174]-[INFO]-开始上传营业执照
+2021-02-04 09:08:26,784-base_page.py:[66]-[INFO]-locate ('id', 'introduce') successed
+2021-02-04 09:08:26,982-base_page.py:[142]-[INFO]-input  为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。 successed
+2021-02-04 09:08:26,982-customer_page.py:[177]-[INFO]-开始输入企业介绍
+2021-02-04 09:08:29,005-base_page.py:[77]-[INFO]-locate ('name', 'businessAddress') successed
+2021-02-04 09:08:29,078-base_page.py:[142]-[INFO]-input  江苏淮安 successed
+2021-02-04 09:08:29,078-customer_page.py:[180]-[INFO]-开始输入企业所在地-------江苏淮安
+2021-02-04 09:08:31,108-base_page.py:[66]-[INFO]-locate ('id', 'businessType') successed
+2021-02-04 09:08:31,178-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:08:31,178-customer_page.py:[183]-[INFO]-开始处理行业类型下拉框-------IT服务
+2021-02-04 09:08:33,208-base_page.py:[77]-[INFO]-locate ('name', 'workPhone') successed
+2021-02-04 09:08:33,278-base_page.py:[142]-[INFO]-input  18360766327 successed
+2021-02-04 09:08:33,278-customer_page.py:[186]-[INFO]-开始输入办公电话-----------18360766327
+2021-02-04 09:08:35,308-base_page.py:[66]-[INFO]-locate ('id', 'ecGrade') successed
+2021-02-04 09:08:35,372-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:08:35,372-customer_page.py:[189]-[INFO]-开始处理客户等级下拉框-------金牌会员
+2021-02-04 09:08:37,388-base_page.py:[66]-[INFO]-locate ('id', 'legalName') successed
+2021-02-04 09:08:37,450-base_page.py:[142]-[INFO]-input  吴忌 successed
+2021-02-04 09:08:37,450-customer_page.py:[192]-[INFO]-开始输入企业法人------吴忌
+2021-02-04 09:08:39,477-base_page.py:[77]-[INFO]-locate ('name', 'legalIdentification') successed
+2021-02-04 09:08:39,553-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 09:08:39,553-customer_page.py:[195]-[INFO]-开始输入企业法人身份证号--------320804199701025118
+2021-02-04 09:08:41,576-base_page.py:[66]-[INFO]-locate ('id', 'person_front') successed
+2021-02-04 09:08:49,696-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:08:49,696-customer_page.py:[198]-[INFO]-开始上传企业法人身份证正面---------E:\test\test_first.jpg
+2021-02-04 09:08:51,715-base_page.py:[66]-[INFO]-locate ('id', 'person_contrary') successed
+2021-02-04 09:08:59,810-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:08:59,810-customer_page.py:[201]-[INFO]-开始上传企业法人身份证反面---------E:\test\test_first.jpg
+2021-02-04 09:09:01,834-base_page.py:[77]-[INFO]-locate ('name', 'operatorName') successed
+2021-02-04 09:09:01,906-base_page.py:[142]-[INFO]-input  张无忌 successed
+2021-02-04 09:09:01,906-customer_page.py:[204]-[INFO]-开始输入客户联系人姓名----------张无忌
+2021-02-04 09:09:03,929-base_page.py:[77]-[INFO]-locate ('name', 'operatorPhone') successed
+2021-02-04 09:09:04,004-base_page.py:[142]-[INFO]-input  18360537026 successed
+2021-02-04 09:09:04,004-customer_page.py:[207]-[INFO]-开始输入客户联系人电话
+2021-02-04 09:09:06,035-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="email"]') successed
+2021-02-04 09:09:06,128-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 09:09:06,128-customer_page.py:[210]-[INFO]-开始输入客户联系人邮箱------------wuji0121@163.com
+2021-02-04 09:09:08,156-base_page.py:[77]-[INFO]-locate ('name', 'operatorCard') successed
+2021-02-04 09:09:08,247-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 09:09:08,247-customer_page.py:[213]-[INFO]-开始输入客户联系人身份证号
+2021-02-04 09:09:10,269-base_page.py:[66]-[INFO]-locate ('id', 'contacts_front') successed
+2021-02-04 09:09:18,372-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:09:18,372-customer_page.py:[216]-[INFO]-开始上传客户联系人身份证正面
+2021-02-04 09:09:20,396-base_page.py:[66]-[INFO]-locate ('id', 'contacts_contrary') successed
+2021-02-04 09:09:28,513-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:09:28,513-customer_page.py:[219]-[INFO]-开始上传客户联系人身份证反面
+2021-02-04 09:09:30,541-base_page.py:[77]-[INFO]-locate ('name', 'contractNo') successed
+2021-02-04 09:09:30,609-base_page.py:[142]-[INFO]-input  097348 successed
+2021-02-04 09:09:30,609-customer_page.py:[222]-[INFO]-开始输入合同编号
+2021-02-04 09:09:32,636-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="name"]') successed
+2021-02-04 09:09:32,711-base_page.py:[142]-[INFO]-input  5g消息 successed
+2021-02-04 09:09:32,712-customer_page.py:[225]-[INFO]-开始输入合同名称--------5g消息
+2021-02-04 09:09:34,723-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:09:36,744-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_ipt").value="2019/07/05" " successed
+2021-02-04 09:09:36,744-customer_page.py:[230]-[INFO]-开始输入合同生效日期
+2021-02-04 09:09:38,751-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:09:40,769-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_ipt").value="2022/07/05" " successed
+2021-02-04 09:09:40,769-customer_page.py:[235]-[INFO]-开始输入合同失效日期
+2021-02-04 09:09:42,789-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_renew_ipt").removeAttribute("readonly"); " successed
+2021-02-04 09:09:44,802-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_renew_ipt").value="2021/07/05" " successed
+2021-02-04 09:09:44,803-customer_page.py:[240]-[INFO]-开始输入合同续约日期
+2021-02-04 09:09:46,826-base_page.py:[66]-[INFO]-locate ('id', 'downaccessory') successed
+2021-02-04 09:09:54,957-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:09:54,957-customer_page.py:[243]-[INFO]-开始上传合同附件
+2021-02-04 09:09:56,984-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div[5]/button[2]') successed
+2021-02-04 09:09:57,455-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:09:57,456-customer_page.py:[246]-[INFO]-开始点击确认新建客户按钮
+2021-02-04 09:09:59,829-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:09:59,829-customer_page.py:[256]-[INFO]-新增客户-----客户测试075成功
+2021-02-04 09:09:59,848-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:09:59,890-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:09:59,890-customer_page.py:[268]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:09:59,909-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[2]') successed
+2021-02-04 09:09:59,948-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:09:59,948-customer_page.py:[270]-[INFO]-开始点击CSP客户类型
+2021-02-04 09:10:00,119-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:10:00,119-customer_page.py:[276]-[INFO]-进入客户审核二级菜单成功
+2021-02-04 09:10:00,119-customer_page.py:[287]-[INFO]-身份验证成功
+2021-02-04 09:10:00,119-customer_page.py:[302]-[INFO]-默认选择待审核
+2021-02-04 09:10:02,139-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:10:02,223-base_page.py:[142]-[INFO]-input  客户测试075 successed
+2021-02-04 09:10:04,251-base_page.py:[77]-[INFO]-locate ('name', 'reviewType') successed
+2021-02-04 09:10:04,326-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:10:04,326-customer_page.py:[312]-[INFO]-开始选择审核类型查询审核数据
+2021-02-04 09:10:06,345-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:10:06,416-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:10:06,416-customer_page.py:[315]-[INFO]-开始选择归属csp
+2021-02-04 09:10:08,432-base_page.py:[121]-[INFO]-locate ('css selector', '#findCspFrom > div > div.submit_btn > button.query') successed
+2021-02-04 09:10:08,745-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:08,746-customer_page.py:[318]-[INFO]-开始点击查询按钮
+2021-02-04 09:10:10,758-customer_page.py:[323]-[INFO]-开始输入客户名称查询审核数据--------客户测试075成功
+2021-02-04 09:10:10,774-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:10:10,789-base_page.py:[110]-[INFO]-locate ('link text', '审核') successed
+2021-02-04 09:10:11,163-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:11,163-customer_page.py:[334]-[INFO]-开始点击审核按钮
+2021-02-04 09:10:13,180-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[3]/div/div/form/div[1]/div[2]/i') successed
+2021-02-04 09:10:13,263-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:13,264-customer_page.py:[339]-[INFO]-开始选择审核不通过
+2021-02-04 09:10:15,288-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="cause"]') successed
+2021-02-04 09:10:15,360-base_page.py:[142]-[INFO]-input  客户信息有误 successed
+2021-02-04 09:10:15,360-customer_page.py:[342]-[INFO]-开始客户信息有误
+2021-02-04 09:10:17,380-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[4]/button') successed
+2021-02-04 09:10:17,447-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:17,447-customer_page.py:[345]-[INFO]-开始点击确定审核按钮
+2021-02-04 09:10:19,454-customer_page.py:[351]-[INFO]-审核成功
+2021-02-04 09:10:19,802-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:10:19,824-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:10:19,866-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:19,866-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:10:19,890-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:10:19,925-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:19,925-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:10:20,077-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:10:20,077-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:10:22,107-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:10:22,176-base_page.py:[142]-[INFO]-input  客户测试075 successed
+2021-02-04 09:10:22,176-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------客户测试075
+2021-02-04 09:10:24,193-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:10:24,261-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:10:24,261-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:10:26,278-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:10:26,343-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:10:26,343-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:10:28,360-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:10:28,579-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:28,579-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:10:30,588-customer_page.py:[117]-[INFO]-查询客户----客户测试075成功
+2021-02-04 09:10:30,588-screenshoot.py:[25]-[INFO]-screenshoot 新增客户审核不通过 save in E:\CSP\screenshoot\CSP\customer\photo2021-02-04-09-10-30新增客户审核不通过.png success
+2021-02-04 09:10:30,907-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:10:30,907-test_b_customer.py:[71]-[INFO]-断言成功，案例--testcase02通过------<td>客户测试075</td> 不在当前页面---审核通过
+2021-02-04 09:10:30,907-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:10:30案例执行通过--成功
+NoneType: None
+2021-02-04 09:10:31,320-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:10:31,321-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:10:31,343-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:10:31,381-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:31,382-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:10:31,399-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:10:31,434-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:31,434-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:10:31,586-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:10:31,586-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:10:33,609-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:10:33,679-base_page.py:[142]-[INFO]-input  客户测试07 successed
+2021-02-04 09:10:33,680-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------客户测试07
+2021-02-04 09:10:35,701-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:10:35,761-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:10:35,761-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:10:37,779-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:10:37,862-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:10:37,862-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:10:39,889-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:10:40,107-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:40,107-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:10:42,112-customer_page.py:[117]-[INFO]-查询客户----客户测试07成功
+2021-02-04 09:10:42,112-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:10:42,112-test_b_customer.py:[89]-[INFO]-查询出待变更的客户---客户测试07
+2021-02-04 09:10:42,143-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:10:42,599-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:44,611-customer_page.py:[132]-[INFO]-开始查询出数据点击查看按钮 成功
+2021-02-04 09:10:46,638-base_page.py:[66]-[INFO]-locate ('id', 'edit_button') successed
+2021-02-04 09:10:46,822-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:46,823-customer_page.py:[378]-[INFO]-开始点击编辑按钮
+2021-02-04 09:10:48,860-base_page.py:[66]-[INFO]-locate ('id', 'edit_ecName') successed
+2021-02-04 09:10:48,896-base_page.py:[264]-[INFO]-clear input successed
+2021-02-04 09:10:48,896-customer_page.py:[381]-[INFO]-开始变更客户名称
+2021-02-04 09:10:50,904-base_page.py:[66]-[INFO]-locate ('id', 'edit_ecName') successed
+2021-02-04 09:10:50,980-base_page.py:[142]-[INFO]-input  测试变更 successed
+2021-02-04 09:10:50,980-customer_page.py:[384]-[INFO]-开始变更客户名称-----------测试变更
+2021-02-04 09:10:53,007-base_page.py:[121]-[INFO]-locate ('css selector', 'body > div.add_user > div > div.btn_box > button.yes') successed
+2021-02-04 09:10:53,398-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:53,398-customer_page.py:[387]-[INFO]-开始点击确认变更按钮
+2021-02-04 09:10:54,757-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:10:54,779-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:10:54,819-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:54,820-customer_page.py:[268]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:10:54,838-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[2]') successed
+2021-02-04 09:10:54,877-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:10:54,877-customer_page.py:[270]-[INFO]-开始点击CSP客户类型
+2021-02-04 09:10:55,053-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:10:55,053-customer_page.py:[276]-[INFO]-进入客户审核二级菜单成功
+2021-02-04 09:10:55,054-customer_page.py:[287]-[INFO]-身份验证成功
+2021-02-04 09:10:55,054-customer_page.py:[302]-[INFO]-默认选择待审核
+2021-02-04 09:10:57,083-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:10:57,157-base_page.py:[142]-[INFO]-input  客户测试07 successed
+2021-02-04 09:10:59,185-base_page.py:[77]-[INFO]-locate ('name', 'reviewType') successed
+2021-02-04 09:10:59,254-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:10:59,254-customer_page.py:[312]-[INFO]-开始选择审核类型查询审核数据
+2021-02-04 09:11:01,284-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:11:01,352-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:11:01,353-customer_page.py:[315]-[INFO]-开始选择归属csp
+2021-02-04 09:11:03,371-base_page.py:[121]-[INFO]-locate ('css selector', '#findCspFrom > div > div.submit_btn > button.query') successed
+2021-02-04 09:11:03,671-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:03,672-customer_page.py:[318]-[INFO]-开始点击查询按钮
+2021-02-04 09:11:05,682-customer_page.py:[323]-[INFO]-开始输入客户名称查询审核数据--------客户测试07成功
+2021-02-04 09:11:05,698-base_page.py:[110]-[INFO]-locate ('link text', '审核') successed
+2021-02-04 09:11:06,072-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:06,072-customer_page.py:[334]-[INFO]-开始点击审核按钮
+2021-02-04 09:11:08,090-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[4]/button') successed
+2021-02-04 09:11:08,165-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:08,165-customer_page.py:[357]-[INFO]-开始点击确定审核按钮
+2021-02-04 09:11:10,518-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:11:10,538-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:11:10,572-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:10,572-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:11:10,596-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:11:10,633-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:10,633-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:11:10,782-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:11:10,782-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:11:12,808-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:11:12,895-base_page.py:[142]-[INFO]-input  测试变更 successed
+2021-02-04 09:11:12,895-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------测试变更
+2021-02-04 09:11:14,918-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:11:14,987-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:11:14,987-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:11:17,012-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:11:17,097-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:11:17,097-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:11:19,120-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:11:19,351-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:19,351-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:11:21,356-customer_page.py:[117]-[INFO]-查询客户----测试变更成功
+2021-02-04 09:11:21,356-screenshoot.py:[25]-[INFO]-screenshoot 客户名称变更 save in E:\CSP\screenshoot\CSP\customer\photo2021-02-04-09-11-21客户名称变更.png success
+2021-02-04 09:11:23,696-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:11:23,696-test_b_customer.py:[105]-[INFO]-断言成功，案例--案例通过---客户信息变更成功
+2021-02-04 09:11:23,696-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:11:23案例执行通过--成功
+NoneType: None
+2021-02-04 09:11:24,097-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:11:24,098-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:11:24,118-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:11:24,153-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:24,153-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:11:24,171-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:11:24,202-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:24,203-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:11:24,354-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:11:24,354-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:11:26,372-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:11:26,443-base_page.py:[142]-[INFO]-input  测试变更 successed
+2021-02-04 09:11:26,443-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------测试变更
+2021-02-04 09:11:28,461-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:11:28,521-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:11:28,521-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:11:30,547-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:11:30,633-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:11:30,633-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:11:32,653-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:11:32,867-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:32,867-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:11:34,879-customer_page.py:[117]-[INFO]-查询客户----测试变更成功
+2021-02-04 09:11:36,890-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:11:36,922-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:11:37,251-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:39,263-customer_page.py:[132]-[INFO]-开始查询出数据点击查看按钮 成功
+2021-02-04 09:11:39,279-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[3]/div/div/a/span') successed
+2021-02-04 09:11:39,371-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:39,371-customer_page.py:[142]-[INFO]-开始点击注销客户按钮
+2021-02-04 09:11:41,389-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div/div[2]/button[2]') successed
+2021-02-04 09:11:41,452-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:41,452-customer_page.py:[145]-[INFO]-开始确认注销按钮
+2021-02-04 09:11:44,803-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:11:44,803-customer_page.py:[151]-[INFO]-注销客户成功
+2021-02-04 09:11:44,825-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p') successed
+2021-02-04 09:11:44,864-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:44,864-customer_page.py:[79]-[INFO]-开始点击客户管理一级菜单
+2021-02-04 09:11:44,882-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]') successed
+2021-02-04 09:11:44,916-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:44,916-customer_page.py:[81]-[INFO]-开始点击客户管理二级菜单
+2021-02-04 09:11:45,071-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:11:45,072-customer_page.py:[88]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-02-04 09:11:47,098-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:11:47,168-base_page.py:[142]-[INFO]-input  测试变更 successed
+2021-02-04 09:11:47,168-customer_page.py:[102]-[INFO]-开始输入客户名称查询--------测试变更
+2021-02-04 09:11:49,186-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:11:49,254-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:11:49,254-customer_page.py:[105]-[INFO]-开始选择客户类型下拉框----------第三方CSP
+2021-02-04 09:11:51,279-base_page.py:[77]-[INFO]-locate ('name', 'cspName') successed
+2021-02-04 09:11:51,355-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:11:51,355-customer_page.py:[108]-[INFO]-开始选择审核类型查询审核数据-----------中国电信100016
+2021-02-04 09:11:53,377-base_page.py:[121]-[INFO]-locate ('css selector', '#customerForm > div > div.submit_btn > button.query') successed
+2021-02-04 09:11:53,598-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:11:53,598-customer_page.py:[111]-[INFO]-开始点击确认查询按钮
+2021-02-04 09:11:55,598-customer_page.py:[117]-[INFO]-查询客户----测试变更成功
+2021-02-04 09:11:55,598-screenshoot.py:[25]-[INFO]-screenshoot 删除客户 save in E:\CSP\screenshoot\CSP\customer\photo2021-02-04-09-11-55删除客户.png success
+2021-02-04 09:11:57,909-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:11:57,909-test_b_customer.py:[136]-[INFO]-断言成功，案例--案例通过---删除成功
+2021-02-04 09:11:57,909-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:11:57案例执行通过--成功
+NoneType: None
+2021-02-04 09:11:58,305-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:12:00,532-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="40a7acb69061b801f73e6021b6617858")> SUCCESS
+2021-02-04 09:15:58,295-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 09:15:58,310-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\customer 已清空
+2021-02-04 09:15:58,310-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\customer 已清空
+2021-02-04 09:15:58,310-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\customer 已清空
+2021-02-04 09:15:58,310-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\customer 已清空
+2021-02-04 09:18:21,153-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 09:18:21,153-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 09:18:21,185-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 09:18:21,186-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 09:18:21,956-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:18:21,956-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:21,987-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:18:21,987-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,019-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 09:18:22,034-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,034-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 09:18:22,034-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "在线"-- successed
+2021-02-04 09:18:22,067-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:18:22,067-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,114-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:18:22,114-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,160-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 09:18:22,160-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,160-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 09:18:22,160-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot名称不符合要求"-- successed
+2021-02-04 09:18:22,192-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:18:22,192-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,223-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:18:22,223-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,254-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 09:18:22,254-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,254-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot变更"-- successed
+2021-02-04 09:18:22,254-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "100"-- successed
+2021-02-04 09:18:22,285-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:18:22,285-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,327-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:18:22,327-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,358-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 09:18:22,358-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信100016"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试100051"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot04"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "IT服务"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "https://www.baidu.com/"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "楚州区"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "万达广场"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-02-04 09:18:22,358-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "10.3.182.111"-- successed
+2021-02-04 09:18:22,405-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 09:18:25,637-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="904864c569a1fa80b09bcb91fef747a6")> success
+2021-02-04 09:18:25,637-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:18:28,627-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 09:18:28,643-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 09:18:28,727-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 09:18:29,760-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 09:18:29,838-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 09:18:30,870-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 09:18:30,922-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:18:45,947-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 09:18:46,075-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:26,113-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 09:19:26,155-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:28,175-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:19:28,234-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:28,234-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:19:28,254-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:19:28,294-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:28,294-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:19:49,867-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:19:49,867-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:19:51,886-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[3]/a/button') successed
+2021-02-04 09:19:52,326-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:52,326-chatbot_page.py:[89]-[INFO]-开始---------点击新增Chatbot按钮
+2021-02-04 09:19:54,353-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotAddFrom"]/div[1]/button') successed
+2021-02-04 09:19:54,436-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:54,436-chatbot_page.py:[92]-[INFO]-开始---------点击归属CSP按钮
+2021-02-04 09:19:56,467-base_page.py:[66]-[INFO]-locate ('id', 'scpName') successed
+2021-02-04 09:19:56,557-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:19:56,557-chatbot_page.py:[95]-[INFO]-开始---------输入CSP名称
+2021-02-04 09:19:58,598-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="cspModalTwo"]/div/div/div[2]/div[1]/div/div[4]/button') successed
+2021-02-04 09:19:58,669-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:19:58,670-chatbot_page.py:[98]-[INFO]-开始---------点击CSP查询按钮
+2021-02-04 09:20:00,706-base_page.py:[77]-[INFO]-locate ('name', 'cspNameTwo') successed
+2021-02-04 09:20:00,793-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:00,793-chatbot_page.py:[101]-[INFO]-开始---------点击选择某一个CSP
+2021-02-04 09:20:02,818-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="cspModalTwo"]/div/div/div[3]/div/button[2]') successed
+2021-02-04 09:20:02,896-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:02,896-chatbot_page.py:[104]-[INFO]-开始---------点击确认选择
+2021-02-04 09:20:04,919-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotAddFrom"]/div[2]/button') successed
+2021-02-04 09:20:04,990-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:04,990-chatbot_page.py:[107]-[INFO]-开始---------点击选择客户
+2021-02-04 09:20:07,012-base_page.py:[66]-[INFO]-locate ('id', 'ecNameId') successed
+2021-02-04 09:20:07,098-base_page.py:[142]-[INFO]-input  测试100051 successed
+2021-02-04 09:20:07,098-chatbot_page.py:[110]-[INFO]-开始---------输入企业客户名称
+2021-02-04 09:20:09,126-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[3]/div/div[1]/div/div[2]/button') successed
+2021-02-04 09:20:09,197-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:09,197-chatbot_page.py:[113]-[INFO]-开始---------点击查询按钮
+2021-02-04 09:20:11,224-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="addCustomer"]/tr/td/input') successed
+2021-02-04 09:20:11,294-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:11,295-chatbot_page.py:[116]-[INFO]-开始---------点击选择某一个客户
+2021-02-04 09:20:13,320-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[3]/div/div[4]/button[2]') successed
+2021-02-04 09:20:13,401-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:13,401-chatbot_page.py:[119]-[INFO]-开始---------点击确认按钮
+2021-02-04 09:20:15,421-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotName"]') successed
+2021-02-04 09:20:15,515-base_page.py:[142]-[INFO]-input  chatbot04 successed
+2021-02-04 09:20:15,515-chatbot_page.py:[122]-[INFO]-开始---------输入新建的Chatbot名称
+2021-02-04 09:20:17,529-base_page.py:[66]-[INFO]-locate ('id', 'ChatbotIDTwo') successed
+2021-02-04 09:20:17,595-base_page.py:[142]-[INFO]-input  296480 successed
+2021-02-04 09:20:17,595-chatbot_page.py:[125]-[INFO]-开始---------输入Chatbot ID
+2021-02-04 09:20:19,622-base_page.py:[66]-[INFO]-locate ('id', 'uploadDom') successed
+2021-02-04 09:20:27,750-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:20:27,751-chatbot_page.py:[128]-[INFO]-开始---------点击上传chatbot头像按钮
+2021-02-04 09:20:29,777-base_page.py:[77]-[INFO]-locate ('name', 'description') successed
+2021-02-04 09:20:29,851-base_page.py:[142]-[INFO]-input  627853 successed
+2021-02-04 09:20:29,852-chatbot_page.py:[131]-[INFO]-开始---------输入服务信息
+2021-02-04 09:20:31,874-base_page.py:[77]-[INFO]-locate ('name', 'autograph') successed
+2021-02-04 09:20:31,962-base_page.py:[142]-[INFO]-input  463905 successed
+2021-02-04 09:20:31,962-chatbot_page.py:[134]-[INFO]-开始---------输入签名
+2021-02-04 09:20:33,988-base_page.py:[77]-[INFO]-locate ('name', 'category') successed
+2021-02-04 09:20:34,059-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:20:34,059-chatbot_page.py:[137]-[INFO]-开始---------选择行业类型
+2021-02-04 09:20:36,077-base_page.py:[77]-[INFO]-locate ('name', 'tcpage') successed
+2021-02-04 09:20:36,144-base_page.py:[142]-[INFO]-input  502948 successed
+2021-02-04 09:20:36,144-chatbot_page.py:[140]-[INFO]-开始---------输入服务条款
+2021-02-04 09:20:38,173-base_page.py:[77]-[INFO]-locate ('name', 'email') successed
+2021-02-04 09:20:38,276-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 09:20:38,276-chatbot_page.py:[143]-[INFO]-开始---------输入Chatbot邮箱
+2021-02-04 09:20:40,295-base_page.py:[77]-[INFO]-locate ('name', 'website') successed
+2021-02-04 09:20:40,397-base_page.py:[142]-[INFO]-input  https://www.baidu.com/ successed
+2021-02-04 09:20:40,397-chatbot_page.py:[146]-[INFO]-开始---------输入Chatbot官网
+2021-02-04 09:20:42,419-base_page.py:[77]-[INFO]-locate ('name', 'callBack') successed
+2021-02-04 09:20:42,502-base_page.py:[142]-[INFO]-input  13382197195 successed
+2021-02-04 09:20:42,502-chatbot_page.py:[149]-[INFO]-开始---------输入Chatbot服务电话
+2021-02-04 09:20:44,524-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="province"]') successed
+2021-02-04 09:20:44,604-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:20:44,605-chatbot_page.py:[152]-[INFO]-开始---------选择省份
+2021-02-04 09:20:46,623-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="town"]') successed
+2021-02-04 09:20:46,689-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:20:46,690-chatbot_page.py:[155]-[INFO]-开始---------选择地市
+2021-02-04 09:20:48,712-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="district"]') successed
+2021-02-04 09:20:48,773-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:20:48,773-chatbot_page.py:[158]-[INFO]-开始---------选择县区
+2021-02-04 09:20:50,794-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="address"]') successed
+2021-02-04 09:20:50,884-base_page.py:[142]-[INFO]-input  万达广场 successed
+2021-02-04 09:20:50,885-chatbot_page.py:[161]-[INFO]-开始---------输入具体地址
+2021-02-04 09:20:52,905-base_page.py:[77]-[INFO]-locate ('name', 'lat') successed
+2021-02-04 09:20:52,971-base_page.py:[142]-[INFO]-input  55 successed
+2021-02-04 09:20:52,971-chatbot_page.py:[164]-[INFO]-开始---------输入纬度
+2021-02-04 09:20:54,996-base_page.py:[77]-[INFO]-locate ('name', 'lon') successed
+2021-02-04 09:20:55,062-base_page.py:[142]-[INFO]-input  55 successed
+2021-02-04 09:20:55,062-chatbot_page.py:[167]-[INFO]-开始---------输入经度
+2021-02-04 09:20:57,089-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="IP_box"]/input[1]') successed
+2021-02-04 09:20:57,175-base_page.py:[142]-[INFO]-input  10.3.182.111 successed
+2021-02-04 09:20:57,175-chatbot_page.py:[170]-[INFO]-开始---------输入ip地址
+2021-02-04 09:20:59,192-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="submitAudit"]') successed
+2021-02-04 09:20:59,492-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:20:59,492-chatbot_page.py:[177]-[INFO]-开始---------点击提交新增的CHatbot
+2021-02-04 09:21:04,496-chatbot_page.py:[183]-[INFO]-新增cahtbot--chatbot04成功
+2021-02-04 09:21:24,276-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:21:24,298-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:21:24,348-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:21:24,348-chatbot_page.py:[291]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:21:26,364-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[2]') successed
+2021-02-04 09:21:26,404-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:21:26,404-chatbot_page.py:[294]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:21:47,784-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:21:49,810-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div/div[2]/div[2]/button') successed
+2021-02-04 09:21:49,910-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:21:49,910-chatbot_page.py:[300]-[INFO]-开始---------点击获取验证码
+2021-02-04 09:22:19,949-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div/div[3]/button[2]') successed
+2021-02-04 09:22:20,017-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:20,017-chatbot_page.py:[303]-[INFO]-开始---------验证码输入确定按钮
+2021-02-04 09:22:41,349-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:22:41,425-base_page.py:[142]-[INFO]-input  chatbot04 successed
+2021-02-04 09:22:41,425-chatbot_page.py:[317]-[INFO]-开始待审核节点输入Chatbot名称
+2021-02-04 09:22:41,447-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:22:41,506-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:22:41,506-chatbot_page.py:[319]-[INFO]-开始选择chatbot接入类型
+2021-02-04 09:22:43,526-base_page.py:[77]-[INFO]-locate ('name', 'optype') successed
+2021-02-04 09:22:43,587-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:22:43,587-chatbot_page.py:[322]-[INFO]-开始---------选择审核类型
+2021-02-04 09:22:45,603-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:22:45,685-base_page.py:[142]-[INFO]-input  测试100051 successed
+2021-02-04 09:22:45,685-chatbot_page.py:[325]-[INFO]-开始---------输入企业客户名称
+2021-02-04 09:22:45,709-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="checkedForm"]/div[1]/div[9]/button[2]') successed
+2021-02-04 09:22:46,088-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:46,089-chatbot_page.py:[327]-[INFO]-开始点击查询按钮
+2021-02-04 09:22:48,104-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:22:48,135-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/table/tbody/tr[2]/td[10]/span/a/span') successed
+2021-02-04 09:22:48,648-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:48,648-chatbot_page.py:[349]-[INFO]-开始---------点击审核按钮
+2021-02-04 09:22:48,666-base_page.py:[88]-[INFO]-locate ('class name', 'btn-save') successed
+2021-02-04 09:22:49,052-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:49,052-chatbot_page.py:[353]-[INFO]-开始---------点击确定审核按钮
+2021-02-04 09:22:51,061-chatbot_page.py:[359]-[INFO]-审核通过
+2021-02-04 09:22:51,420-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:22:51,443-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:22:51,490-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:51,490-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:22:51,517-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:22:51,554-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:22:51,554-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:23:12,736-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:23:12,737-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:23:12,756-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:23:12,829-base_page.py:[142]-[INFO]-input  chatbot04 successed
+2021-02-04 09:23:12,829-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:23:12,853-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:23:12,910-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:23:12,910-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:23:14,935-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:23:15,338-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:15,338-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:23:17,347-screenshoot.py:[25]-[INFO]-screenshoot 新增chatbot且审核通过 save in E:\CSP\screenshoot\CSP\chatbot\photo2021-02-04-09-23-17新增chatbot且审核通过.png success
+2021-02-04 09:23:17,659-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:23:17,659-test_c_chatbot.py:[41]-[INFO]-Assertion Successed，case is  pass---------<td>chatbot04</td> is  in page 
+2021-02-04 09:23:17,659-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:23:17案例执行通过--成功
+NoneType: None
+2021-02-04 09:23:18,058-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:23:18,058-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:23:18,082-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:23:18,133-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:18,133-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:23:18,158-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:23:18,190-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:18,190-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:23:39,398-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:23:39,398-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:23:41,417-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[3]/a/button') successed
+2021-02-04 09:23:41,726-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:41,726-chatbot_page.py:[89]-[INFO]-开始---------点击新增Chatbot按钮
+2021-02-04 09:23:43,748-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotAddFrom"]/div[1]/button') successed
+2021-02-04 09:23:43,836-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:43,836-chatbot_page.py:[92]-[INFO]-开始---------点击归属CSP按钮
+2021-02-04 09:23:45,862-base_page.py:[66]-[INFO]-locate ('id', 'scpName') successed
+2021-02-04 09:23:45,956-base_page.py:[142]-[INFO]-input  中国电信100016 successed
+2021-02-04 09:23:45,956-chatbot_page.py:[95]-[INFO]-开始---------输入CSP名称
+2021-02-04 09:23:47,982-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="cspModalTwo"]/div/div/div[2]/div[1]/div/div[4]/button') successed
+2021-02-04 09:23:48,057-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:48,057-chatbot_page.py:[98]-[INFO]-开始---------点击CSP查询按钮
+2021-02-04 09:23:50,084-base_page.py:[77]-[INFO]-locate ('name', 'cspNameTwo') successed
+2021-02-04 09:23:50,166-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:50,166-chatbot_page.py:[101]-[INFO]-开始---------点击选择某一个CSP
+2021-02-04 09:23:52,187-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="cspModalTwo"]/div/div/div[3]/div/button[2]') successed
+2021-02-04 09:23:52,271-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:52,271-chatbot_page.py:[104]-[INFO]-开始---------点击确认选择
+2021-02-04 09:23:54,293-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotAddFrom"]/div[2]/button') successed
+2021-02-04 09:23:54,364-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:54,364-chatbot_page.py:[107]-[INFO]-开始---------点击选择客户
+2021-02-04 09:23:56,388-base_page.py:[66]-[INFO]-locate ('id', 'ecNameId') successed
+2021-02-04 09:23:56,468-base_page.py:[142]-[INFO]-input  测试100051 successed
+2021-02-04 09:23:56,468-chatbot_page.py:[110]-[INFO]-开始---------输入企业客户名称
+2021-02-04 09:23:58,488-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[3]/div/div[1]/div/div[2]/button') successed
+2021-02-04 09:23:58,552-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:23:58,552-chatbot_page.py:[113]-[INFO]-开始---------点击查询按钮
+2021-02-04 09:24:00,583-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="addCustomer"]/tr/td/input') successed
+2021-02-04 09:24:00,657-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:24:00,657-chatbot_page.py:[116]-[INFO]-开始---------点击选择某一个客户
+2021-02-04 09:24:02,683-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[3]/div/div[4]/button[2]') successed
+2021-02-04 09:24:02,757-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:24:02,758-chatbot_page.py:[119]-[INFO]-开始---------点击确认按钮
+2021-02-04 09:24:04,781-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotName"]') successed
+2021-02-04 09:24:04,878-base_page.py:[142]-[INFO]-input  chatbot045 successed
+2021-02-04 09:24:04,878-chatbot_page.py:[122]-[INFO]-开始---------输入新建的Chatbot名称
+2021-02-04 09:24:06,902-base_page.py:[66]-[INFO]-locate ('id', 'ChatbotIDTwo') successed
+2021-02-04 09:24:06,981-base_page.py:[142]-[INFO]-input  247085 successed
+2021-02-04 09:24:06,981-chatbot_page.py:[125]-[INFO]-开始---------输入Chatbot ID
+2021-02-04 09:24:09,009-base_page.py:[66]-[INFO]-locate ('id', 'uploadDom') successed
+2021-02-04 09:24:17,132-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 09:24:17,132-chatbot_page.py:[128]-[INFO]-开始---------点击上传chatbot头像按钮
+2021-02-04 09:24:19,162-base_page.py:[77]-[INFO]-locate ('name', 'description') successed
+2021-02-04 09:24:19,225-base_page.py:[142]-[INFO]-input  568104 successed
+2021-02-04 09:24:19,226-chatbot_page.py:[131]-[INFO]-开始---------输入服务信息
+2021-02-04 09:24:21,255-base_page.py:[77]-[INFO]-locate ('name', 'autograph') successed
+2021-02-04 09:24:21,333-base_page.py:[142]-[INFO]-input  213094 successed
+2021-02-04 09:24:21,333-chatbot_page.py:[134]-[INFO]-开始---------输入签名
+2021-02-04 09:24:23,353-base_page.py:[77]-[INFO]-locate ('name', 'category') successed
+2021-02-04 09:24:23,421-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:24:23,421-chatbot_page.py:[137]-[INFO]-开始---------选择行业类型
+2021-02-04 09:24:25,439-base_page.py:[77]-[INFO]-locate ('name', 'tcpage') successed
+2021-02-04 09:24:25,522-base_page.py:[142]-[INFO]-input  470513 successed
+2021-02-04 09:24:25,522-chatbot_page.py:[140]-[INFO]-开始---------输入服务条款
+2021-02-04 09:24:27,544-base_page.py:[77]-[INFO]-locate ('name', 'email') successed
+2021-02-04 09:24:27,635-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 09:24:27,636-chatbot_page.py:[143]-[INFO]-开始---------输入Chatbot邮箱
+2021-02-04 09:24:29,655-base_page.py:[77]-[INFO]-locate ('name', 'website') successed
+2021-02-04 09:24:29,743-base_page.py:[142]-[INFO]-input  https://www.baidu.com/ successed
+2021-02-04 09:24:29,743-chatbot_page.py:[146]-[INFO]-开始---------输入Chatbot官网
+2021-02-04 09:24:31,769-base_page.py:[77]-[INFO]-locate ('name', 'callBack') successed
+2021-02-04 09:24:31,844-base_page.py:[142]-[INFO]-input  13382197195 successed
+2021-02-04 09:24:31,844-chatbot_page.py:[149]-[INFO]-开始---------输入Chatbot服务电话
+2021-02-04 09:24:33,862-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="province"]') successed
+2021-02-04 09:24:33,937-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:24:33,937-chatbot_page.py:[152]-[INFO]-开始---------选择省份
+2021-02-04 09:24:35,967-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="town"]') successed
+2021-02-04 09:24:36,025-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:24:36,025-chatbot_page.py:[155]-[INFO]-开始---------选择地市
+2021-02-04 09:24:38,053-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="district"]') successed
+2021-02-04 09:24:38,121-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:24:38,121-chatbot_page.py:[158]-[INFO]-开始---------选择县区
+2021-02-04 09:24:40,138-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="address"]') successed
+2021-02-04 09:24:40,217-base_page.py:[142]-[INFO]-input  万达广场 successed
+2021-02-04 09:24:40,218-chatbot_page.py:[161]-[INFO]-开始---------输入具体地址
+2021-02-04 09:24:42,249-base_page.py:[77]-[INFO]-locate ('name', 'lat') successed
+2021-02-04 09:24:42,312-base_page.py:[142]-[INFO]-input  55 successed
+2021-02-04 09:24:42,312-chatbot_page.py:[164]-[INFO]-开始---------输入纬度
+2021-02-04 09:24:44,332-base_page.py:[77]-[INFO]-locate ('name', 'lon') successed
+2021-02-04 09:24:44,400-base_page.py:[142]-[INFO]-input  55 successed
+2021-02-04 09:24:44,400-chatbot_page.py:[167]-[INFO]-开始---------输入经度
+2021-02-04 09:24:46,421-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="IP_box"]/input[1]') successed
+2021-02-04 09:24:46,506-base_page.py:[142]-[INFO]-input  10.3.182.111 successed
+2021-02-04 09:24:46,506-chatbot_page.py:[170]-[INFO]-开始---------输入ip地址
+2021-02-04 09:24:48,523-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="submitAudit"]') successed
+2021-02-04 09:24:48,786-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:24:48,787-chatbot_page.py:[177]-[INFO]-开始---------点击提交新增的CHatbot
+2021-02-04 09:24:53,790-chatbot_page.py:[183]-[INFO]-新增cahtbot--chatbot045成功
+2021-02-04 09:25:13,566-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:25:13,589-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:25:13,639-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:13,639-chatbot_page.py:[291]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:25:15,667-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[2]') successed
+2021-02-04 09:25:15,711-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:15,711-chatbot_page.py:[294]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:25:36,959-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:25:38,966-chatbot_page.py:[306]-[INFO]-不需要身份验证进入chatbot审核二级表单
+2021-02-04 09:25:38,982-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:25:39,066-base_page.py:[142]-[INFO]-input  chatbot045 successed
+2021-02-04 09:25:39,066-chatbot_page.py:[317]-[INFO]-开始待审核节点输入Chatbot名称
+2021-02-04 09:25:39,093-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:25:39,150-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:25:39,150-chatbot_page.py:[319]-[INFO]-开始选择chatbot接入类型
+2021-02-04 09:25:41,169-base_page.py:[77]-[INFO]-locate ('name', 'optype') successed
+2021-02-04 09:25:41,226-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:25:41,226-chatbot_page.py:[322]-[INFO]-开始---------选择审核类型
+2021-02-04 09:25:43,247-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:25:43,327-base_page.py:[142]-[INFO]-input  测试100051 successed
+2021-02-04 09:25:43,327-chatbot_page.py:[325]-[INFO]-开始---------输入企业客户名称
+2021-02-04 09:25:43,349-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="checkedForm"]/div[1]/div[9]/button[2]') successed
+2021-02-04 09:25:43,747-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:43,747-chatbot_page.py:[327]-[INFO]-开始点击查询按钮
+2021-02-04 09:25:45,753-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:25:45,769-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/table/tbody/tr[2]/td[10]/span/a/span') successed
+2021-02-04 09:25:46,175-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:46,175-chatbot_page.py:[349]-[INFO]-开始---------点击审核按钮
+2021-02-04 09:25:46,196-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="auditBox"]/ul/li[18]/div[2]/form/input[2]') successed
+2021-02-04 09:25:46,257-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:46,257-chatbot_page.py:[366]-[INFO]-开始---------点击审核不通过
+2021-02-04 09:25:48,277-base_page.py:[88]-[INFO]-locate ('class name', 'auditNo') successed
+2021-02-04 09:25:48,367-base_page.py:[142]-[INFO]-input  chatbot名称不符合要求 successed
+2021-02-04 09:25:48,367-chatbot_page.py:[369]-[INFO]-开始---------输入审核不通过原因
+2021-02-04 09:25:50,387-base_page.py:[88]-[INFO]-locate ('class name', 'btn-save') successed
+2021-02-04 09:25:50,470-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:50,471-chatbot_page.py:[372]-[INFO]-开始---------点击确定审核按钮
+2021-02-04 09:25:50,471-chatbot_page.py:[377]-[INFO]-审核成功
+2021-02-04 09:25:50,819-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:25:50,841-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:25:50,887-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:50,888-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:25:50,908-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:25:50,943-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:25:50,943-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:26:12,154-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:26:12,155-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:26:12,177-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:26:12,256-base_page.py:[142]-[INFO]-input  chatbot045 successed
+2021-02-04 09:26:12,256-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:26:12,280-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:26:12,341-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:26:12,342-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:26:14,358-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:26:14,652-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:14,653-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:26:16,655-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:26:16,655-screenshoot.py:[25]-[INFO]-screenshoot 新增chatbot审核不通过 save in E:\CSP\screenshoot\CSP\chatbot\photo2021-02-04-09-26-16新增chatbot审核不通过.png success
+2021-02-04 09:26:18,971-test_c_chatbot.py:[74]-[INFO]-Assertion Successed，case is  pass---------<td>chatbot045</td> is not in page 
+2021-02-04 09:26:18,971-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:26:18案例执行通过--成功
+NoneType: None
+2021-02-04 09:26:19,361-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:26:19,361-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:26:19,384-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:26:19,435-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:19,435-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:26:19,459-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:26:19,495-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:19,495-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:26:40,697-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:26:40,698-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:26:40,717-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:26:40,789-base_page.py:[142]-[INFO]-input  chatbot04 successed
+2021-02-04 09:26:40,789-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:26:40,813-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:26:40,869-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:26:40,869-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:26:42,901-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:26:43,306-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:43,306-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:26:45,308-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:26:45,340-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:26:45,789-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:45,789-chatbot_page.py:[211]-[INFO]-开始查询出数据点击查看按钮
+2021-02-04 09:26:47,812-base_page.py:[66]-[INFO]-locate ('id', 'editOne') successed
+2021-02-04 09:26:47,887-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:47,887-chatbot_page.py:[223]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:26:49,906-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:26:49,955-base_page.py:[264]-[INFO]-clear input successed
+2021-02-04 09:26:49,955-chatbot_page.py:[226]-[INFO]-清空输入框
+2021-02-04 09:26:51,981-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:26:52,061-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:26:52,061-chatbot_page.py:[229]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:26:54,093-base_page.py:[66]-[INFO]-locate ('id', 'submitAudit') successed
+2021-02-04 09:26:54,336-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:54,336-chatbot_page.py:[232]-[INFO]-开始点击Chatbot固定菜单审核二级菜单
+2021-02-04 09:26:56,339-chatbot_page.py:[238]-[INFO]-客户名称变更成功
+2021-02-04 09:26:56,697-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:26:56,715-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:26:56,761-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:56,762-chatbot_page.py:[291]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:26:58,778-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[2]') successed
+2021-02-04 09:26:58,829-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:26:58,829-chatbot_page.py:[294]-[INFO]-开始---------点击Chatbot审核二级菜单
+2021-02-04 09:27:20,092-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:27:22,106-chatbot_page.py:[306]-[INFO]-不需要身份验证进入chatbot审核二级表单
+2021-02-04 09:27:22,121-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:27:22,198-base_page.py:[142]-[INFO]-input  chatbot04 successed
+2021-02-04 09:27:22,198-chatbot_page.py:[317]-[INFO]-开始待审核节点输入Chatbot名称
+2021-02-04 09:27:22,222-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 09:27:22,280-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:27:22,280-chatbot_page.py:[319]-[INFO]-开始选择chatbot接入类型
+2021-02-04 09:27:24,300-base_page.py:[77]-[INFO]-locate ('name', 'optype') successed
+2021-02-04 09:27:24,362-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:27:24,362-chatbot_page.py:[322]-[INFO]-开始---------选择审核类型
+2021-02-04 09:27:26,389-base_page.py:[77]-[INFO]-locate ('name', 'ecName') successed
+2021-02-04 09:27:26,462-base_page.py:[142]-[INFO]-input  测试100051 successed
+2021-02-04 09:27:26,462-chatbot_page.py:[325]-[INFO]-开始---------输入企业客户名称
+2021-02-04 09:27:26,484-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="checkedForm"]/div[1]/div[9]/button[2]') successed
+2021-02-04 09:27:26,877-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:26,877-chatbot_page.py:[327]-[INFO]-开始点击查询按钮
+2021-02-04 09:27:28,886-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:27:28,917-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/table/tbody/tr[2]/td[10]/span/a/span') successed
+2021-02-04 09:27:29,320-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:29,321-chatbot_page.py:[349]-[INFO]-开始---------点击审核按钮
+2021-02-04 09:27:29,341-base_page.py:[88]-[INFO]-locate ('class name', 'btn-save') successed
+2021-02-04 09:27:29,408-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:29,408-chatbot_page.py:[353]-[INFO]-开始---------点击确定审核按钮
+2021-02-04 09:27:31,417-chatbot_page.py:[359]-[INFO]-审核通过
+2021-02-04 09:27:31,770-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:27:31,791-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:27:31,836-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:31,837-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:27:31,858-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:27:31,896-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:31,896-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:27:53,109-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:27:53,109-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:27:53,129-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:27:53,200-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:27:53,200-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:27:53,224-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:27:53,280-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:27:53,280-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:27:55,308-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:27:55,715-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:27:55,715-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:27:59,716-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:27:59,716-screenshoot.py:[25]-[INFO]-screenshoot 变更chatbot名称 save in E:\CSP\screenshoot\CSP\chatbot\photo2021-02-04-09-27-59变更chatbot名称.png success
+2021-02-04 09:28:00,043-test_c_chatbot.py:[111]-[INFO]-Assertion Successed，case is  pass---------<td>chatbot变更</td> is  in page 
+2021-02-04 09:28:00,043-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:28:00案例执行通过--成功
+NoneType: None
+2021-02-04 09:28:00,449-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:28:00,449-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:28:00,470-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:28:00,516-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:00,517-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:28:00,542-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:28:00,578-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:00,579-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:28:21,760-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:28:21,760-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:28:21,779-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:28:21,859-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:28:21,859-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:28:21,879-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:28:21,934-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:28:21,934-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:28:23,955-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:28:24,345-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:24,345-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:28:26,347-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:28:26,362-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:28:26,774-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:26,774-chatbot_page.py:[211]-[INFO]-开始查询出数据点击查看按钮
+2021-02-04 09:28:28,791-base_page.py:[66]-[INFO]-locate ('id', 'editTwo') successed
+2021-02-04 09:28:28,859-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:28,859-chatbot_page.py:[248]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:28:30,889-base_page.py:[77]-[INFO]-locate ('name', 'concurrentLimit') successed
+2021-02-04 09:28:30,929-base_page.py:[264]-[INFO]-clear input successed
+2021-02-04 09:28:30,929-chatbot_page.py:[251]-[INFO]-清空输入框
+2021-02-04 09:28:30,952-base_page.py:[77]-[INFO]-locate ('name', 'concurrentLimit') successed
+2021-02-04 09:28:31,003-base_page.py:[142]-[INFO]-input  100 successed
+2021-02-04 09:28:31,003-chatbot_page.py:[253]-[INFO]-开始输入ChatbotID查询
+2021-02-04 09:28:31,025-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotConfigEdit"]/div[2]/button[2]') successed
+2021-02-04 09:28:31,089-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:31,089-chatbot_page.py:[255]-[INFO]-开始输入企业客户名称查询
+2021-02-04 09:28:33,096-chatbot_page.py:[262]-[INFO]-cahtbot速率变更成功
+2021-02-04 09:28:33,449-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:28:33,469-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:28:33,516-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:33,516-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:28:33,544-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:28:33,583-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:33,583-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:28:54,777-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:28:54,777-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:28:54,796-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:28:54,872-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:28:54,872-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:28:54,896-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:28:54,951-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:28:54,951-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:28:56,969-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:28:57,359-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:57,359-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:28:59,376-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:28:59,780-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:28:59,780-chatbot_page.py:[211]-[INFO]-开始查询出数据点击查看按钮
+2021-02-04 09:29:01,795-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:29:01,795-screenshoot.py:[25]-[INFO]-screenshoot 变更chatbot速率配置 save in E:\CSP\screenshoot\CSP\chatbot\photo2021-02-04-09-29-01变更chatbot速率配置.png success
+2021-02-04 09:29:04,139-test_c_chatbot.py:[146]-[INFO]-Assertion Successed，case is  pass---------<div>100</div> is  in page 
+2021-02-04 09:29:04,139-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:29:04案例执行通过--成功
+NoneType: None
+2021-02-04 09:29:04,538-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:29:04,539-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 09:29:04,557-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:29:04,596-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:04,596-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:29:04,620-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:29:04,655-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:04,655-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:29:25,848-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:29:25,848-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:29:25,868-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:29:25,942-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:29:25,942-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:29:25,961-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:29:26,019-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:29:26,020-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:29:28,047-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:29:28,433-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:28,433-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:29:30,434-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:29:30,450-base_page.py:[110]-[INFO]-locate ('link text', '查看') successed
+2021-02-04 09:29:30,866-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:30,866-chatbot_page.py:[211]-[INFO]-开始查询出数据点击查看按钮
+2021-02-04 09:29:32,889-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[3]/button') successed
+2021-02-04 09:29:32,960-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:32,960-chatbot_page.py:[272]-[INFO]-开始输入企业客户id查询
+2021-02-04 09:29:34,990-base_page.py:[66]-[INFO]-locate ('id', 'cancelSubmit') successed
+2021-02-04 09:29:35,052-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:35,052-chatbot_page.py:[275]-[INFO]-开始选择接入类型查询
+2021-02-04 09:29:37,053-chatbot_page.py:[281]-[INFO]-chatbot注销成功
+2021-02-04 09:29:37,402-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 09:29:37,421-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span') successed
+2021-02-04 09:29:37,460-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:37,460-chatbot_page.py:[73]-[INFO]-开始点击Chatbot管理一级菜单
+2021-02-04 09:29:37,490-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]') successed
+2021-02-04 09:29:37,522-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:29:37,522-chatbot_page.py:[75]-[INFO]-开始点击Chatbot管理二级菜单
+2021-02-04 09:29:58,717-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 09:29:58,717-chatbot_page.py:[77]-[INFO]-进入内置表单
+2021-02-04 09:29:58,739-base_page.py:[77]-[INFO]-locate ('name', 'chatbotName') successed
+2021-02-04 09:29:58,819-base_page.py:[142]-[INFO]-input  chatbot变更 successed
+2021-02-04 09:29:58,819-chatbot_page.py:[197]-[INFO]-开始输入Chatbot名称查询
+2021-02-04 09:29:58,841-base_page.py:[66]-[INFO]-locate ('id', 'accessType') successed
+2021-02-04 09:29:58,892-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 09:29:58,893-chatbot_page.py:[199]-[INFO]-开始选择接入类型查询
+2021-02-04 09:30:00,920-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="chatbotList"]/div/div[11]/button[2]') successed
+2021-02-04 09:30:01,199-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 09:30:01,200-chatbot_page.py:[202]-[INFO]-开始点击查询按钮
+2021-02-04 09:30:05,225-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 09:30:05,225-screenshoot.py:[25]-[INFO]-screenshoot 注销chatbot save in E:\CSP\screenshoot\CSP\chatbot\photo2021-02-04-09-30-05注销chatbot.png success
+2021-02-04 09:30:05,546-test_c_chatbot.py:[175]-[INFO]-Assertion Successed，case is  pass---------<td>chatbot变更</td> is not in page 
+2021-02-04 09:30:05,546-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 09:30:05案例执行通过--成功
+NoneType: None
+2021-02-04 09:30:05,944-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 09:30:08,190-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="904864c569a1fa80b09bcb91fef747a6")> SUCCESS
+2021-02-04 09:31:25,872-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 09:31:25,872-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\chatbot 已清空
+2021-02-04 09:31:25,872-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\chatbot 已清空
+2021-02-04 09:31:25,872-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\chatbot 已清空
+2021-02-04 09:31:25,872-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\chatbot 已清空
+2021-02-04 09:31:25,872-other.py:[27]-[INFO]-文件夹----E:\CSP\screenshoot\CSP\chatbot 已清空
+2021-02-04 17:20:50,233-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 17:20:50,233-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 17:20:50,264-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 17:20:50,264-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 17:20:51,463-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:20:51,463-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:51,681-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:20:51,681-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:51,838-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:20:51,838-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:51,838-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:20:51,838-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-02-04 17:20:51,838-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:20:51,838-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-02-04 17:20:51,998-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:20:51,998-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,140-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:20:52,140-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,296-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:20:52,312-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-02-04 17:20:52,312-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-02-04 17:20:52,328-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:20:52,484-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:20:52,484-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,614-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:20:52,614-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,818-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:20:52,818-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-02-04 17:20:52,818-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-02-04 17:20:52,959-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:20:52,959-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,115-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:20:53,115-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,322-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:20:53,322-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,322-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-02-04 17:20:53,322-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:20:53,322-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "#@$Wj"-- successed
+2021-02-04 17:20:53,464-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-02-04 17:20:53,464-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,604-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:20:53,604-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,729-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:20:53,729-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:20:53,729-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-02-04 17:20:53,870-writeexcel.py:[65]-[ERROR]-打开excel文件失败或sheet读取错误
+Traceback (most recent call last):
+  File "E:\CSP\common\writeexcel.py", line 62, in __init__
+    self.worksheet = self.wb.worksheets[number]
+IndexError: list index out of range
+2021-02-04 17:23:19,811-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 17:23:19,811-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 17:23:19,827-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 17:23:19,827-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 17:23:21,035-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:23:21,035-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,223-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:23:21,223-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,363-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:23:21,363-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,363-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:23:21,363-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-02-04 17:23:21,363-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:23:21,363-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-02-04 17:23:21,520-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:23:21,520-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,676-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:23:21,676-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,820-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:23:21,820-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-02-04 17:23:21,820-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-02-04 17:23:21,836-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp03"-- successed
+2021-02-04 17:23:21,977-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:23:21,977-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,154-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:23:22,154-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,326-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:23:22,326-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-02-04 17:23:22,326-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-02-04 17:23:22,499-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:23:22,499-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,655-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:23:22,655-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,796-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:23:22,796-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:22,796-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-02-04 17:23:22,796-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:23:22,796-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "#@$Wj"-- successed
+2021-02-04 17:23:22,936-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-02-04 17:23:22,936-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:23,077-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:23:23,077-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:23,205-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:23:23,205-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:23:23,205-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-02-04 17:23:23,362-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 17:23:27,525-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="f1584be88b875f7413dab115b276e6a6")> success
+2021-02-04 17:23:27,541-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 17:23:30,561-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 17:23:30,576-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 17:23:30,667-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 17:23:31,701-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 17:23:31,783-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 17:23:32,808-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 17:23:32,866-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:23:47,896-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 17:23:48,030-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:24:28,056-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 17:24:28,097-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:24:30,113-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/p') successed
+2021-02-04 17:24:30,184-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:24:30,184-csp_page.py:[121]-[INFO]-开始点击CSP管理一级菜单
+2021-02-04 17:24:30,208-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/ul/li[1]') successed
+2021-02-04 17:24:30,243-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:24:30,243-csp_page.py:[123]-[INFO]-开始点击CSP管理二级菜单
+2021-02-04 17:24:30,474-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 17:24:32,493-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[3]/a[1]/button') successed
+2021-02-04 17:24:32,964-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:24:32,964-csp_page.py:[215]-[INFO]-开始点击新增CSP按钮
+2021-02-04 17:24:33,994-base_page.py:[77]-[INFO]-locate ('name', 'name') successed
+2021-02-04 17:24:34,091-base_page.py:[142]-[INFO]-input  每日测试csp03 successed
+2021-02-04 17:24:34,092-csp_page.py:[218]-[INFO]-开始输入新增的CSP名称
+2021-02-04 17:24:35,111-base_page.py:[77]-[INFO]-locate ('name', 'customerType') successed
+2021-02-04 17:24:35,167-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:24:35,167-csp_page.py:[221]-[INFO]-开始处理客户类型下拉框
+2021-02-04 17:24:36,186-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 17:24:36,244-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:24:36,244-csp_page.py:[224]-[INFO]-开始选择csp类型
+2021-02-04 17:24:37,274-base_page.py:[77]-[INFO]-locate ('name', 'province') successed
+2021-02-04 17:24:37,339-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:24:37,339-csp_page.py:[227]-[INFO]-开始选择csp归属省份
+2021-02-04 17:24:38,362-base_page.py:[77]-[INFO]-locate ('name', 'city') successed
+2021-02-04 17:24:38,422-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:24:38,422-csp_page.py:[230]-[INFO]-开始选择csp归属地市
+2021-02-04 17:24:39,444-base_page.py:[77]-[INFO]-locate ('name', 'contacts') successed
+2021-02-04 17:24:39,498-base_page.py:[142]-[INFO]-input  吴忌 successed
+2021-02-04 17:24:39,498-csp_page.py:[233]-[INFO]-开始输入新增的CSP联系人
+2021-02-04 17:24:40,528-base_page.py:[77]-[INFO]-locate ('name', 'contactsTel') successed
+2021-02-04 17:24:40,614-base_page.py:[142]-[INFO]-input  13382197195 successed
+2021-02-04 17:24:40,614-csp_page.py:[236]-[INFO]-开始输入新增的CSP联系电话
+2021-02-04 17:24:41,630-base_page.py:[77]-[INFO]-locate ('name', 'contactsIdnumber') successed
+2021-02-04 17:24:41,739-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 17:24:41,739-csp_page.py:[239]-[INFO]-开始输入新增的CSP联系人身份证号
+2021-02-04 17:24:42,757-base_page.py:[77]-[INFO]-locate ('name', 'contactsEmail') successed
+2021-02-04 17:24:42,848-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 17:24:42,848-csp_page.py:[242]-[INFO]-开始输入新增的CSP联系人邮箱
+2021-02-04 17:24:43,883-base_page.py:[66]-[INFO]-locate ('id', 'agentFront') successed
+2021-02-04 17:25:14,931-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 17:25:14,931-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 17:25:14,946-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 17:25:14,946-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 17:25:16,221-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:25:16,221-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:16,362-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:25:16,362-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:16,518-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:25:16,518-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:16,518-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:25:16,518-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-02-04 17:25:16,518-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:25:16,518-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-02-04 17:25:16,659-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:25:16,659-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:16,846-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:25:16,846-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:17,081-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:25:17,081-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-02-04 17:25:17,081-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-02-04 17:25:17,096-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:25:17,270-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:25:17,270-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:17,489-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:25:17,489-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:17,713-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:25:17,713-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-02-04 17:25:17,713-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-02-04 17:25:17,869-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:25:17,869-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,011-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:25:18,011-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,167-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:25:18,167-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,167-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-02-04 17:25:18,167-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:25:18,167-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "#@$Wj"-- successed
+2021-02-04 17:25:18,308-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-02-04 17:25:18,308-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,449-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:25:18,449-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,577-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:25:18,577-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:25:18,577-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-02-04 17:25:18,813-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 17:25:22,013-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="5224de4d47cb625c250b348e950ce8ad")> success
+2021-02-04 17:25:22,013-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 17:25:25,029-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 17:25:25,060-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 17:25:25,136-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 17:25:26,165-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 17:25:26,243-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 17:25:27,270-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 17:25:27,321-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:25:42,341-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 17:25:42,470-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:22,508-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 17:26:22,548-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:24,573-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/p') successed
+2021-02-04 17:26:24,631-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:24,632-csp_page.py:[121]-[INFO]-开始点击CSP管理一级菜单
+2021-02-04 17:26:24,648-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/ul/li[1]') successed
+2021-02-04 17:26:24,691-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:24,691-csp_page.py:[123]-[INFO]-开始点击CSP管理二级菜单
+2021-02-04 17:26:24,987-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 17:26:27,011-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[3]/a[1]/button') successed
+2021-02-04 17:26:27,521-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:27,521-csp_page.py:[215]-[INFO]-开始点击新增CSP按钮
+2021-02-04 17:26:28,538-base_page.py:[77]-[INFO]-locate ('name', 'name') successed
+2021-02-04 17:26:28,629-base_page.py:[142]-[INFO]-input  每日测试csp04 successed
+2021-02-04 17:26:28,629-csp_page.py:[218]-[INFO]-开始输入新增的CSP名称
+2021-02-04 17:26:29,663-base_page.py:[77]-[INFO]-locate ('name', 'customerType') successed
+2021-02-04 17:26:29,721-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:26:29,721-csp_page.py:[221]-[INFO]-开始处理客户类型下拉框
+2021-02-04 17:26:30,748-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 17:26:30,819-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:26:30,819-csp_page.py:[224]-[INFO]-开始选择csp类型
+2021-02-04 17:26:31,839-base_page.py:[77]-[INFO]-locate ('name', 'province') successed
+2021-02-04 17:26:31,912-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:26:31,912-csp_page.py:[227]-[INFO]-开始选择csp归属省份
+2021-02-04 17:26:32,932-base_page.py:[77]-[INFO]-locate ('name', 'city') successed
+2021-02-04 17:26:33,006-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:26:33,006-csp_page.py:[230]-[INFO]-开始选择csp归属地市
+2021-02-04 17:26:34,022-base_page.py:[77]-[INFO]-locate ('name', 'contacts') successed
+2021-02-04 17:26:34,099-base_page.py:[142]-[INFO]-input  吴忌 successed
+2021-02-04 17:26:34,099-csp_page.py:[233]-[INFO]-开始输入新增的CSP联系人
+2021-02-04 17:26:35,122-base_page.py:[77]-[INFO]-locate ('name', 'contactsTel') successed
+2021-02-04 17:26:35,206-base_page.py:[142]-[INFO]-input  13382197195 successed
+2021-02-04 17:26:35,206-csp_page.py:[236]-[INFO]-开始输入新增的CSP联系电话
+2021-02-04 17:26:36,235-base_page.py:[77]-[INFO]-locate ('name', 'contactsIdnumber') successed
+2021-02-04 17:26:36,329-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 17:26:36,329-csp_page.py:[239]-[INFO]-开始输入新增的CSP联系人身份证号
+2021-02-04 17:26:37,357-base_page.py:[77]-[INFO]-locate ('name', 'contactsEmail') successed
+2021-02-04 17:26:37,447-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 17:26:37,447-csp_page.py:[242]-[INFO]-开始输入新增的CSP联系人邮箱
+2021-02-04 17:26:38,482-base_page.py:[66]-[INFO]-locate ('id', 'agentFront') successed
+2021-02-04 17:26:46,613-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:26:46,613-csp_page.py:[245]-[INFO]-开始上传新增的CSP的经办人身份证正面
+2021-02-04 17:26:47,636-base_page.py:[66]-[INFO]-locate ('id', 'agentBack') successed
+2021-02-04 17:26:55,749-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:26:55,749-csp_page.py:[248]-[INFO]-开始上传新增的CSP的经办人身份证反面
+2021-02-04 17:26:56,786-base_page.py:[77]-[INFO]-locate ('name', 'ipAddress') successed
+2021-02-04 17:26:56,913-base_page.py:[142]-[INFO]-input  10.3.182.111,10.3.182.1，172.16.145.200 successed
+2021-02-04 17:26:56,913-csp_page.py:[251]-[INFO]-开始输入IP地址
+2021-02-04 17:26:57,941-base_page.py:[77]-[INFO]-locate ('name', 'callbackUrl') successed
+2021-02-04 17:26:58,082-base_page.py:[142]-[INFO]-input  https://isptest.189.cn/maap_isp/admin/main successed
+2021-02-04 17:26:58,082-csp_page.py:[254]-[INFO]-开始输入CSP回调根目录地址
+2021-02-04 17:26:59,113-base_page.py:[66]-[INFO]-locate ('id', 'system') successed
+2021-02-04 17:26:59,185-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:26:59,185-csp_page.py:[257]-[INFO]-开始点击系统自动生成token
+2021-02-04 17:27:00,216-base_page.py:[77]-[INFO]-locate ('name', 'platformLoginUrl') successed
+2021-02-04 17:27:00,352-base_page.py:[142]-[INFO]-input  http://isp.ct5g.cn/maap_isp/index successed
+2021-02-04 17:27:00,352-csp_page.py:[260]-[INFO]-开始输入CSP平台登录地址
+2021-02-04 17:27:01,381-base_page.py:[77]-[INFO]-locate ('name', 'platformFunctionIntroduce') successed
+2021-02-04 17:27:01,576-base_page.py:[142]-[INFO]-input  12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改 successed
+2021-02-04 17:27:01,577-csp_page.py:[263]-[INFO]-开始输入CSP平台功能介绍
+2021-02-04 17:27:02,608-base_page.py:[66]-[INFO]-locate ('id', 'introduceFile') successed
+2021-02-04 17:27:10,726-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:27:10,726-csp_page.py:[266]-[INFO]-开始上传新增的CSP的平台功能介绍附件
+2021-02-04 17:27:11,753-base_page.py:[77]-[INFO]-locate ('name', 'bizid') successed
+2021-02-04 17:27:11,821-base_page.py:[142]-[INFO]-input  784905 successed
+2021-02-04 17:27:11,821-csp_page.py:[269]-[INFO]-开始输入BIZID
+2021-02-04 17:27:12,843-base_page.py:[77]-[INFO]-locate ('name', 'serviceCode') successed
+2021-02-04 17:27:12,906-base_page.py:[142]-[INFO]-input  986534 successed
+2021-02-04 17:27:12,906-csp_page.py:[272]-[INFO]-开始输入接入码
+2021-02-04 17:27:13,922-base_page.py:[77]-[INFO]-locate ('name', 'legalName') successed
+2021-02-04 17:27:13,980-base_page.py:[142]-[INFO]-input  无忌 successed
+2021-02-04 17:27:13,980-csp_page.py:[275]-[INFO]-开始输入法人姓名
+2021-02-04 17:27:15,007-base_page.py:[77]-[INFO]-locate ('name', 'legalIdnumber') successed
+2021-02-04 17:27:15,089-base_page.py:[142]-[INFO]-input  320804199701025118 successed
+2021-02-04 17:27:15,089-csp_page.py:[278]-[INFO]-开始输入法人身份证号
+2021-02-04 17:27:16,113-base_page.py:[66]-[INFO]-locate ('id', 'farenFront') successed
+2021-02-04 17:27:24,209-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:27:24,209-csp_page.py:[281]-[INFO]-开始输入法人身份证正面
+2021-02-04 17:27:25,244-base_page.py:[66]-[INFO]-locate ('id', 'farenBack') successed
+2021-02-04 17:27:33,348-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:27:33,348-csp_page.py:[284]-[INFO]-开始输入法人身份证反面
+2021-02-04 17:27:34,367-base_page.py:[77]-[INFO]-locate ('name', 'legalEmail') successed
+2021-02-04 17:27:34,467-base_page.py:[142]-[INFO]-input  wuji0121@163.com successed
+2021-02-04 17:27:34,467-csp_page.py:[287]-[INFO]-开始输入法人邮箱
+2021-02-04 17:27:35,501-base_page.py:[77]-[INFO]-locate ('name', 'registCapital') successed
+2021-02-04 17:27:35,560-base_page.py:[142]-[INFO]-input  384576 successed
+2021-02-04 17:27:35,560-csp_page.py:[290]-[INFO]-开始输入注册资金
+2021-02-04 17:27:36,587-base_page.py:[77]-[INFO]-locate ('name', 'registProvince') successed
+2021-02-04 17:27:36,653-base_page.py:[142]-[INFO]-input  江苏省 successed
+2021-02-04 17:27:36,653-csp_page.py:[293]-[INFO]-开始处理注册地下拉框
+2021-02-04 17:27:37,672-base_page.py:[77]-[INFO]-locate ('name', 'registAddr') successed
+2021-02-04 17:27:37,751-base_page.py:[142]-[INFO]-input  苏州市吴中区 successed
+2021-02-04 17:27:37,751-csp_page.py:[296]-[INFO]-开始输入注册地址
+2021-02-04 17:27:38,770-base_page.py:[77]-[INFO]-locate ('name', 'yearinspect') successed
+2021-02-04 17:27:38,844-base_page.py:[142]-[INFO]-input  2019 successed
+2021-02-04 17:27:38,844-csp_page.py:[300]-[INFO]-开始输入年检度
+2021-02-04 17:27:39,860-base_page.py:[77]-[INFO]-locate ('name', 'businessScope') successed
+2021-02-04 17:27:39,928-base_page.py:[142]-[INFO]-input  华中地区 successed
+2021-02-04 17:27:39,928-csp_page.py:[303]-[INFO]-开始输入经营范围
+2021-02-04 17:27:40,956-base_page.py:[77]-[INFO]-locate ('name', 'isTreeCertToOne') successed
+2021-02-04 17:27:41,028-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:27:41,029-csp_page.py:[306]-[INFO]-开始处理是否三证合一下拉框
+2021-02-04 17:27:42,060-base_page.py:[77]-[INFO]-locate ('name', 'socialCreditCode') successed
+2021-02-04 17:27:42,146-base_page.py:[142]-[INFO]-input  816759210638 successed
+2021-02-04 17:27:42,146-csp_page.py:[310]-[INFO]-开始输入统一社会信用代码
+2021-02-04 17:27:43,167-base_page.py:[77]-[INFO]-locate ('name', 'registCode') successed
+2021-02-04 17:27:43,242-base_page.py:[142]-[INFO]-input  491567956017 successed
+2021-02-04 17:27:43,242-csp_page.py:[314]-[INFO]-开始输入注册号
+2021-02-04 17:27:44,251-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#business_home_date_ipt").removeAttribute("readonly"); " successed
+2021-02-04 17:27:44,251-csp_page.py:[317]-[INFO]-开始输入营业开始时间
+2021-02-04 17:27:45,272-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#business_home_date_ipt").value="2019/01/05" " successed
+2021-02-04 17:27:45,272-csp_page.py:[320]-[INFO]-开始document.querySelector("#business_home_date_ipt").value="2019/01/05"
+2021-02-04 17:27:46,297-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="long_term"]') successed
+2021-02-04 17:27:46,381-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:27:46,381-csp_page.py:[323]-[INFO]-开始选择营业结束时间为长期
+2021-02-04 17:27:47,391-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#Certification_date_ipt").removeAttribute("readonly"); " successed
+2021-02-04 17:27:47,392-csp_page.py:[326]-[INFO]-开始输入发证时间
+2021-02-04 17:27:48,413-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#Certification_date_ipt").value="2019/05/05" " successed
+2021-02-04 17:27:49,442-base_page.py:[66]-[INFO]-locate ('id', 'licenseFile') successed
+2021-02-04 17:27:57,556-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:27:57,556-csp_page.py:[331]-[INFO]-开始输入营业执照附件
+2021-02-04 17:27:58,598-base_page.py:[77]-[INFO]-locate ('name', 'taxType') successed
+2021-02-04 17:27:58,669-base_page.py:[142]-[INFO]-input  A successed
+2021-02-04 17:27:58,669-csp_page.py:[334]-[INFO]-开始输入税务类型
+2021-02-04 17:27:59,691-base_page.py:[77]-[INFO]-locate ('name', 'taxRegisterCode') successed
+2021-02-04 17:27:59,775-base_page.py:[142]-[INFO]-input  503861657092 successed
+2021-02-04 17:27:59,775-csp_page.py:[338]-[INFO]-开始输入税务登记号
+2021-02-04 17:28:00,810-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="taxFile"]') successed
+2021-02-04 17:28:08,907-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:28:08,907-csp_page.py:[341]-[INFO]-开始上传税务登记证附件
+2021-02-04 17:28:09,934-base_page.py:[77]-[INFO]-locate ('name', 'organizationCode') successed
+2021-02-04 17:28:10,005-base_page.py:[142]-[INFO]-input  937542 successed
+2021-02-04 17:28:10,005-csp_page.py:[344]-[INFO]-开始输入组织机构代码
+2021-02-04 17:28:11,040-base_page.py:[66]-[INFO]-locate ('id', 'orgaFile') successed
+2021-02-04 17:28:19,146-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:28:19,146-csp_page.py:[347]-[INFO]-开始上传组织机构附件
+2021-02-04 17:28:20,175-base_page.py:[77]-[INFO]-locate ('name', 'bankNumType') successed
+2021-02-04 17:28:20,257-base_page.py:[142]-[INFO]-input  个人用户 successed
+2021-02-04 17:28:20,257-csp_page.py:[350]-[INFO]-开始输入银行账户类型
+2021-02-04 17:28:21,275-base_page.py:[77]-[INFO]-locate ('name', 'accountName') successed
+2021-02-04 17:28:21,351-base_page.py:[142]-[INFO]-input  中国电信 successed
+2021-02-04 17:28:21,351-csp_page.py:[353]-[INFO]-开始输入开户名
+2021-02-04 17:28:22,371-base_page.py:[77]-[INFO]-locate ('name', 'accountBank') successed
+2021-02-04 17:28:22,434-base_page.py:[142]-[INFO]-input  交通银行 successed
+2021-02-04 17:28:22,434-csp_page.py:[356]-[INFO]-开始输入开户银行
+2021-02-04 17:28:23,460-base_page.py:[77]-[INFO]-locate ('name', 'accountNum') successed
+2021-02-04 17:28:23,547-base_page.py:[142]-[INFO]-input  12234673810257 successed
+2021-02-04 17:28:24,562-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#account_date_ipt").removeAttribute("readonly"); " successed
+2021-02-04 17:28:24,562-csp_page.py:[362]-[INFO]-开始输入开户时间
+2021-02-04 17:28:25,580-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#account_date_ipt").value="2019/07/05" " successed
+2021-02-04 17:28:26,607-base_page.py:[66]-[INFO]-locate ('id', 'licenceFile') successed
+2021-02-04 17:28:34,737-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:28:34,737-csp_page.py:[367]-[INFO]-开始上传开户许可证附件
+2021-02-04 17:28:35,765-base_page.py:[77]-[INFO]-locate ('name', 'contractNo') successed
+2021-02-04 17:28:35,841-base_page.py:[142]-[INFO]-input  490672 successed
+2021-02-04 17:28:35,841-csp_page.py:[370]-[INFO]-开始输入合同编号
+2021-02-04 17:28:36,872-base_page.py:[77]-[INFO]-locate ('name', 'contractName') successed
+2021-02-04 17:28:36,938-base_page.py:[142]-[INFO]-input  345634 successed
+2021-02-04 17:28:37,959-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_date_ipt").removeAttribute("readonly"); " successed
+2021-02-04 17:28:37,960-csp_page.py:[375]-[INFO]-开始输入合同开始时间
+2021-02-04 17:28:38,979-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_home_date_ipt").value="2019/08/05" " successed
+2021-02-04 17:28:39,999-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_date_ipt").removeAttribute("readonly"); " successed
+2021-02-04 17:28:39,999-csp_page.py:[380]-[INFO]-开始输入合同结束时间
+2021-02-04 17:28:41,011-base_page.py:[328]-[INFO]-handle jsp " document.querySelector("#contract_end_date_ipt").value="2021/08/05" " successed
+2021-02-04 17:28:42,031-base_page.py:[66]-[INFO]-locate ('id', 'contractFile') successed
+2021-02-04 17:28:50,141-base_page.py:[385]-[INFO]-上传文件 successed
+2021-02-04 17:28:50,141-csp_page.py:[385]-[INFO]-开始上传合同附件
+2021-02-04 17:28:51,177-base_page.py:[66]-[INFO]-locate ('id', 'submit') successed
+2021-02-04 17:28:51,347-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:28:51,348-csp_page.py:[388]-[INFO]-开始点击提交审核按钮
+2021-02-04 17:28:52,713-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 17:28:52,734-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/p') successed
+2021-02-04 17:28:52,780-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:28:52,781-csp_page.py:[406]-[INFO]-开始点击CSP管理一级菜单
+2021-02-04 17:28:54,799-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/ul/li[2]') successed
+2021-02-04 17:28:54,852-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:28:54,852-csp_page.py:[409]-[INFO]-开始点击新增CSP按钮
+2021-02-04 17:28:55,162-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 17:28:55,182-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[2]/div[2]/button') successed
+2021-02-04 17:28:55,251-base_page.py:[427]-[INFO]-元素存在且可以操作
+2021-02-04 17:28:55,252-csp_page.py:[416]-[INFO]-开始输入新增的CSP名称
+2021-02-04 17:29:35,278-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[3]/button[2]') successed
+2021-02-04 17:29:35,357-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:29:35,357-csp_page.py:[419]-[INFO]-开始处理客户类型下拉框
+2021-02-04 17:29:37,364-csp_page.py:[437]-[INFO]-默认点击待审核
+2021-02-04 17:29:37,379-base_page.py:[77]-[INFO]-locate ('name', 'name') successed
+2021-02-04 17:29:37,466-base_page.py:[142]-[INFO]-input  每日测试csp04 successed
+2021-02-04 17:29:37,466-csp_page.py:[447]-[INFO]-开始选择csp类型
+2021-02-04 17:29:38,490-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 17:29:38,553-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:29:38,553-csp_page.py:[450]-[INFO]-开始选择csp归属地市
+2021-02-04 17:29:39,572-base_page.py:[77]-[INFO]-locate ('name', 'checkType') successed
+2021-02-04 17:29:39,645-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:29:39,645-csp_page.py:[453]-[INFO]-开始输入新增的CSP联系人身份证号
+2021-02-04 17:29:40,701-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="auditCspForm"]/div/div[10]/button[2]') successed
+2021-02-04 17:29:40,985-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:29:40,985-csp_page.py:[456]-[INFO]-开始上传新增的CSP的经办人身份证反面
+2021-02-04 17:29:41,995-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 17:29:42,026-base_page.py:[110]-[INFO]-locate ('link text', '审核') successed
+2021-02-04 17:29:42,316-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:29:42,316-csp_page.py:[484]-[INFO]-开始输入CSP回调根目录地址
+2021-02-04 17:29:43,346-base_page.py:[77]-[INFO]-locate ('name', 'remarks') successed
+2021-02-04 17:29:43,429-base_page.py:[142]-[INFO]-input  自动化测试案例通过 successed
+2021-02-04 17:29:43,430-csp_page.py:[488]-[INFO]-开始点击系统自动生成token
+2021-02-04 17:29:44,446-base_page.py:[66]-[INFO]-locate ('id', 'confirmAudit') successed
+2021-02-04 17:29:44,515-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:29:44,515-csp_page.py:[499]-[INFO]-开始上传新增的CSP的平台功能介绍附件
+2021-02-04 17:29:45,863-base_page.py:[394]-[INFO]-页面刷新成功
+2021-02-04 17:29:46,129-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 17:29:48,329-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="5224de4d47cb625c250b348e950ce8ad")> SUCCESS
+2021-02-04 17:33:46,557-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 17:33:46,557-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 17:33:46,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 17:33:46,588-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 17:33:47,707-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:33:47,707-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:47,848-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:33:47,848-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:47,989-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:33:47,989-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:47,989-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:33:47,989-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-02-04 17:33:47,989-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:33:47,989-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-02-04 17:33:48,130-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:33:48,130-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,302-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:33:48,302-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,458-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:33:48,458-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:33:48,458-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-02-04 17:33:48,474-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:33:48,614-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:33:48,614-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,755-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:33:48,755-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,962-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:33:48,962-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-02-04 17:33:48,962-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-02-04 17:33:49,198-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:33:49,198-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:49,432-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:33:49,432-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:49,666-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:33:49,666-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:49,666-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-02-04 17:33:49,666-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:33:49,666-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "#@$Wj"-- successed
+2021-02-04 17:33:49,854-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-02-04 17:33:49,854-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:49,994-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:33:49,994-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:50,151-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:33:50,151-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:33:50,151-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-02-04 17:33:50,295-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 17:33:53,516-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="da7656611d44159719484225a56b6efd")> success
+2021-02-04 17:33:53,532-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 17:33:56,514-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 17:33:56,530-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 17:33:56,611-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 17:33:57,637-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 17:33:57,722-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 17:33:58,745-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 17:33:58,795-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:34:13,823-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 17:34:13,939-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:34:53,969-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 17:34:54,012-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:34:56,040-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/p') successed
+2021-02-04 17:34:56,095-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:34:56,095-csp_page.py:[406]-[INFO]-开始点击CSP管理一级菜单
+2021-02-04 17:34:58,114-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/ul/li[2]') successed
+2021-02-04 17:34:58,154-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:34:58,154-csp_page.py:[409]-[INFO]-开始点击新增CSP按钮
+2021-02-04 17:34:58,535-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 17:34:58,554-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[2]/div[2]/button') successed
+2021-02-04 17:34:58,630-base_page.py:[427]-[INFO]-元素存在且可以操作
+2021-02-04 17:34:58,631-csp_page.py:[416]-[INFO]-开始输入新增的CSP名称
+2021-02-04 17:35:38,666-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[3]/button[2]') successed
+2021-02-04 17:35:38,746-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:35:38,746-csp_page.py:[419]-[INFO]-开始处理客户类型下拉框
+2021-02-04 17:35:41,105-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 17:35:43,279-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="da7656611d44159719484225a56b6efd")> SUCCESS
+2021-02-04 17:36:13,147-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-02-04 17:36:13,147-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr5H"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-02-04 17:36:13,164-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-02-04 17:36:13,164-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-02-04 17:36:14,306-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:36:14,306-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:14,447-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:36:14,447-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:14,588-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:36:14,588-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:14,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:36:14,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-02-04 17:36:14,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:36:14,588-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-02-04 17:36:14,729-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:36:14,729-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:14,869-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:36:14,869-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,010-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-02-04 17:36:15,010-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:36:15,010-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-02-04 17:36:15,026-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "每日测试csp04"-- successed
+2021-02-04 17:36:15,166-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:36:15,166-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,307-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:36:15,307-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,448-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-02-04 17:36:15,448-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-02-04 17:36:15,448-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-02-04 17:36:15,588-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:36:15,588-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,744-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:36:15,744-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,887-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-02-04 17:36:15,887-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:15,887-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-02-04 17:36:15,887-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-02-04 17:36:15,887-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "#@$Wj"-- successed
+2021-02-04 17:36:16,043-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-02-04 17:36:16,043-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:16,268-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:36:16,268-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:16,425-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-02-04 17:36:16,425-writeexcel.py:[125]-[ERROR]-获取一整列数据成功
+NoneType: None
+2021-02-04 17:36:16,425-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-02-04 17:36:16,582-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-02-04 17:36:19,815-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="665a6837c6712260341d9006c73ea527")> success
+2021-02-04 17:36:19,815-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-02-04 17:36:22,782-base_page.py:[50]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-02-04 17:36:22,814-base_page.py:[77]-[INFO]-locate ('name', 'username') successed
+2021-02-04 17:36:22,900-base_page.py:[142]-[INFO]-input  wuji2020 successed
+2021-02-04 17:36:23,920-base_page.py:[77]-[INFO]-locate ('name', 'password') successed
+2021-02-04 17:36:24,001-base_page.py:[142]-[INFO]-input  .WKE$gpJGr5H successed
+2021-02-04 17:36:25,021-base_page.py:[66]-[INFO]-locate ('id', 'imgCode') successed
+2021-02-04 17:36:25,070-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:36:40,094-base_page.py:[88]-[INFO]-locate ('class name', 'sms_Verification') successed
+2021-02-04 17:36:40,224-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:37:20,250-base_page.py:[110]-[INFO]-locate ('link text', '登录') successed
+2021-02-04 17:37:20,292-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:37:22,322-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/p') successed
+2021-02-04 17:37:22,381-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:37:22,381-csp_page.py:[406]-[INFO]-开始点击CSP管理一级菜单
+2021-02-04 17:37:24,402-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[3]/ul/li[2]') successed
+2021-02-04 17:37:24,454-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:37:24,455-csp_page.py:[409]-[INFO]-开始点击新增CSP按钮
+2021-02-04 17:37:24,895-base_page.py:[191]-[INFO]-swith frame successed
+2021-02-04 17:37:24,917-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[2]/div[2]/button') successed
+2021-02-04 17:37:24,996-base_page.py:[427]-[INFO]-元素存在且可以操作
+2021-02-04 17:37:24,996-csp_page.py:[416]-[INFO]-开始输入新增的CSP名称
+2021-02-04 17:38:05,033-base_page.py:[99]-[INFO]-locate ('xpath', '/html/body/div[1]/div[2]/div[4]/div/div[3]/button[2]') successed
+2021-02-04 17:38:05,108-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:38:05,108-csp_page.py:[419]-[INFO]-开始处理客户类型下拉框
+2021-02-04 17:38:07,134-base_page.py:[66]-[INFO]-locate ('id', 'auditStatusy') successed
+2021-02-04 17:38:07,467-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:38:07,468-csp_page.py:[440]-[INFO]-开始上传新增的CSP的经办人身份证正面
+2021-02-04 17:38:08,495-base_page.py:[77]-[INFO]-locate ('name', 'checkStatus') successed
+2021-02-04 17:38:08,567-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:38:08,567-csp_page.py:[443]-[INFO]-开始输入接入码
+2021-02-04 17:38:09,597-base_page.py:[77]-[INFO]-locate ('name', 'name') successed
+2021-02-04 17:38:09,682-base_page.py:[142]-[INFO]-input  每日测试csp04 successed
+2021-02-04 17:38:09,683-csp_page.py:[447]-[INFO]-开始选择csp类型
+2021-02-04 17:38:10,720-base_page.py:[77]-[INFO]-locate ('name', 'type') successed
+2021-02-04 17:38:10,766-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:38:10,766-csp_page.py:[450]-[INFO]-开始选择csp归属地市
+2021-02-04 17:38:11,791-base_page.py:[77]-[INFO]-locate ('name', 'checkType') successed
+2021-02-04 17:38:11,854-base_page.py:[175]-[INFO]-handle select----- successed
+2021-02-04 17:38:11,855-csp_page.py:[453]-[INFO]-开始输入新增的CSP联系人身份证号
+2021-02-04 17:38:12,873-base_page.py:[99]-[INFO]-locate ('xpath', '//*[@id="auditCspForm"]/div/div[10]/button[2]') successed
+2021-02-04 17:38:13,177-base_page.py:[158]-[INFO]-click element successed
+2021-02-04 17:38:13,177-csp_page.py:[456]-[INFO]-开始上传新增的CSP的经办人身份证反面
+2021-02-04 17:38:14,192-base_page.py:[246]-[INFO]-get page source code successed
+2021-02-04 17:38:14,192-test_d_csp.py:[42]-[INFO]-Assertion Successed，case is  passed---------新建csp每日测试csp04成功--<td>每日测试csp04</td> in page
+2021-02-04 17:38:14,192-writeexcel.py:[144]-[ERROR]-更新或插入数据---2021-02-04 17:38:14案例执行通过--成功
+NoneType: None
+2021-02-04 17:38:14,773-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-02-04 17:38:16,955-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="665a6837c6712260341d9006c73ea527")> SUCCESS

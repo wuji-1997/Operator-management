@@ -5,6 +5,7 @@ import unittest
 from Page.update_password_page import UpdatepwsPage
 from common import screenshoot
 
+
 updatepws_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
 
 class Test_csp(MYunit):
