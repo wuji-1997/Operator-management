@@ -46,7 +46,7 @@ columns：按列获取单元格(Cell对象) - 生成器
 values：按行获取表格的内容(数据) - 生成器
 '''
 
-excel_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
+excel_log = Log(__name__,file=logging.INFO,cmd=logging.WARN)
 
 class Write_Excel():
 
@@ -82,7 +82,7 @@ class Write_Excel():
             excel_log.csp_log.exception('获取数据失败')
             raise
         else:
-            excel_log.csp_log.exception(f'获取单元格数据成功------{data}')
+            excel_log.csp_log.info(f'获取单元格数据成功------{data}')
             return data
     def read_row(self,sheetrow):
         """
@@ -101,7 +101,7 @@ class Write_Excel():
             excel_log.csp_log.exception('获取一整行数据失败')
             raise
         else:
-            excel_log.csp_log.exception(f'获取一整行数据成功')
+            excel_log.csp_log.info(f'获取一整行数据成功')
             return data
 
     def read_column(self,sheetcolumn):
@@ -122,7 +122,7 @@ class Write_Excel():
             excel_log.csp_log.exception('获取一整列数据失败')
             raise
         else:
-            excel_log.csp_log.exception(f'获取一整列数据成功')
+            excel_log.csp_log.info(f'获取一整列数据成功')
             return data
 
 
@@ -141,7 +141,7 @@ class Write_Excel():
             excel_log.csp_log.exception(f'更新或插入数据---{update}--失败')
             raise
         else:
-            excel_log.csp_log.exception(f'更新或插入数据---{update}--成功')
+            excel_log.csp_log.info(f'更新或插入数据---{update}--成功')
             self.wb.save(filename=self.filepath)
 
 if __name__=="__main__":

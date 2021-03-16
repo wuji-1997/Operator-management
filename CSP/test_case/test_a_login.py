@@ -3,15 +3,16 @@ from common.my_log import Log
 from common import screenshoot
 import logging
 import unittest
-
+import sys
+import traceback
 
 test_csplogin_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
 
-class Test_csp(MYunit):
+class Test_csp_login(MYunit):
 
 
 
-    def test_a_username_null(self):
+    def testcase01(self):
         """
         测试账号为空
         :return:
@@ -25,12 +26,13 @@ class Test_csp(MYunit):
         try:
             self.assertIn(value, value2)
         except Exception:
-            test_csplogin_log.csp_log.exception(f'Assertion Failed，case is not pass---------{value} is not in page ')
-            raise
+            test_csplogin_log.csp_log.exception(f'Assertion Failed，case is not pass---------{value} is not in page'
+                                                f'error_message{traceback.print_tb(sys.exc_info()[2])}')
+            print('案例不通过')
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------{value} is  in page ')
 
-    def test_b_userpassword_null(self):
+    def testcase02(self):
         """
         测试密码为空
         :return:
@@ -50,7 +52,7 @@ class Test_csp(MYunit):
 
 
 
-    def test_c_photonull(self):
+    def testcase03(self):
         """
         测试图形验证码为空
         :return:
@@ -68,7 +70,7 @@ class Test_csp(MYunit):
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
 
-    def test_d_msgnull(self):
+    def testcase04(self):
         """
         测试手机短信码为空
         :return:
@@ -89,7 +91,7 @@ class Test_csp(MYunit):
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
 
 
-    def test_e_csplogin(self):
+    def testcase05(self):
         """
         测试登录成功
         :return:

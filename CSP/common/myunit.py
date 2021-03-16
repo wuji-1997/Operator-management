@@ -1,7 +1,7 @@
 import unittest
 import logging
 from common.my_log import Log
-from Page.login_page import LoginPage_CSP
+from Page.csp_page.login_page import LoginPage_CSP
 from common.mydriver import Driver
 myunit_log =Log(__name__,file=logging.INFO,cmd=logging.INFO)
 

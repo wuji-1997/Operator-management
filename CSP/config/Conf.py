@@ -23,11 +23,14 @@ testreport = os.path.join(project,'report')
 #测试截图路径
 
 test_screenshoot = os.path.join(project,'screenshoot','CSP')
-
+test_screenshoot_cloud = os.path.join(project,'screenshoot','cloud')
 #日志文件路径
 
 log_path = os.path.join(project,'log','my_log')
-
+cloud_log_path = os.path.join(project,'log','cloud')
 #记事本路径
 
 notebook = os.path.join(project,'data')
+
+#获取assessToken接口地址
+

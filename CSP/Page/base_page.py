@@ -12,6 +12,7 @@ from config.Conf import *
 import os
 import random
 
+
 base_log=Log(__name__,logging.INFO,cmd=logging.INFO)
 read_config = Readini()
 class BasePage(object):
@@ -59,66 +60,66 @@ class BasePage(object):
             element=(By.ID,value)
             try:
                 WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details',exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         elif find_way=='name':
             element = (By.NAME, value)
             try:
-                WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+                WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details', exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         elif find_way=='class':
             element = (By.CLASS_NAME, value)
             try:
-                WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+                WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details', exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         elif find_way=='xpath':
             element = (By.XPATH, value)
             try:
-                WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+                WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details', exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         elif find_way=='link_text':
             element = (By.LINK_TEXT, value)
             try:
-                WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+                WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details', exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         elif find_way=='css':
             element = (By.CSS_SELECTOR, value)
             try:
-                WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
-            except Exception:
-                base_log.csp_log.exception(f'locate {element} Failed')
-                raise
+                WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+            except Exception as e:
+                base_log.csp_log.exception(f'finding element timeout!,details', exc_info=True)
+                raise e
             else:
-                base_log.csp_log.info(f'locate {element} successed')
+                base_log.csp_log.info(f'The page of {self} had already find the element {element}')
                 return self.base_driver.find_element(*element)
 
         else:
@@ -126,36 +127,42 @@ class BasePage(object):
 
     def input_value(self,find_way,value,test_value):
         """
-
-        :param find_way:
-        :param value:
-        :param test_value:
+        定位元素后输入值
+        :param find_way: 定位方式
+        :param value:    元素表达式
+        :param test_value: 文本框输入值
         :return:
         """
-
+        inputB=self.findelement(find_way, value)
         try:
-            self.findelement(find_way, value).send_keys(test_value)
-        except Exception:
-            base_log.csp_log.exception(f"input  {test_value} Failed")
-            raise
+            inputB.send_keys(test_value)
+        except Exception as e:
+            base_log.csp_log.exception(f'typing value error!',exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f"input  {test_value} successed")
+            base_log.csp_log.info(f'inputvalue:{value} is receiveing {test_value}')
+
+
 
     def click_element(self,find_way,value):
         """
-        点击元素
+        定位元素成功后点击元素
         :param find_way:
         :param value:
+        :param number
         :return:
         """
-        element = self.findelement(find_way,value)
+        clickC=self.findelement(find_way,value)
         try:
-            element.click()
-        except Exception:
-            base_log.csp_log.exception(f"click element Failed")
-            raise
+            clickC.click()
+        except Exception as e:
+            base_log.csp_log.exception(f'click element error!', exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f"click element successed")
+            base_log.csp_log.info(f'click success success !')
+
+
+
 
 
     def handle_select(self,find_way,value,text):
@@ -164,15 +171,15 @@ class BasePage(object):
         :param value:
         :return:
         """
-        element = self.findelement(find_way,value)
+        selectB = self.findelement(find_way,value)
         try:
-            Select(element).select_by_visible_text(text)
+            Select(selectB).select_by_visible_text(text)
 
-        except Exception:
-            base_log.csp_log.exception(f'handle select----- Failed')
-            raise
+        except Exception as e:
+            base_log.csp_log.exception(f'select handle error',exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f'handle select----- successed')
+            base_log.csp_log.info(f'select_text:{value} is receiveing value:{text} ')
 
     def handleform(self,id):
         """
@@ -184,11 +191,11 @@ class BasePage(object):
         try:
             self.base_driver.switch_to.frame(id)
 
-        except Exception:
-            base_log.csp_log.exception(f'switch frame Failed')
-            raise
+        except Exception as e:
+            base_log.csp_log.exception(f'id is not None')
+            raise e
         else:
-            base_log.csp_log.info('swith frame successed')
+            base_log.csp_log.info(f'swith frame: {id} successed')
 
     def parentform(self):
         """
@@ -198,9 +205,9 @@ class BasePage(object):
         try:
             self.base_driver.switch_to.parent_frame()
 
-        except Exception:
+        except Exception as e:
             base_log.csp_log.exception(f'back to the previous level Failed')
-            raise
+            raise e
         else:
             base_log.csp_log.info('back to the previous level successed')
 
@@ -212,9 +219,9 @@ class BasePage(object):
         try:
             self.base_driver.switch_to.default_content()
 
-        except Exception:
+        except Exception as e:
             base_log.csp_log.exception('reture outermost layer Failed')
-            raise
+            raise e
         else:
             base_log.csp_log.info('reture outermost layer successed')
 
@@ -276,15 +283,15 @@ class BasePage(object):
         处理ALERT类型提示框
         :return:
         """
-        element = self.base_driver.switch_to.alert
-        try:
-            element.accept()
 
+        try:
+            element = self.base_driver.switch_to.alert
         except Exception:
-            base_log.csp_log.exception(f'handle alert " {element} " Failed')
+            base_log.csp_log.exception(f'handle alert Failed',exc_info=True)
             raise
         else:
             base_log.csp_log.info(f'handle alert " {element} " successed')
+            element.accept()
 
 
     def handle_frame(self):
@@ -321,11 +328,11 @@ class BasePage(object):
         """
         try:
             self.base_driver.execute_script(value)
-        except Exception:
-            base_log.csp_log.exception(f'handle jsp " {value} " Failed')
-            raise
+        except Exception as e:
+            base_log.csp_log.exception(f'handle jsp:[{value}] Failed',exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f'handle jsp " {value} " successed')
+            base_log.csp_log.info(f'handle jsp:[{value}] successed')
 
 
 
@@ -336,26 +343,15 @@ class BasePage(object):
         :param value:
         :return:
         """
-
-        element=self.findelement(find_way,elementvalue)
-        return element.text
-
-
-
-    def display(self,find_way,value):
-        """
-        判断元素是否可见
-        :param find_way:
-        :param value:
-        :return:
-        """
-        element  = self.findelement(find_way,value)
-        if element.is_displayed():
-            base_log.csp_log.info(f'element is displayed')
-            element.click()
+        element = self.findelement(find_way, elementvalue)
+        try:
+            value=element.text
+        except Exception as e:
+            base_log.csp_log.exception(f'{element} gets text value failed',exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f'element is not displayed')
-
+            base_log.csp_log.info(f'{element} gets text value successed')
+            return value
 
     def upload_file(self,findway,value,filepath):
         """
@@ -378,11 +374,11 @@ class BasePage(object):
             win32api.keybd_event(13, 0, win32con.KEYEVENTF_KEYUP, 0)
 
 
-        except Exception:
-            base_log.csp_log.exception(f'上传文件 failed')
-            raise
+        except Exception as e:
+            base_log.csp_log.exception(f'upload attachment:{filepath} failed',exc_info=True)
+            raise e
         else:
-            base_log.csp_log.info(f'上传文件 successed')
+            base_log.csp_log.info(f'upload attachment:{filepath} successed')
 
 
     def F5(self):
@@ -408,24 +404,21 @@ class BasePage(object):
         return value
 
 
-    def isElementExist(self,findway,elementvalue):
+    def isElementExist(self,element):
         """
         判断元素是否存在
         :param value:
         :return:
         """
-        flag = True
-
         try:
-            self.findelement(findway,elementvalue).click()
-
+            element=WebDriverWait(self.base_driver,10,0.5).until(EC.visibility_of_element_located(element))
+            element.click()
         except Exception:
-            base_log.csp_log.exception(f'元素存在但不可操作')
-            flag = False
-            return flag
+            base_log.csp_log.exception(f'{element} is non-existent',exc_info=True)
+            return False
         else:
-            base_log.csp_log.info('元素存在且可以操作')
-            return flag
+            base_log.csp_log.info(f'{element} is existent')
+            return True
 
 
     def goback(self):
@@ -435,40 +428,39 @@ class BasePage(object):
         """
         self.base_driver.back()
 
-
-
-if __name__=="__main__":
-    pass
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    def over(self):
+        """
+        断开驱动
+        :return:
+        """
+        self.base_driver.quit()
 
 
 
 if __name__=="__main__":
-    value = '中国电信100010'
-    value2 = value+'1'
-    print(value2)
     from selenium import webdriver
-    driver = webdriver.Chrome()
-    v =driver.find_element().text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

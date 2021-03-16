@@ -63,11 +63,34 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CSP\Page\csp_page" />
       <recent name="E:\CSP\vue\html" />
       <recent name="E:\CSP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_d_csp.py">
+  <component name="RunManager" selected="Python.customer_page">
+    <configuration name="customer_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Page/csp_page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Page/csp_page/customer_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,22 +113,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_d_csp.Test_csp.testcase03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_d_csp.Test_csp.testcase03&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_d_csp.Test_csp.testcase13" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_d_csp.Test_csp_manage.testcase06" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,23 +146,8 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_d_csp.Test_csp.testcase13&quot;" />
+      <option name="_new_target" value="&quot;test_d_csp.Test_csp_manage.testcase06&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_c_chatbot.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_c_chatbot.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in test_d_csp.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -152,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.customer_page" />
+        <item itemvalue="Python.run" />
         <item itemvalue="Python tests.Unittests in test_d_csp.py" />
+        <item itemvalue="Python tests.Unittests for test_d_csp.Test_csp_manage.testcase06" />
         <item itemvalue="Python.other" />
-        <item itemvalue="Python tests.Unittests for test_d_csp.Test_csp.testcase13" />
-        <item itemvalue="Python tests.Unittests for test_d_csp.Test_csp.testcase03" />
-        <item itemvalue="Python tests.Unittests in test_c_chatbot.py" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +247,37 @@
       <workItem from="1612314046917" duration="18249000" />
       <workItem from="1612400508744" duration="23406000" />
       <workItem from="1612486849770" duration="21093000" />
+      <workItem from="1612668000871" duration="11116000" />
+      <workItem from="1612746698371" duration="17256000" />
+      <workItem from="1613610634627" duration="11411000" />
+      <workItem from="1613696616498" duration="17797000" />
+      <workItem from="1613782996790" duration="3871000" />
+      <workItem from="1613790983272" duration="3271000" />
+      <workItem from="1613801210156" duration="12514000" />
+      <workItem from="1613955806324" duration="17350000" />
+      <workItem from="1613984227319" duration="1701000" />
+      <workItem from="1614041890025" duration="1062000" />
+      <workItem from="1614043453529" duration="16802000" />
+      <workItem from="1614128650864" duration="12765000" />
+      <workItem from="1614214660114" duration="7883000" />
+      <workItem from="1614233346735" duration="5671000" />
+      <workItem from="1614302717756" duration="18263000" />
+      <workItem from="1614561228924" duration="14624000" />
+      <workItem from="1614588390444" duration="1214000" />
+      <workItem from="1614647032419" duration="13520000" />
+      <workItem from="1614733701217" duration="14941000" />
+      <workItem from="1614819761853" duration="14343000" />
+      <workItem from="1614906547352" duration="4098000" />
+      <workItem from="1614913570428" duration="7465000" />
+      <workItem from="1615165618710" duration="6983000" />
+      <workItem from="1615251793773" duration="3495000" />
+      <workItem from="1615338519277" duration="3727000" />
+      <workItem from="1615424930038" duration="1172000" />
+      <workItem from="1615511197192" duration="1366000" />
+      <workItem from="1615513245058" duration="6933000" />
+      <workItem from="1615770592608" duration="6179000" />
+      <workItem from="1615856777126" duration="5425000" />
+      <workItem from="1615883297093" duration="1795000" />
     </task>
     <servers />
   </component>
@@ -239,6 +285,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Illuminated_Cloud" timestamp="1615424951235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Illuminated_Cloud/0.0.1536.824@0.0.1536.824" timestamp="1615424951235" />
     <state x="361" y="71" key="#Log_Highlighting_(ideolog)" timestamp="1611709234504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,50 +305,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610954872147" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1612098081592">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1615426806692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612098081592" />
-    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1612515621560">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615426806692" />
+    <state width="1493" height="83" key="GridCell.Tab.0.bottom" timestamp="1615881202321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612515621560" />
-    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1612515621560">
+    <state width="1493" height="83" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615881202321" />
+    <state width="1493" height="83" key="GridCell.Tab.0.center" timestamp="1615881202321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612515621560" />
-    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1612515621560">
+    <state width="1493" height="83" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615881202321" />
+    <state width="1493" height="83" key="GridCell.Tab.0.left" timestamp="1615881202321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612515621560" />
-    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1612515621560">
+    <state width="1493" height="83" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615881202321" />
+    <state width="1493" height="83" key="GridCell.Tab.0.right" timestamp="1615881202321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612515621560" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1612013578352">
+    <state width="1493" height="83" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615881202321" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613800972110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612013578352" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1612013578352">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613800972110" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613800972110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612013578352" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1612013578352">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613800972110" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613800972110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612013578352" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1612013578352">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613800972110" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613800972110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612013578352" />
-    <state x="374" y="93" key="SettingsEditor" timestamp="1612003573410">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613800972110" />
+    <state x="374" y="93" key="SettingsEditor" timestamp="1614914257391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="374" y="93" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612003573410" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1612487121137">
+    <state x="374" y="93" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614914257391" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1615770602473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612487121137" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1615770602473" />
+    <state x="482" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613699717887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1613699717887" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612158116700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -316,78 +370,95 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase09.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase09 Coverage Results" MODIFIED="1611543627895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase09.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase09 Coverage Results" MODIFIED="1613698882412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase08_refresh.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase08_refresh Coverage Results" MODIFIED="1614825305626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_a_login_Test_csp_test_z_csplogin.coverage" NAME="Unittests for test_a_login.Test_csp.test_z_csplogin Coverage Results" MODIFIED="1609607418929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_b_customer_py.coverage" NAME="Unittests in test_b_customer.py Coverage Results" MODIFIED="1612488545033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_b_customer_py.coverage" NAME="Unittests in test_b_customer.py Coverage Results" MODIFIED="1614820843334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase07_refreshname.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase07_refreshname Coverage Results" MODIFIED="1613977983025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase06.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase06 Coverage Results" MODIFIED="1614578164110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_z_update_password_py.coverage" NAME="Unittests in test_z_update_password.py Coverage Results" MODIFIED="1611715367062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_c_updatecsp_customer_type.coverage" NAME="Unittests for test_csp.Test_csp.test_c_updatecsp_customer_type Coverage Results" MODIFIED="1610068240876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$run.coverage" NAME="run Coverage Results" MODIFIED="1611822760429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CSP$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1610070490215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/CSP$run.coverage" NAME="run Coverage Results" MODIFIED="1615858848632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSP$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1614243613168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_manage_testcase06.coverage" NAME="Unittests for test_d_csp.Test_csp_manage.testcase06 Coverage Results" MODIFIED="1615773445236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_f_off_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_f_off_csp Coverage Results" MODIFIED="1610089283034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_csp_py.coverage" NAME="Unittests in test_d_csp.py Coverage Results" MODIFIED="1610520316923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_csp_chatbot_testcase06.coverage" NAME="Unittests for test_c_chatbot.Test_csp_chatbot.testcase06 Coverage Results" MODIFIED="1615515968928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$readini.coverage" NAME="readini Coverage Results" MODIFIED="1610521582630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_z_update_password_Test_csp_testcase01.coverage" NAME="Unittests for test_z_update_password.Test_csp.testcase01 Coverage Results" MODIFIED="1611713062730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase01.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase01 Coverage Results" MODIFIED="1612254201853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase03.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase03 Coverage Results" MODIFIED="1612255370445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase01.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase01 Coverage Results" MODIFIED="1613975361380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase03.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase03 Coverage Results" MODIFIED="1614751704244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase06.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase06 Coverage Results" MODIFIED="1611108317202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase01.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase01 Coverage Results" MODIFIED="1612338892223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase03.coverage" NAME="Unittests for test_e_system.Test_system.testcase03 Coverage Results" MODIFIED="1613807778861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase01.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase01 Coverage Results" MODIFIED="1614648044412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase06.coverage" NAME="Unittests for test_e_system.Test_system.testcase06 Coverage Results" MODIFIED="1611816489634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$other.coverage" NAME="other Coverage Results" MODIFIED="1612508538761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/CSP$csp_page.coverage" NAME="csp_page Coverage Results" MODIFIED="1610350238865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase04.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase04 Coverage Results" MODIFIED="1612342951579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase02.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase02 Coverage Results" MODIFIED="1611210109026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase10.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase10 Coverage Results" MODIFIED="1611544920793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_a_login_Test_csp_test_a_username_null.coverage" NAME="Unittests for test_a_login.Test_csp.test_a_username_null Coverage Results" MODIFIED="1609896580153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_csp_chatbot_testcase01.coverage" NAME="Unittests for test_c_chatbot.Test_csp_chatbot.testcase01 Coverage Results" MODIFIED="1615518795151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase04.coverage" NAME="Unittests for test_e_system.Test_system.testcase04 Coverage Results" MODIFIED="1613808162389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$other.coverage" NAME="other Coverage Results" MODIFIED="1615519400361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/CSP$csp_page.coverage" NAME="csp_page Coverage Results" MODIFIED="1614241702577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/csp_page" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase04.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase04 Coverage Results" MODIFIED="1614650952080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase06refresh.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase06refresh Coverage Results" MODIFIED="1613976963501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase02.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase02 Coverage Results" MODIFIED="1614325973920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase10.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase10 Coverage Results" MODIFIED="1614580104744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_a_login_Test_csp_test_a_username_null.coverage" NAME="Unittests for test_a_login.Test_csp.test_a_username_null Coverage Results" MODIFIED="1614244630370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase02.coverage" NAME="Unittests for test_csp.Test_csp.testcase02 Coverage Results" MODIFIED="1610332855200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_c_update_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_c_update_csp Coverage Results" MODIFIED="1609987034494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase14.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase14 Coverage Results" MODIFIED="1611624976624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1610356791765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase08.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase08 Coverage Results" MODIFIED="1611303049102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase03.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase03 Coverage Results" MODIFIED="1612494555023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase02.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase02 Coverage Results" MODIFIED="1612254957724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase08.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase08 Coverage Results" MODIFIED="1614046419004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase05rename.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase05rename Coverage Results" MODIFIED="1614068121554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase03.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase03 Coverage Results" MODIFIED="1612770592687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase05.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase05 Coverage Results" MODIFIED="1615516051993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase02.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase02 Coverage Results" MODIFIED="1613976090910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_a_login_Test_csp_test_b_userpassword_null.coverage" NAME="Unittests for test_a_login.Test_csp.test_b_userpassword_null Coverage Results" MODIFIED="1609607125038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$readexcel.coverage" NAME="readexcel Coverage Results" MODIFIED="1610516653008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase05.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase05 Coverage Results" MODIFIED="1612256120731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase05.coverage" NAME="Unittests for test_e_system.Test_system.testcase05 Coverage Results" MODIFIED="1611817785134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$my_log.coverage" NAME="my_log Coverage Results" MODIFIED="1609606719550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase05.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase05 Coverage Results" MODIFIED="1613976775326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase14refresh.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase14refresh Coverage Results" MODIFIED="1614578028192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase06rename.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase06rename Coverage Results" MODIFIED="1614655700265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase05.coverage" NAME="Unittests for test_e_system.Test_system.testcase05 Coverage Results" MODIFIED="1613805863263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$my_log.coverage" NAME="my_log Coverage Results" MODIFIED="1614303995358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_b_check_pass_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_b_check_pass_csp Coverage Results" MODIFIED="1610089943754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase03.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase03 Coverage Results" MODIFIED="1612342070160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase03.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase03 Coverage Results" MODIFIED="1614663952255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase03.coverage" NAME="Unittests for test_csp.Test_csp.testcase03 Coverage Results" MODIFIED="1610352914080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$writeexcel.coverage" NAME="writeexcel Coverage Results" MODIFIED="1612247550707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_c.coverage" NAME="Unittests for test_csp.Test_csp.test_c Coverage Results" MODIFIED="1609999652608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_a_login_py.coverage" NAME="Unittests in test_a_login.py Coverage Results" MODIFIED="1611294822348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_a_login_py.coverage" NAME="Unittests in test_a_login.py Coverage Results" MODIFIED="1614322224276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$test_w.coverage" NAME="test_w Coverage Results" MODIFIED="1610952146308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase11.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase11 Coverage Results" MODIFIED="1611552717869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase11.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase11 Coverage Results" MODIFIED="1614579038202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp.coverage" NAME="Unittests for test_csp.Test_csp Coverage Results" MODIFIED="1610001586436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase04.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase04 Coverage Results" MODIFIED="1611214711847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase04.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase04 Coverage Results" MODIFIED="1613713328663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase010.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase010 Coverage Results" MODIFIED="1610516911526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_a_add_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_a_add_csp Coverage Results" MODIFIED="1610089650461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase13.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase13 Coverage Results" MODIFIED="1612508403132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase07.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase07 Coverage Results" MODIFIED="1611302065558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$methond.coverage" NAME="methond Coverage Results" MODIFIED="1612686483053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase08.coverage" NAME="Unittests for test_csp.Test_csp.testcase08 Coverage Results" MODIFIED="1610437223567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase07.coverage" NAME="Unittests for test_e_system.Test_system.testcase07 Coverage Results" MODIFIED="1611817411935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase01.coverage" NAME="Unittests for test_e_system.Test_system.testcase01 Coverage Results" MODIFIED="1611727181009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase07.coverage" NAME="Unittests for test_e_system.Test_system.testcase07 Coverage Results" MODIFIED="1613806291962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase01.coverage" NAME="Unittests for test_e_system.Test_system.testcase01 Coverage Results" MODIFIED="1614837873483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase05.coverage" NAME="Unittests for test_csp.Test_csp.testcase05 Coverage Results" MODIFIED="1610352687677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_e_grounding_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_e_grounding_csp Coverage Results" MODIFIED="1610087174227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_a_login_Test_csp_test_e_csplogin.coverage" NAME="Unittests for test_a_login.Test_csp.test_e_csplogin Coverage Results" MODIFIED="1611294993336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_c_chatbot_py.coverage" NAME="Unittests in test_c_chatbot.py Coverage Results" MODIFIED="1612489368103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase04.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase04 Coverage Results" MODIFIED="1612255769491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_c_chatbot_py.coverage" NAME="Unittests in test_c_chatbot.py Coverage Results" MODIFIED="1614826293387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_c_chatbot_Test_chatbot_testcase04.coverage" NAME="Unittests for test_c_chatbot.Test_chatbot.testcase04 Coverage Results" MODIFIED="1614752939775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$sendemail.coverage" NAME="sendemail Coverage Results" MODIFIED="1611284564620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase01.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase01 Coverage Results" MODIFIED="1612431372713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase01.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase01 Coverage Results" MODIFIED="1614325733167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_z_update_password_Test_csp_testcase02.coverage" NAME="Unittests for test_z_update_password.Test_csp.testcase02 Coverage Results" MODIFIED="1611714104796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase05.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase05 Coverage Results" MODIFIED="1613631976787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_b_check_csp.coverage" NAME="Unittests for test_csp.Test_csp.test_b_check_csp Coverage Results" MODIFIED="1609998552487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_d_csp_py.coverage" NAME="Unittests in test_d_csp.py Coverage Results" MODIFIED="1612509693956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_d_csp_py.coverage" NAME="Unittests in test_d_csp.py Coverage Results" MODIFIED="1615774471667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1609896710304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_d_updatecsp_csptype.coverage" NAME="Unittests for test_csp.Test_csp.test_d_updatecsp_csptype Coverage Results" MODIFIED="1610000163468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase09.coverage" NAME="Unittests for test_csp.Test_csp.testcase09 Coverage Results" MODIFIED="1610434818524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase02.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase02 Coverage Results" MODIFIED="1612339824595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_b_customer_Test_csp_custmoer_testcase02.coverage" NAME="Unittests for test_b_customer.Test_csp_custmoer.testcase02 Coverage Results" MODIFIED="1614323494655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$customer_page.coverage" NAME="customer_page Coverage Results" MODIFIED="1615860694546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/csp_page" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase04.coverage" NAME="Unittests for test_csp.Test_csp.testcase04 Coverage Results" MODIFIED="1610433242227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_f_update_token.coverage" NAME="Unittests for test_csp.Test_csp.test_f_update_token Coverage Results" MODIFIED="1610095489379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase12.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase12 Coverage Results" MODIFIED="1611562869572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$test.coverage" NAME="test Coverage Results" MODIFIED="1611804989216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_d_csp_Test_csp_testcase12.coverage" NAME="Unittests for test_d_csp.Test_csp.testcase12 Coverage Results" MODIFIED="1614223538588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_e_system_Test_system_testcase02.coverage" NAME="Unittests for test_e_system.Test_system.testcase02 Coverage Results" MODIFIED="1614838088075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_testcase10.coverage" NAME="Unittests for test_csp.Test_csp.testcase10 Coverage Results" MODIFIED="1610332063753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$Unittests_for_test_csp_Test_csp_test_g_update_password.coverage" NAME="Unittests for test_csp.Test_csp.test_g_update_password Coverage Results" MODIFIED="1610096167853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_e_system_py.coverage" NAME="Unittests in test_e_system.py Coverage Results" MODIFIED="1611812659589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/CSP$Unittests_in_test_e_system_py.coverage" NAME="Unittests in test_e_system.py Coverage Results" MODIFIED="1614933348636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/CSP$myerror.coverage" NAME="myerror Coverage Results" MODIFIED="1610418784250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
   </component>
 </project>

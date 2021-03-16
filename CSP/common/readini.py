@@ -4,7 +4,7 @@ import logging
 from common.my_log import Log
 import os
 from config import Conf
-readini_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
+readini_log = Log(__name__,file=logging.INFO,cmd=logging.WARN)
 
 
 class Readini(object):

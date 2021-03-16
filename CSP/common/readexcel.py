@@ -5,7 +5,7 @@ import logging
 from config.Conf import *
 from common.my_log import Log
 
-readexcel_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
+readexcel_log = Log(__name__,file=logging.INFO,cmd=logging.WARN)
 
 class ReadExcel(object):
 
@@ -30,7 +30,7 @@ class ReadExcel(object):
             value = self.worksheet_name.cell_value(rows,cloxs)
 
         except Exception:
-            readexcel_log.csp_log.exception(f'from {self.filepath} get value--"{value}"-- failed')
+            readexcel_log.csp_log.exception(f'from {self.filepath} get value-- failed')
             raise
         else:
             readexcel_log.csp_log.info(f'from {self.filepath} get value-- "{value}"-- successed')
