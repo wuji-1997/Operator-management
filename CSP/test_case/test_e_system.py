@@ -14,7 +14,7 @@ test_system_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
 class Test_csp_system(MYunit):
 
     @unittest.skip('pass')
-    def testcase01(self):
+    def testcase34(self):
         """
         测试新增一个账号且可登录系统
         :return:
@@ -38,7 +38,7 @@ class Test_csp_system(MYunit):
             writedata.update_data(2, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行通过")
 
     @unittest.skip('pass')
-    def testcase02(self):
+    def testcase35(self):
         """
         测试变更账号再次登录可成功
         :return:
@@ -74,7 +74,7 @@ class Test_csp_system(MYunit):
                 raise
 
     @unittest.skip('pass')
-    def testcase03(self):
+    def testcase36(self):
         """
         测试变更密码再次登录可成功
         :return:
@@ -113,7 +113,7 @@ class Test_csp_system(MYunit):
 
 
     @unittest.skip('pass')
-    def testcase04(self):
+    def testcase37(self):
         """
         测试停用账号
         :return:
@@ -149,7 +149,7 @@ class Test_csp_system(MYunit):
                 raise
 
     @unittest.skip('pass')
-    def testcase05(self):
+    def testcase38(self):
         """
         测试重新启用账号
         :return:
@@ -195,7 +195,7 @@ class Test_csp_system(MYunit):
 
 
     @unittest.skip('pass')
-    def testcase06(self):
+    def testcase39(self):
         """
         测试删除账号
         :return:

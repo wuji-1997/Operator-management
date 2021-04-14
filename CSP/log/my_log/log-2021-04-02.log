@@ -1,0 +1,1009 @@
+2021-04-02 09:14:32,465-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-04-02 09:14:32,465-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-04-02 09:14:33,400-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:33,400-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,432-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:33,432-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,463-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:33,463-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化专属测试"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\loading.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "江苏淮安"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "IT服务"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "金牌会员"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "吴忌"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "张无忌"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "@163.com"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "5g消息"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_home_ipt").value="2019/07/05""-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_end_ipt").value="2022/07/05""-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_renew_ipt").value="2021/07/05""-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360766327"-- successed
+2021-04-02 09:14:33,463-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户删除测试"-- successed
+2021-04-02 09:14:33,494-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,494-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,525-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,525-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,557-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,557-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,557-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:14:33,557-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化测试"-- successed
+2021-04-02 09:14:33,588-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,588-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,619-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,619-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,650-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,650-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,650-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "信息创建"-- successed
+2021-04-02 09:14:33,650-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:14:33,650-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户信息有误"-- successed
+2021-04-02 09:14:33,666-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:33,666-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,697-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:33,697-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,728-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:33,728-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,728-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户名称变更"-- successed
+2021-04-02 09:14:33,728-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-02 09:14:33,728-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "集团CSP"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-04-02 09:14:33,744-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-04-02 09:14:33,744-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-04-02 09:14:33,807-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,807-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,838-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,838-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,869-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:14:33,869-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,869-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:14:33,869-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "在线"-- successed
+2021-04-02 09:14:33,885-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,885-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,916-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,916-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,948-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:14:33,948-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:33,948-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:14:33,948-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot名称不符合要求"-- successed
+2021-04-02 09:14:33,980-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:33,980-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,011-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:34,011-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,042-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:14:34,042-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot变更"-- successed
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "100"-- successed
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "电力、热力、燃气及水生产和供应业"-- successed
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "自动话"-- successed
+2021-04-02 09:14:34,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "张无忌"-- successed
+2021-04-02 09:14:34,058-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:34,058-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,089-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:34,089-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,136-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:14:34,136-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试100051"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot自动化专属测试"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "IT服务"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "https://www.baidu.com/"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "15862342262.0"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "江苏省"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "淮安市"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "楚州区"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "万达广场"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "10.3.182.111"-- successed
+2021-04-02 09:14:34,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试删除chatbot"-- successed
+2021-04-02 09:14:37,058-base_page.py:[51]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-04-02 09:14:37,074-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x00000174DC949288> had already find the element ('name', 'username')
+2021-04-02 09:14:37,142-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:14:38,173-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x00000174DC949288> had already find the element ('name', 'password')
+2021-04-02 09:14:38,230-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:14:39,261-base_page.py:[67]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x00000174DC949288> had already find the element ('id', 'imgCode')
+2021-04-02 09:14:39,318-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:14:49,341-base_page.py:[89]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x00000174DC949288> had already find the element ('class name', 'sms_Verification')
+2021-04-02 09:14:49,466-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:15:14,493-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x00000174DC949288> had already find the element ('link text', '登录')
+2021-04-02 09:15:14,529-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:15:16,544-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:15:16,568-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p')
+2021-04-02 09:15:16,608-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:15:16,608-customer_page.py:[86]-[INFO]-进入客户管理内置表单----------开始点击客户管理二级菜单
+2021-04-02 09:15:16,627-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[1]')
+2021-04-02 09:15:16,665-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:15:16,665-customer_page.py:[88]-[INFO]-开始点击客户管理二级菜单
+2021-04-02 09:15:17,069-base_page.py:[198]-[INFO]-swith frame: 0 successed
+2021-04-02 09:15:17,070-customer_page.py:[95]-[INFO]-点击客户管理二级菜单内嵌表单
+2021-04-02 09:15:17,070-customer_page.py:[154]-[INFO]-客户新增页面-----------开始点击“新增客户”按钮
+2021-04-02 09:15:17,090-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[1]/div[2]/a/button')
+2021-04-02 09:15:17,572-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:15:18,078-customer_page.py:[157]-[INFO]-客户新增页面-----------开始输入新增的客户名称-------客户删除测试
+2021-04-02 09:15:18,091-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'ecName')
+2021-04-02 09:15:18,165-base_page.py:[143]-[INFO]-inputvalue:ecName is receiveing 客户删除测试
+2021-04-02 09:15:18,165-customer_page.py:[159]-[INFO]-客户新增页面-----------开始操作选择所属csp下拉框
+2021-04-02 09:15:18,183-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'cspId')
+2021-04-02 09:15:18,239-base_page.py:[182]-[INFO]-select_text:cspId is receiveing value:中国电信100016 
+2021-04-02 09:15:18,750-customer_page.py:[162]-[INFO]-客户新增页面-----------开始上传企业logo
+2021-04-02 09:15:18,765-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'rcs_logo')
+2021-04-02 09:15:26,886-base_page.py:[381]-[INFO]-upload attachment:E:\test\Chatbot.jpg successed
+2021-04-02 09:15:27,396-customer_page.py:[165]-[INFO]-客户新增页面-----------开始上传营业执照
+2021-04-02 09:15:27,420-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'license')
+2021-04-02 09:15:35,519-base_page.py:[381]-[INFO]-upload attachment:E:\test\loading.jpg successed
+2021-04-02 09:15:35,519-customer_page.py:[167]-[INFO]-客户新增页面-----------开始输入企业介绍
+2021-04-02 09:15:35,534-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'introduce')
+2021-04-02 09:15:35,741-base_page.py:[143]-[INFO]-inputvalue:introduce is receiveing 为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。
+2021-04-02 09:15:35,741-customer_page.py:[169]-[INFO]-客户新增页面-----------开始输入企业所在地-------江苏淮安
+2021-04-02 09:15:35,760-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'businessAddress')
+2021-04-02 09:15:35,810-base_page.py:[143]-[INFO]-inputvalue:businessAddress is receiveing 江苏淮安
+2021-04-02 09:15:35,811-customer_page.py:[171]-[INFO]-客户新增页面-----------开始处理行业类型下拉框-------IT服务
+2021-04-02 09:15:35,826-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'businessType')
+2021-04-02 09:15:35,879-base_page.py:[182]-[INFO]-select_text:businessType is receiveing value:IT服务 
+2021-04-02 09:15:35,879-customer_page.py:[173]-[INFO]-客户新增页面-----------开始输入办公电话-----------18360766327
+2021-04-02 09:15:35,897-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'workPhone')
+2021-04-02 09:15:35,964-base_page.py:[143]-[INFO]-inputvalue:workPhone is receiveing 18360766327
+2021-04-02 09:15:35,964-customer_page.py:[175]-[INFO]-客户新增页面-----------开始处理客户等级下拉框-------金牌会员
+2021-04-02 09:15:35,983-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'ecGrade')
+2021-04-02 09:15:36,037-base_page.py:[182]-[INFO]-select_text:ecGrade is receiveing value:金牌会员 
+2021-04-02 09:15:36,037-customer_page.py:[177]-[INFO]-客户新增页面-----------开始输入企业法人------吴忌
+2021-04-02 09:15:36,055-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'legalName')
+2021-04-02 09:15:36,103-base_page.py:[143]-[INFO]-inputvalue:legalName is receiveing 吴忌
+2021-04-02 09:15:36,103-customer_page.py:[179]-[INFO]-客户新增页面-----------开始输入企业法人身份证号--------320804199701025118
+2021-04-02 09:15:36,120-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'legalIdentification')
+2021-04-02 09:15:36,187-base_page.py:[143]-[INFO]-inputvalue:legalIdentification is receiveing 320804199701025118
+2021-04-02 09:15:36,187-customer_page.py:[181]-[INFO]-客户新增页面-----------开始上传企业法人身份证正面---------E:\test\test_first.jpg
+2021-04-02 09:15:36,205-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'person_front')
+2021-04-02 09:15:44,300-base_page.py:[381]-[INFO]-upload attachment:E:\test\test_first.jpg successed
+2021-04-02 09:15:44,811-customer_page.py:[184]-[INFO]-客户新增页面-----------开始上传企业法人身份证反面---------E:\test\test_first.jpg
+2021-04-02 09:15:44,835-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'person_contrary')
+2021-04-02 09:15:52,925-base_page.py:[381]-[INFO]-upload attachment:E:\test\test_first.jpg successed
+2021-04-02 09:15:53,426-customer_page.py:[187]-[INFO]-客户新增页面-----------开始输入客户联系人姓名----------张无忌
+2021-04-02 09:15:53,451-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'operatorName')
+2021-04-02 09:15:53,508-base_page.py:[143]-[INFO]-inputvalue:operatorName is receiveing 15162926231
+2021-04-02 09:15:53,508-customer_page.py:[189]-[INFO]-客户新增页面-----------开始输入客户联系人电话
+2021-04-02 09:15:53,536-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'operatorPhone')
+2021-04-02 09:15:53,596-base_page.py:[143]-[INFO]-inputvalue:operatorPhone is receiveing 18360362798
+2021-04-02 09:15:53,596-customer_page.py:[191]-[INFO]-客户新增页面-----------开始输入客户联系人邮箱------------@163.com
+2021-04-02 09:15:53,613-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '//*[@id="email"]')
+2021-04-02 09:15:53,688-base_page.py:[143]-[INFO]-inputvalue://*[@id="email"] is receiveing wu674310@163.com
+2021-04-02 09:15:53,688-customer_page.py:[193]-[INFO]-客户新增页面-----------开始输入客户联系人身份证号
+2021-04-02 09:15:53,709-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'operatorCard')
+2021-04-02 09:15:53,774-base_page.py:[143]-[INFO]-inputvalue:operatorCard is receiveing 320804199701025118
+2021-04-02 09:15:53,775-customer_page.py:[195]-[INFO]-客户新增页面-----------开始上传客户联系人身份证正面
+2021-04-02 09:15:53,792-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'contacts_front')
+2021-04-02 09:16:01,887-base_page.py:[381]-[INFO]-upload attachment:E:\test\test_first.jpg successed
+2021-04-02 09:16:02,393-customer_page.py:[198]-[INFO]-客户新增页面-----------开始上传客户联系人身份证反面
+2021-04-02 09:16:02,416-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'contacts_contrary')
+2021-04-02 09:16:10,509-base_page.py:[381]-[INFO]-upload attachment:E:\test\test_first.jpg successed
+2021-04-02 09:16:11,022-customer_page.py:[201]-[INFO]-客户新增页面-----------开始输入合同编号
+2021-04-02 09:16:11,047-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'contractNo')
+2021-04-02 09:16:11,105-base_page.py:[143]-[INFO]-inputvalue:contractNo is receiveing 129358
+2021-04-02 09:16:11,105-customer_page.py:[203]-[INFO]-客户新增页面-----------开始输入合同名称--------5g消息
+2021-04-02 09:16:11,124-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '//*[@id="name"]')
+2021-04-02 09:16:11,171-base_page.py:[143]-[INFO]-inputvalue://*[@id="name"] is receiveing 5g消息
+2021-04-02 09:16:11,171-customer_page.py:[205]-[INFO]-客户新增页面-----------开始输入合同生效日期
+2021-04-02 09:16:11,175-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_home_ipt").removeAttribute("readonly");] successed
+2021-04-02 09:16:11,692-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_home_ipt").value="2019/07/05"] successed
+2021-04-02 09:16:12,200-customer_page.py:[210]-[INFO]-客户新增页面-----------开始输入合同失效日期
+2021-04-02 09:16:12,206-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_end_ipt").removeAttribute("readonly");] successed
+2021-04-02 09:16:12,724-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_end_ipt").value="2022/07/05"] successed
+2021-04-02 09:16:13,236-customer_page.py:[215]-[INFO]-客户新增页面-----------开始输入合同续约日期
+2021-04-02 09:16:13,236-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_renew_ipt").removeAttribute("readonly");] successed
+2021-04-02 09:16:13,754-base_page.py:[335]-[INFO]-handle jsp:[document.querySelector("#contract_renew_ipt").value="2021/07/05"] successed
+2021-04-02 09:16:14,256-customer_page.py:[220]-[INFO]-客户新增页面-----------开始上传合同附件
+2021-04-02 09:16:14,271-base_page.py:[67]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('id', 'downaccessory')
+2021-04-02 09:16:22,376-base_page.py:[381]-[INFO]-upload attachment:E:\test\test_second.jpg successed
+2021-04-02 09:16:22,877-customer_page.py:[223]-[INFO]-客户新增页面-----------开始点击确认新建客户按钮
+2021-04-02 09:16:22,897-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[2]/div[2]/div[5]/button[2]')
+2021-04-02 09:16:23,462-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:24,511-base_page.py:[390]-[INFO]-页面刷新成功
+2021-04-02 09:16:24,511-customer_page.py:[232]-[INFO]-新增客户-----客户删除测试成功
+2021-04-02 09:16:24,511-customer_page.py:[243]-[INFO]-进入客户审核内置表单-----------开始点击客户管理一级菜单
+2021-04-02 09:16:24,534-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/p')
+2021-04-02 09:16:24,571-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:24,571-customer_page.py:[245]-[INFO]-进入客户审核内置表单-----------开始点击CSP客户类型
+2021-04-02 09:16:24,594-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[1]/ul[1]/li[2]')
+2021-04-02 09:16:24,627-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:25,011-base_page.py:[198]-[INFO]-swith frame: 0 successed
+2021-04-02 09:16:25,114-base_page.py:[420]-[INFO]-<selenium.webdriver.remote.webelement.WebElement (session="75fb82449e84d0bae9368c8c37fa20d2", element="c5a0df0f-e55a-49dc-8ae9-7a290a48ea03")> is existent
+2021-04-02 09:16:50,148-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[1]/div[2]/div/div[3]/button[2]')
+2021-04-02 09:16:50,217-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:52,231-customer_page.py:[273]-[INFO]-选择csp客户类型
+2021-04-02 09:16:52,262-base_page.py:[100]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('xpath', '/html/body/div[1]/div/ul/li[1]')
+2021-04-02 09:16:52,519-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:52,519-customer_page.py:[276]-[INFO]-默认选择待审核
+2021-04-02 09:16:52,519-customer_page.py:[282]-[INFO]-查询审核的数据---------开始输入客户名称查询审核数据
+2021-04-02 09:16:52,553-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'ecName')
+2021-04-02 09:16:52,605-base_page.py:[143]-[INFO]-inputvalue:ecName is receiveing 客户删除测试
+2021-04-02 09:16:52,606-customer_page.py:[284]-[INFO]-查询审核的数据---------开始选择审核类型查询审核数据
+2021-04-02 09:16:53,146-base_page.py:[78]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('name', 'reviewType')
+2021-04-02 09:16:53,204-base_page.py:[182]-[INFO]-select_text:reviewType is receiveing value:信息创建 
+2021-04-02 09:16:53,726-base_page.py:[122]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('css selector', '#findCspFrom > div > div.submit_btn > button.query')
+2021-04-02 09:16:53,999-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:54,506-customer_page.py:[302]-[INFO]-查询审核的数据---------开始点击审核按钮
+2021-04-02 09:16:54,537-base_page.py:[111]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('link text', '审核')
+2021-04-02 09:16:54,916-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:55,425-customer_page.py:[319]-[INFO]-客户信息审核页面-----------开始点击确定审核按钮
+2021-04-02 09:16:55,457-base_page.py:[122]-[INFO]-The page of <__main__.CustmoerPage object at 0x00000174DC940F88> had already find the element ('css selector', 'body > div.page_main > div.btn-wrapper > button')
+2021-04-02 09:16:55,515-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:56,554-base_page.py:[390]-[INFO]-页面刷新成功
+2021-04-02 09:16:58,567-chatbot_page.py:[80]-[INFO]-进入chatbot管理内置表单---------开始点击Chatbot管理一级菜单
+2021-04-02 09:16:58,583-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span')
+2021-04-02 09:16:58,639-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:58,639-chatbot_page.py:[82]-[INFO]-进入chatbot管理内置表单---------开始点击Chatbot管理二级菜单
+2021-04-02 09:16:58,663-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[1]')
+2021-04-02 09:16:58,696-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:16:59,750-base_page.py:[198]-[INFO]-swith frame: 0 successed
+2021-04-02 09:16:59,750-chatbot_page.py:[86]-[INFO]-进入内置表单
+2021-04-02 09:16:59,750-chatbot_page.py:[96]-[INFO]-chatbot新增页面------开始点击新增Chatbot按钮
+2021-04-02 09:16:59,774-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[1]/div[3]/a/button')
+2021-04-02 09:17:00,123-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:00,638-chatbot_page.py:[99]-[INFO]-chatbot新增页面------开始点击归属CSP按钮
+2021-04-02 09:17:00,653-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="chatbotAddFrom"]/div[1]/button')
+2021-04-02 09:17:00,725-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:01,236-chatbot_page.py:[102]-[INFO]-chatbot新增页面------开始输入CSP名称
+2021-04-02 09:17:01,252-base_page.py:[67]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('id', 'scpName')
+2021-04-02 09:17:01,327-base_page.py:[143]-[INFO]-inputvalue:scpName is receiveing 中国电信100016
+2021-04-02 09:17:01,327-chatbot_page.py:[104]-[INFO]-chatbot新增页面------开始点击CSP查询按钮
+2021-04-02 09:17:01,344-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="cspModalTwo"]/div/div/div[2]/div[1]/div/div[4]/button')
+2021-04-02 09:17:01,404-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:01,904-chatbot_page.py:[107]-[INFO]-chatbot新增页面------开始点击选择某一个CSP
+2021-04-02 09:17:01,920-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'cspNameTwo')
+2021-04-02 09:17:01,998-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:01,998-chatbot_page.py:[109]-[INFO]-chatbot新增页面------开始点击确认选择
+2021-04-02 09:17:02,016-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="cspModalTwo"]/div/div/div[3]/div/button[2]')
+2021-04-02 09:17:02,077-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:02,077-chatbot_page.py:[111]-[INFO]-chatbot新增页面------开始点击选择客户
+2021-04-02 09:17:02,095-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="chatbotAddFrom"]/div[2]/button')
+2021-04-02 09:17:02,150-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:02,662-chatbot_page.py:[114]-[INFO]-chatbot新增页面------开始输入企业客户名称
+2021-04-02 09:17:02,677-base_page.py:[67]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('id', 'ecNameId')
+2021-04-02 09:17:02,747-base_page.py:[143]-[INFO]-inputvalue:ecNameId is receiveing 测试100051
+2021-04-02 09:17:02,747-chatbot_page.py:[116]-[INFO]-chatbot新增页面------开始点击查询按钮
+2021-04-02 09:17:02,764-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[3]/div/div[1]/div/div[2]/button')
+2021-04-02 09:17:02,821-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:03,335-chatbot_page.py:[119]-[INFO]-chatbot新增页面------开始点击选择某一个客户
+2021-04-02 09:17:03,350-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="addCustomer"]/tr/td/input')
+2021-04-02 09:17:03,422-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:03,422-chatbot_page.py:[121]-[INFO]-chatbot新增页面------开始点击确认按钮
+2021-04-02 09:17:03,444-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[3]/div/div[4]/button[2]')
+2021-04-02 09:17:03,505-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:03,505-chatbot_page.py:[123]-[INFO]-chatbot新增页面------开始输入新建的Chatbot名称
+2021-04-02 09:17:03,525-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="chatbotName"]')
+2021-04-02 09:17:03,590-base_page.py:[143]-[INFO]-inputvalue://*[@id="chatbotName"] is receiveing 测试删除chatbot
+2021-04-02 09:17:03,591-chatbot_page.py:[125]-[INFO]-chatbot新增页面------开始输入Chatbot ID
+2021-04-02 09:17:03,607-base_page.py:[67]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('id', 'ChatbotIDTwo')
+2021-04-02 09:17:03,672-base_page.py:[143]-[INFO]-inputvalue:ChatbotIDTwo is receiveing 743952
+2021-04-02 09:17:03,672-chatbot_page.py:[127]-[INFO]-chatbot新增页面------开始点击上传chatbot头像按钮
+2021-04-02 09:17:03,690-base_page.py:[67]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('id', 'uploadDom')
+2021-04-02 09:17:11,769-base_page.py:[381]-[INFO]-upload attachment:E:\test\Chatbot.jpg successed
+2021-04-02 09:17:11,769-chatbot_page.py:[129]-[INFO]-chatbot新增页面------开始输入服务信息
+2021-04-02 09:17:11,784-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'description')
+2021-04-02 09:17:11,855-base_page.py:[143]-[INFO]-inputvalue:description is receiveing 935712
+2021-04-02 09:17:11,855-chatbot_page.py:[131]-[INFO]-chatbot新增页面------开始输入签名
+2021-04-02 09:17:11,877-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'autograph')
+2021-04-02 09:17:11,934-base_page.py:[143]-[INFO]-inputvalue:autograph is receiveing 728510
+2021-04-02 09:17:12,436-chatbot_page.py:[134]-[INFO]-chatbot新增页面------开始选择行业类型
+2021-04-02 09:17:12,465-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'category')
+2021-04-02 09:17:12,523-base_page.py:[182]-[INFO]-select_text:category is receiveing value:IT服务 
+2021-04-02 09:17:12,524-chatbot_page.py:[136]-[INFO]-chatbot新增页面------开始输入服务条款
+2021-04-02 09:17:12,543-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'tcpage')
+2021-04-02 09:17:12,597-base_page.py:[143]-[INFO]-inputvalue:tcpage is receiveing 841560
+2021-04-02 09:17:12,597-chatbot_page.py:[138]-[INFO]-chatbot新增页面------开始输入Chatbot邮箱
+2021-04-02 09:17:12,612-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'email')
+2021-04-02 09:17:12,679-base_page.py:[143]-[INFO]-inputvalue:email is receiveing wuji0121@163.com
+2021-04-02 09:17:12,679-chatbot_page.py:[140]-[INFO]-chatbot新增页面------开始输入Chatbot官网
+2021-04-02 09:17:12,695-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'website')
+2021-04-02 09:17:12,765-base_page.py:[143]-[INFO]-inputvalue:website is receiveing https://www.baidu.com/
+2021-04-02 09:17:12,765-chatbot_page.py:[142]-[INFO]-chatbot新增页面------开始输入Chatbot服务电话
+2021-04-02 09:17:12,783-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'callBack')
+2021-04-02 09:17:12,838-base_page.py:[143]-[INFO]-inputvalue:callBack is receiveing 15862342262
+2021-04-02 09:17:13,343-chatbot_page.py:[145]-[INFO]-chatbot新增页面------开始选择省份
+2021-04-02 09:17:13,368-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="province"]')
+2021-04-02 09:17:13,421-base_page.py:[182]-[INFO]-select_text://*[@id="province"] is receiveing value:江苏省 
+2021-04-02 09:17:13,927-chatbot_page.py:[148]-[INFO]-chatbot新增页面------开始选择地市
+2021-04-02 09:17:13,958-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="town"]')
+2021-04-02 09:17:14,008-base_page.py:[182]-[INFO]-select_text://*[@id="town"] is receiveing value:淮安市 
+2021-04-02 09:17:14,522-chatbot_page.py:[151]-[INFO]-chatbot新增页面------开始选择县区
+2021-04-02 09:17:14,538-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="district"]')
+2021-04-02 09:17:14,608-base_page.py:[182]-[INFO]-select_text://*[@id="district"] is receiveing value:楚州区 
+2021-04-02 09:17:15,118-chatbot_page.py:[154]-[INFO]-chatbot新增页面------开始输入具体地址
+2021-04-02 09:17:15,140-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="address"]')
+2021-04-02 09:17:15,194-base_page.py:[143]-[INFO]-inputvalue://*[@id="address"] is receiveing 万达广场
+2021-04-02 09:17:15,194-chatbot_page.py:[156]-[INFO]-chatbot新增页面------开始输入纬度
+2021-04-02 09:17:15,212-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'lat')
+2021-04-02 09:17:15,261-base_page.py:[143]-[INFO]-inputvalue:lat is receiveing 55
+2021-04-02 09:17:15,261-chatbot_page.py:[158]-[INFO]-chatbot新增页面------开始输入经度
+2021-04-02 09:17:15,278-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'lon')
+2021-04-02 09:17:15,324-base_page.py:[143]-[INFO]-inputvalue:lon is receiveing 55
+2021-04-02 09:17:15,324-chatbot_page.py:[160]-[INFO]-chatbot新增页面------开始输入ip地址
+2021-04-02 09:17:15,341-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="IP_box"]/input[1]')
+2021-04-02 09:17:15,401-base_page.py:[143]-[INFO]-inputvalue://*[@id="IP_box"]/input[1] is receiveing 10.3.182.111
+2021-04-02 09:17:15,401-chatbot_page.py:[162]-[INFO]-chatbot新增页面------开始点击提交新增的CHatbot
+2021-04-02 09:17:15,424-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="submitAudit"]')
+2021-04-02 09:17:15,701-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:16,202-chatbot_page.py:[169]-[INFO]-新增cahtbot--测试删除chatbot成功
+2021-04-02 09:17:16,755-base_page.py:[390]-[INFO]-页面刷新成功
+2021-04-02 09:17:16,755-chatbot_page.py:[339]-[INFO]-进入chatbot审核内置表单------开始点击Chatbot审核二级菜单
+2021-04-02 09:17:16,776-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/p/span')
+2021-04-02 09:17:16,816-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:16,816-chatbot_page.py:[341]-[INFO]-进入chatbot审核内置表单------开始点击待审核按钮
+2021-04-02 09:17:17,369-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[2]/div[2]/div/div[1]/div[2]/ul/li[2]')
+2021-04-02 09:17:17,402-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:38,715-base_page.py:[198]-[INFO]-swith frame: 0 successed
+2021-04-02 09:17:39,228-chatbot_page.py:[355]-[INFO]-不需要身份验证进入chatbot审核二级表单
+2021-04-02 09:17:39,228-chatbot_page.py:[365]-[INFO]-查询待审核的chatbot数据------待审核节点输入Chatbot名称
+2021-04-02 09:17:39,259-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'chatbotName')
+2021-04-02 09:17:39,320-base_page.py:[143]-[INFO]-inputvalue:chatbotName is receiveing 测试删除chatbot
+2021-04-02 09:17:39,825-chatbot_page.py:[368]-[INFO]-查询待审核的chatbot数据------选择审核类型
+2021-04-02 09:17:39,859-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'optype')
+2021-04-02 09:17:39,915-base_page.py:[182]-[INFO]-select_text:optype is receiveing value:信息创建 
+2021-04-02 09:17:40,429-chatbot_page.py:[371]-[INFO]-查询待审核的chatbot数据------选择chatbot接入类型
+2021-04-02 09:17:40,951-base_page.py:[78]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('name', 'type')
+2021-04-02 09:17:41,020-base_page.py:[182]-[INFO]-select_text:type is receiveing value:第三方CSP 
+2021-04-02 09:17:41,532-chatbot_page.py:[375]-[INFO]-查询待审核的chatbot数据------开始点击查询按钮
+2021-04-02 09:17:41,548-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '//*[@id="checkedForm"]/div[1]/div[9]/button[2]')
+2021-04-02 09:17:41,960-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:42,461-chatbot_page.py:[397]-[INFO]-查询待审核的chatbot数据------开始点击审核按钮
+2021-04-02 09:17:42,477-base_page.py:[100]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('xpath', '/html/body/div[1]/div[2]/table/tbody/tr[2]/td[10]/span/a/span')
+2021-04-02 09:17:42,936-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:43,955-base_page.py:[89]-[INFO]-The page of <Page.csp_page.chatbot_page.ChatbotPage object at 0x00000174DE4FFF48> had already find the element ('class name', 'btn-save')
+2021-04-02 09:17:44,449-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:17:44,449-chatbot_page.py:[402]-[INFO]-开始---------点击确定审核按钮
+2021-04-02 09:17:45,504-base_page.py:[390]-[INFO]-页面刷新成功
+2021-04-02 09:18:51,951-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-04-02 09:18:52,123-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["wuji13382197195"]---- successed
+2021-04-02 09:18:52,123-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["wuji0121@163.com"]---- successed
+2021-04-02 09:18:52,123-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["wuji13382197195@163.com"]---- successed
+2021-04-02 09:18:52,123-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["Mapp平台自动化测试报告"]---- successed
+2021-04-02 09:18:52,123-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["smtp.163.com"]---- successed
+2021-04-02 09:18:52,328-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-04-02 09:18:52,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-04-02 09:18:52,359-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-04-02 09:18:53,379-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:53,379-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,410-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:53,410-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,442-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:53,442-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化专属测试"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\loading.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "江苏淮安"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "IT服务"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "金牌会员"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "吴忌"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "张无忌"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "@163.com"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "5g消息"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_home_ipt").value="2019/07/05""-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_end_ipt").value="2022/07/05""-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_renew_ipt").value="2021/07/05""-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360766327"-- successed
+2021-04-02 09:18:53,442-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户删除测试"-- successed
+2021-04-02 09:18:53,474-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,474-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,505-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,505-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,536-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,536-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,536-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:18:53,536-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化测试"-- successed
+2021-04-02 09:18:53,552-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,552-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,583-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,583-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,614-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,614-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,614-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "信息创建"-- successed
+2021-04-02 09:18:53,614-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:18:53,614-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户信息有误"-- successed
+2021-04-02 09:18:53,647-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:53,647-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,678-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:53,678-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,709-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:53,709-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,709-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户名称变更"-- successed
+2021-04-02 09:18:53,709-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-02 09:18:53,709-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "集团CSP"-- successed
+2021-04-02 09:18:53,725-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-04-02 09:18:53,807-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,807-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,822-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,822-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,869-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:53,869-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,869-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:18:53,869-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "在线"-- successed
+2021-04-02 09:18:53,900-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,900-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,932-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,932-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,964-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:53,964-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:53,964-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:18:53,964-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot名称不符合要求"-- successed
+2021-04-02 09:18:53,980-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:53,980-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,011-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:54,011-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,042-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:54,042-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot变更"-- successed
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "100"-- successed
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "电力、热力、燃气及水生产和供应业"-- successed
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "自动话"-- successed
+2021-04-02 09:18:54,042-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "张无忌"-- successed
+2021-04-02 09:18:54,073-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:54,073-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,105-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:54,105-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,136-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:54,136-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试100051"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot自动化专属测试"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "IT服务"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "https://www.baidu.com/"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "15862342262.0"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "江苏省"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "淮安市"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "楚州区"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "万达广场"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "10.3.182.111"-- successed
+2021-04-02 09:18:54,136-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试删除chatbot"-- successed
+2021-04-02 09:18:54,151-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-04-02 09:18:54,678-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:54,678-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,822-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:54,822-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,979-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-02 09:18:54,979-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:54,979-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:18:54,979-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "已上架"-- successed
+2021-04-02 09:18:54,979-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-04-02 09:18:54,979-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_file"-- successed
+2021-04-02 09:18:55,121-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:55,121-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,282-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:55,282-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,423-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-02 09:18:55,439-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "360安全"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "直客"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "淮安市"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "吴忌"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "13382197195"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10.3.182.111,10.3.182.1，172.16.145.200"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "https://isptest.189.cn/maap_isp/admin/main"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "http://isp.ct5g.cn/maap_isp/index"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12月25日前，接口规范按照完整的版本
+进行发布（避免接口规范总是修改），
+包含信息字段变更后的查询接口、
+变更通知接口等。（无论是管理平台，还是第三方都能修改"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "无忌"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "10000"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "江苏省"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "苏州市吴中区"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "360安全"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_other_csp"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "草稿新建csp"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "2019"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "华中地区"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "是"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "463278"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "17216146148"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "A"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "345634"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "3344"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "个人用户"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "中国电信"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "交通银行"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "12234673"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "349857"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "运行商管理"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\CSP\data\add_csp"-- successed
+2021-04-02 09:18:55,439-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "360安全"-- successed
+2021-04-02 09:18:55,581-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:55,581-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,737-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:55,737-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,862-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-02 09:18:55,862-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "集团CSP"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "未上架"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "北京市"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "信息创建"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例通过"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "自动化测试案例不通过"-- successed
+2021-04-02 09:18:55,862-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "审核通过"-- successed
+2021-04-02 09:18:56,018-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:56,018-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,178-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:56,181-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,323-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-02 09:18:56,323-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,323-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "代理商"-- successed
+2021-04-02 09:18:56,323-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-02 09:18:56,323-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "@@$Wj"-- successed
+2021-04-02 09:18:56,480-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-04-02 09:18:56,480-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,637-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-04-02 09:18:56,637-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,777-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----grounding------成功
+2021-04-02 09:18:56,777-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:56,777-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "E:\test\api"-- successed
+2021-04-02 09:18:56,777-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_csp_data.xlsx get value-- "犀牛科技"-- successed
+2021-04-02 09:18:56,933-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化测试案例------成功
+2021-04-02 09:18:56,976-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----账号管理------成功
+2021-04-02 09:18:56,976-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:57,008-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----账号管理------成功
+2021-04-02 09:18:57,008-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:57,023-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----账号管理------成功
+2021-04-02 09:18:57,023-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "tester001"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "张无忌"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "320804199701025118"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "E:\test\test_first"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "E:\test\test_first"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "系统管理员"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "北京市"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "17314446516"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "@#WuJi010102"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "WHO01210121"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "wuji2009"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "@#KUwu01025115"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "吴忌"-- successed
+2021-04-02 09:18:57,023-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_system.xlsx get value-- "@#@uHUEHi02551"-- successed
+2021-04-02 09:18:57,039-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----自动化案例------成功
+2021-04-02 09:18:58,257-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="68a9f40fc4931b1dab15065216dea769")> success
+2021-04-02 09:18:58,257-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:18:59,891-base_page.py:[51]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-04-02 09:18:59,922-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA054C8> had already find the element ('name', 'username')
+2021-04-02 09:18:59,969-base_page.py:[143]-[INFO]-inputvalue:username is receiveing 
+2021-04-02 09:19:00,995-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA054C8> had already find the element ('name', 'password')
+2021-04-02 09:19:01,062-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:19:02,080-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA054C8> had already find the element ('link text', '登录')
+2021-04-02 09:19:02,124-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:02,124-screenshoot.py:[25]-[INFO]-screenshoot csp_username_null save in E:\CSP\screenshoot\CSP\login\photo2021-04-02-09-19-02csp_username_null.png success
+2021-04-02 09:19:02,502-base_page.py:[253]-[INFO]-get page source code successed
+2021-04-02 09:19:02,502-test_a_login.py:[36]-[INFO]-Assertion Successed，case is  pass---------账号不能为空。 is  in page 
+2021-04-02 09:19:02,683-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:19:02,683-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:19:02,697-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('name', 'username')
+2021-04-02 09:19:02,750-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:19:03,783-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('name', 'password')
+2021-04-02 09:19:03,826-base_page.py:[143]-[INFO]-inputvalue:password is receiveing 
+2021-04-02 09:19:04,847-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('link text', '登录')
+2021-04-02 09:19:04,893-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:04,893-screenshoot.py:[25]-[INFO]-screenshoot csp_userpws_null save in E:\CSP\screenshoot\CSP\login\photo2021-04-02-09-19-04csp_userpws_null.png success
+2021-04-02 09:19:05,237-base_page.py:[253]-[INFO]-get page source code successed
+2021-04-02 09:19:05,237-test_a_login.py:[55]-[INFO]-Assertion Successed，case is  pass---------“密码不能为空。” is  in page 
+2021-04-02 09:19:05,412-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:19:05,412-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:19:05,426-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728EAB2C48> had already find the element ('name', 'username')
+2021-04-02 09:19:05,476-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:19:06,507-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728EAB2C48> had already find the element ('name', 'password')
+2021-04-02 09:19:06,573-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:19:07,595-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728EAB2C48> had already find the element ('link text', '登录')
+2021-04-02 09:19:07,631-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:07,631-screenshoot.py:[25]-[INFO]-screenshoot csp_photo_null save in E:\CSP\screenshoot\CSP\login\photo2021-04-02-09-19-07csp_photo_null.png success
+2021-04-02 09:19:07,974-base_page.py:[253]-[INFO]-get page source code successed
+2021-04-02 09:19:07,974-test_a_login.py:[74]-[INFO]-Assertion Successed，case is  pass---------“图形验证码不能为空。” is  in page 
+2021-04-02 09:19:08,149-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:19:08,149-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:19:08,163-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('name', 'username')
+2021-04-02 09:19:08,214-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:19:09,241-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('name', 'password')
+2021-04-02 09:19:09,305-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:19:10,329-base_page.py:[67]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('id', 'imgCode')
+2021-04-02 09:19:10,373-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:20,403-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA05608> had already find the element ('link text', '登录')
+2021-04-02 09:19:20,441-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:20,441-screenshoot.py:[25]-[INFO]-screenshoot csp_msg_null save in E:\CSP\screenshoot\CSP\login\photo2021-04-02-09-19-20csp_msg_null.png success
+2021-04-02 09:19:20,802-base_page.py:[253]-[INFO]-get page source code successed
+2021-04-02 09:19:20,802-test_a_login.py:[95]-[INFO]-Assertion Successed，case is  pass---------“短信验证码不能为空。” is  in page 
+2021-04-02 09:19:20,976-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:19:20,977-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:19:21,152-base_page.py:[51]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-04-02 09:19:21,170-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA21C88> had already find the element ('name', 'username')
+2021-04-02 09:19:21,227-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:19:22,257-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA21C88> had already find the element ('name', 'password')
+2021-04-02 09:19:22,323-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:19:23,339-base_page.py:[67]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA21C88> had already find the element ('id', 'imgCode')
+2021-04-02 09:19:23,382-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:33,402-base_page.py:[89]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA21C88> had already find the element ('class name', 'sms_Verification')
+2021-04-02 09:19:33,530-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:19:58,562-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001728FA21C88> had already find the element ('link text', '登录')
+2021-04-02 09:19:58,602-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:20:00,606-screenshoot.py:[25]-[INFO]-screenshoot csp_login save in E:\CSP\screenshoot\CSP\login\photo2021-04-02-09-20-00csp_login.png success
+2021-04-02 09:20:00,922-base_page.py:[244]-[INFO]-get url is " https://isptest.189.cn/maap_isp/admin/main "
+2021-04-02 09:20:00,922-test_a_login.py:[115]-[INFO]-Assertion Successed，case is  pass-----------“https://isptest.189.cn/maap_isp/admin/main” is equal to “https://isptest.189.cn/maap_isp/admin/main”
+2021-04-02 09:20:01,471-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:20:03,643-myunit.py:[48]-[INFO]-break driver <selenium.webdriver.chrome.webdriver.WebDriver (session="68a9f40fc4931b1dab15065216dea769")> SUCCESS
+2021-04-02 09:20:04,843-myunit.py:[21]-[INFO]-Connection driver <selenium.webdriver.chrome.webdriver.WebDriver (session="eb54060dc596634d3daebf99b5f6fa8a")> success
+2021-04-02 09:20:04,843-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:20:06,473-base_page.py:[51]-[INFO]-open url"https://isptest.189.cn/maap_isp/index" success !
+2021-04-02 09:20:06,491-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001729055B1C8> had already find the element ('name', 'username')
+2021-04-02 09:20:06,547-base_page.py:[143]-[INFO]-inputvalue:username is receiveing wuji2020
+2021-04-02 09:20:07,584-base_page.py:[78]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001729055B1C8> had already find the element ('name', 'password')
+2021-04-02 09:20:07,644-base_page.py:[143]-[INFO]-inputvalue:password is receiveing .WKE$gpJGr5H
+2021-04-02 09:20:08,666-base_page.py:[67]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001729055B1C8> had already find the element ('id', 'imgCode')
+2021-04-02 09:20:08,702-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:20:18,733-base_page.py:[89]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001729055B1C8> had already find the element ('class name', 'sms_Verification')
+2021-04-02 09:20:18,861-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:20:43,889-base_page.py:[111]-[INFO]-The page of <Page.csp_page.login_page.LoginPage_CSP object at 0x000001729055B1C8> had already find the element ('link text', '登录')
+2021-04-02 09:20:43,942-base_page.py:[162]-[INFO]-click success success !
+2021-04-02 09:20:44,445-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:20:55,002-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-04-02 09:20:55,002-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-04-02 09:20:55,002-customer_page.py:[228]-[ERROR]-新增客户---客户自动化专属测试失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 153, in add_customer
+    self.intoform()
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-04-02 09:20:55,209-myunit.py:[39]-[INFO]-------------------case completed-----------------
+2021-04-02 09:20:55,212-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:20:55,213-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:21:02,154-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2021-04-02 09:21:02,156-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2021-04-02 09:21:02,157-customer_page.py:[228]-[ERROR]-新增客户---194750失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 153, in add_customer
+    self.intoform()
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2021-04-02 09:21:02,181-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:21:02,181-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:21:02,183-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,185-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,197-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:21:02,197-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:21:02,199-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,206-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,224-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:21:02,224-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:21:02,226-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,227-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,243-myunit.py:[31]-[INFO]-------------------starting  case-----------------
+2021-04-02 09:21:02,243-customer_page.py:[84]-[INFO]-进入客户管理内置表单----------开始点击客户管理一级菜单
+2021-04-02 09:21:02,245-base_page.py:[97]-[ERROR]-finding element timeout!,details
+Traceback (most recent call last):
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+
+2021-04-02 09:21:02,252-customer_page.py:[92]-[ERROR]-进入客户管理二级菜单失败
+Traceback (most recent call last):
+  File "E:\CSP\Page\csp_page\customer_page.py", line 85, in intoform
+    self.click_element(self.search[1][1],self.search[2][1])
+  File "E:\CSP\Page\base_page.py", line 155, in click_element
+    clickC=self.findelement(find_way,value)
+  File "E:\CSP\Page\base_page.py", line 98, in findelement
+    raise e
+  File "E:\CSP\Page\base_page.py", line 95, in findelement
+    WebDriverWait(self.base_driver, 10, 0.5).until(EC.visibility_of_element_located(element))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "E:\CSP\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+

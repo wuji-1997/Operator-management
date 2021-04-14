@@ -53,4 +53,4 @@ if __name__=="__main__":
    #delete_file(filepath=Conf.test_screenshoot + r'\update_password')
    delete_file(filepath=Conf.test_screenshoot + r'\system')
    delete_file(filepath=Conf.testreport)
-   delete_file(filepath=Conf.log_path)
+   #delete_file(filepath=Conf.log_path)

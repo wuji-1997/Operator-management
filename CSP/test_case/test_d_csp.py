@@ -7,6 +7,7 @@ from common import screenshoot
 from common.writeexcel import Write_Excel
 import time
 from config import Conf
+import pytest
 csp_testlog = Log(__name__,file=logging.INFO,cmd=logging.WARN)
 writedata=Write_Excel(filepath=Conf.test_data+r'\test_csp_data.xlsx',number=5)
 
@@ -14,7 +15,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase01(self):
+    def testcase20(self):
         """
         测试新建csp且审核不通过
         :return:
@@ -53,7 +54,7 @@ class Test_csp_manage(MYunit):
             self.assertTrue(text)
 
     #@unittest.skip('pass')
-    def testcase02(self):
+    def testcase21(self):
         """
         测试新建csp且审核通过
         :return:
@@ -86,20 +87,23 @@ class Test_csp_manage(MYunit):
             text= False
             self.assertTrue(text)
     #@unittest.skip('pass')
-    def testcase03(self):
+    def testcase22(self):
         """
         测试变更csp客户类型且审核不通过
         :return:
         """
+
         self.csp = CspPage(self.driver)
         value = self.csp.get_assert_text(text=self.csp.updatecsp)
         if self.csp.assert_find(findname=self.csp.updatecsp,assert_text=value):
+            csp_testlog.csp_log.info(f'查询到带变更的数据{self.csp.updatecsp}')
             self.csp.look_csp_data()  # 点击查看按钮
             self.csp.update_csp('1')  # 点击编辑按钮更新客户类型（变更为代理商）
             self.csp.intocheck(way=False)  # 进入审核内置表单
             self.csp.find_check_csp(cspname=self.csp.updatecsp,check_way='信息变更')  # 查询出待审核的数据
             code2 = self.csp.getpagecode()
             if value in code2:
+                csp_testlog.csp_log.info(f'查询到待变更的数据{self.csp.updatecsp}')
                 value2 = self.csp.get_assert_look_text(element_text=self.csp.update_value[0])
                 self.csp.starting_check(result='10')  # 审核不通过
                 self.csp.find_csp_data(name=self.csp.updatecsp)  # 查询出数据
@@ -118,7 +122,7 @@ class Test_csp_manage(MYunit):
                     writedata.update_data(4,9,f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行通过")
             else:
                 screenshoot.screen_shoot(self.driver, '\csp', '-03修改客户类型失败')
-                csp_testlog.csp_log.exception(f'未查询到待审核的数据---{self.csp.add_value[0]}')
+                csp_testlog.csp_log.exception(f'未查询到待审核的数据---{self.csp.updatecsp}')
                 writedata.update_data(4, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行不通过")
                 text = False
                 self.assertTrue(text)
@@ -130,7 +134,7 @@ class Test_csp_manage(MYunit):
             self.assertTrue(text)
 
     #@unittest.skip('pass')
-    def testcase04(self):
+    def testcase23(self):
         """
         测试更新csp客户类型且审核通过
         :return:
@@ -174,7 +178,7 @@ class Test_csp_manage(MYunit):
             self.assertTrue(text)
 
     #@unittest.skip('pass')
-    def testcase05(self):
+    def testcase24(self):
         """
         测试变更csp token且审核通过
         :return:
@@ -185,7 +189,7 @@ class Test_csp_manage(MYunit):
         if self.csp.assert_find(findname=self.csp.updatecsp, assert_text=value):
             self.csp.look_csp_data()  # 进入查看页面
             self.csp.update_csp('3')  # 更新token
-            self.csp.intocheck(way=False)  # 进入审核内置表单无需身份验证
+            self.csp.intocheck(way=True)  # 进入审核内置表单无需身份验证
             self.csp.find_check_csp(cspname=self.csp.updatecsp,check_way='信息变更')  # 查询出待审核的数据
             code2 =self.csp.getpagecode()
             if value in code2:
@@ -224,7 +228,7 @@ class Test_csp_manage(MYunit):
             self.assertTrue(text)
 
     #@unittest.skip('pass')
-    def testcase06(self):
+    def testcase25(self):
         """
         测试变更csp接入密匙且审核通过
         :return:
@@ -277,7 +281,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase07(self):
+    def testcase26(self):
         """
         测试更新csp类型且审核不通过
         :return:
@@ -323,7 +327,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase08(self):
+    def testcase27(self):
         """
         测试更新csp类型且审核通过
         :return:
@@ -370,7 +374,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase09(self):
+    def testcase28(self):
         """
         测试上架csp且审核通过
         :return:
@@ -419,7 +423,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase10(self):
+    def testcase29(self):
         """
         测试下架csp
         :return:
@@ -456,7 +460,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase11(self):
+    def testcase30(self):
         """
         测试已经下架的csp再次上架
         :return:
@@ -505,7 +509,7 @@ class Test_csp_manage(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase12(self):
+    def testcase31(self):
         """
         测试文件导入创建csp且审核不通过
         :return:
@@ -538,23 +542,26 @@ class Test_csp_manage(MYunit):
             writedata.update_data(14, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行不通过")
             text = False
             self.assertTrue(text)
-
+    @pytest.mark.w
     #@unittest.skip('pass')
-    def testcase13(self):
+    def testcase32(self):
         """
         测试文件导入创建csp且审核通过
         :return:
         """
+        self.login.csp_login()
+        self.login.wait(0.5)
         self.csp = CspPage(self.driver)
-        value = self.csp.get_assert_text(text=self.csp.other_add_csp)
-        self.csp.other_add()
-        self.csp.intocheck(way=False)  # 进入审核内置表单
-        self.csp.find_check_csp(cspname=self.csp.other_add_csp)  # 查询出待审核的数据
+        newcsp=self.csp.random_number()
+        value = self.csp.get_assert_text(text=newcsp)
+        self.csp.other_add(add_name=newcsp)
+        self.csp.intocheck(way=True)  # 进入审核内置表单
+        self.csp.find_check_csp(cspname=newcsp)  # 查询出待审核的数据
         code = self.csp.getpagecode()
         if value in code:
            self.csp.starting_check()  # 审核通过
            self.csp.intocheck(way=False)
-           self.csp.find_check_csp(cspname=self.csp.other_add_csp, way='10')  # 查询已经审核通过的数据
+           self.csp.find_check_csp(cspname=newcsp, way='10')  # 查询已经审核通过的数据
            screenshoot.screen_shoot(self.driver, r'\csp', '-11文件导入新建csp成功')
            code2 = self.csp.getpagecode()
            try:
@@ -569,14 +576,14 @@ class Test_csp_manage(MYunit):
                 writedata.update_data(13, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行通过")
         else:
             screenshoot.screen_shoot(self.driver, '\csp', '-11待审核的csp查询不到')
-            csp_testlog.csp_log.exception(f'查询的数据--{self.csp.add_value[0]}不存在')
+            csp_testlog.csp_log.exception(f'查询的数据--{newcsp}不存在')
             writedata.update_data(13, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行不通过")
             text = False
             self.assertTrue(text)
 
 
     #@unittest.skip('pass')
-    def testcase14refresh(self):
+    def testcase33(self):
         """
         测试数据复原
         :return:

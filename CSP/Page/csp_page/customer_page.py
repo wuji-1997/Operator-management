@@ -1,3 +1,4 @@
+
 from common.my_log import Log
 import logging
 from Page.base_page import BasePage
@@ -6,6 +7,7 @@ from config.Conf import *
 import time
 from common.writeexcel import Write_Excel
 from selenium.webdriver.common.by import By
+
 custmoer_log=Log(__name__,file=logging.INFO,cmd=logging.INFO)
 add_data=ReadExcel(filepath=test_data+r'\test_customer_data.xlsx',sheetname="add")
 search_data=ReadExcel(filepath=test_data+r'\test_customer_data.xlsx',sheetname="search")
@@ -434,6 +436,8 @@ if __name__=="__main__":
     chatbotS.check_chatbot()
     time.sleep(5)
     chatbotS.over()
+
+
 
 
 

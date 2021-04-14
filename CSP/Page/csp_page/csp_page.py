@@ -369,7 +369,7 @@ class CspPage(BasePage):
         self.click_element(self.search[1][1], self.search[2][1])
         csp_log.csp_log.info(f'进入审核内置表单-----开始{self.search[0][1]}')
         self.click_element(self.check[1][1], self.check[2][1])
-        csp_log.csp_log.info(f'进入审核内置表单-----开始{self.add[0][1]}')
+        csp_log.csp_log.info(f'进入审核内置表单-----开始{self.check[0][1]}')
         self.handleform(0)
         self.wait(2)
 
@@ -377,10 +377,10 @@ class CspPage(BasePage):
         if way ==True:
 
             if self.isElementExist((By.XPATH,self.check[2][2])):
-                csp_log.csp_log.info(f'审核身份验证-------开始{self.add[0][2]}')
+                csp_log.csp_log.info(f'审核身份验证-------开始{self.check[0][2]}')
                 self.wait(25)
                 self.click_element(self.check[1][3], self.check[2][3])
-                csp_log.csp_log.info(f'审核身份验证------开始{self.add[0][3]}')
+                csp_log.csp_log.info(f'审核身份验证------开始{self.check[0][3]}')
             else:
                 csp_log.csp_log.info('无需身份验证')
         else:

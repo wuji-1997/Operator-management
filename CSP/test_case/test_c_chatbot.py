@@ -13,7 +13,7 @@ writedata=Write_Excel(filepath=Conf.test_data+r'\test_chatbot_data.xlsx',number=
 class Test_csp_chatbot(MYunit):
 
     #@unittest.skip('pass')
-    def testcase01(self):
+    def testcase12(self):
         """
         测试新建一个chatbot且审核通过
         :return:
@@ -50,7 +50,7 @@ class Test_csp_chatbot(MYunit):
                 raise
 
     #@unittest.skip('pass')
-    def testcase02(self):
+    def testcase13(self):
         """
         测试新增一个chatbot且审核不通过
         :return:
@@ -88,7 +88,7 @@ class Test_csp_chatbot(MYunit):
                 raise
 
     #@unittest.skip('pass')
-    def testcase03(self):
+    def testcase14(self):
         """
         测试变更chatbot多个信息审核不通过
         :return:
@@ -136,7 +136,7 @@ class Test_csp_chatbot(MYunit):
                 writedata.update_data(4, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行不通过")
                 raise
 
-    def testcase04(self):
+    def testcase15(self):
         """
         测试变更chatbot归属csp与客户
         :return:
@@ -185,7 +185,7 @@ class Test_csp_chatbot(MYunit):
                 raise
 
     @unittest.skip('pass')
-    def testcase05(self):
+    def testcase16(self):
         """
         测试变更cahtbot配置
         :return:
@@ -222,7 +222,7 @@ class Test_csp_chatbot(MYunit):
                 raise
 
     #@unittest.skip('pass')
-    def testcase06(self):
+    def testcase17(self):
         """
         测试注销chatbot
         :return:
@@ -256,7 +256,7 @@ class Test_csp_chatbot(MYunit):
                 raise
 
     @unittest.skip('pass')
-    def testcase07_refreshspeed(self):
+    def testcase18(self):
         """
         复原chatbot配置
         :return:
@@ -287,7 +287,7 @@ class Test_csp_chatbot(MYunit):
                 test_cspchatbot_log.csp_log.exception('查询的chatbot不存在')
                 raise
 
-    def testcase08_refresh(self):
+    def testcase19(self):
         """
         测试复原数据
         :return:

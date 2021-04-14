@@ -5,13 +5,15 @@ import logging
 import unittest
 import sys
 import traceback
+import pytest
+
 
 test_csplogin_log = Log(__name__,file=logging.INFO,cmd=logging.INFO)
 
 class Test_csp_login(MYunit):
 
 
-
+    @pytest.mark.run_wuji
     def testcase01(self):
         """
         测试账号为空
@@ -20,6 +22,7 @@ class Test_csp_login(MYunit):
         self.login.open()
         self.login.user(email='')
         self.login.loginbutton()
+        
         screenshoot.screen_shoot(self.driver, r'\login', 'csp_username_null')
         value = '账号不能为空。'
         value2 = self.login.getpagecode()
@@ -31,6 +34,7 @@ class Test_csp_login(MYunit):
             print('案例不通过')
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------{value} is  in page ')
+    #@unittest.skip('pass')
 
     def testcase02(self):
         """
@@ -50,8 +54,7 @@ class Test_csp_login(MYunit):
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
 
-
-
+    #@unittest.skip('pass')
     def testcase03(self):
         """
         测试图形验证码为空
@@ -70,6 +73,7 @@ class Test_csp_login(MYunit):
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
 
+    #@unittest.skip('pass')
     def testcase04(self):
         """
         测试手机短信码为空
@@ -89,8 +93,8 @@ class Test_csp_login(MYunit):
             raise
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass---------“{value}” is  in page ')
-
-
+    #@pytest.mark.dv
+    #@unittest.skip('pass')
     def testcase05(self):
         """
         测试登录成功
@@ -109,6 +113,7 @@ class Test_csp_login(MYunit):
             raise
         else:
             test_csplogin_log.csp_log.info(f'Assertion Successed，case is  pass-----------“{value}” is equal to “{value2}”')
+
 
 if __name__=="__main__":
     unittest.main()

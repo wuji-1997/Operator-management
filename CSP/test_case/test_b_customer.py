@@ -7,13 +7,14 @@ from common import screenshoot
 from common.writeexcel import Write_Excel
 import time
 from config import Conf
+
 test_cspcustmoer_log = Log(__name__,file=logging.INFO,cmd=logging.WARN)
 writedata=Write_Excel(filepath=Conf.test_data+r'\test_customer_data.xlsx',number=4)
 
 class Test_csp_custmoer(MYunit):
 
 
-    def testcase01(self):
+    def testcase06(self):
         """
         测试新增客户且审核通过
         :return:
@@ -50,7 +51,7 @@ class Test_csp_custmoer(MYunit):
                 raise
 
     #@unittest.skip('pass')
-    def testcase02(self):
+    def testcase07(self):
         """
         测试新增客户审核不通过
         :return:
@@ -88,7 +89,7 @@ class Test_csp_custmoer(MYunit):
                 raise
 
     #@unittest.skip('pass')
-    def testcase03(self):
+    def testcase08(self):
         """
         测试变更客户名称
         :return:
@@ -123,7 +124,7 @@ class Test_csp_custmoer(MYunit):
                 raise
 
 
-    def testcase04(self):
+    def testcase09(self):
         """
         测试变更客户归属csp
         :return:
@@ -161,7 +162,7 @@ class Test_csp_custmoer(MYunit):
 
 
     #@unittest.skip('pass')
-    def testcase05(self):
+    def testcase10(self):
         """
         测试删除客户
         :return:
@@ -193,7 +194,7 @@ class Test_csp_custmoer(MYunit):
                 writedata.update_data(5, 9, f"{time.strftime('%Y-%m-%d %H:%M:%S')}案例执行不通过")
                 raise
     #@unittest.skip('pass')
-    def testcase06rename(self):
+    def testcase11(self):
         """
         测试还原
         :return:
@@ -217,6 +218,7 @@ class Test_csp_custmoer(MYunit):
         else:
             test_cspcustmoer_log.csp_log.info(f'客户名称变更为{self.custmoer.search[4]}成功')
 
+    
 
 
 

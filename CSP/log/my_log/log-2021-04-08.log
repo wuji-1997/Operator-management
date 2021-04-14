@@ -1,0 +1,125 @@
+2021-04-08 09:07:43,619-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["E:\CSP"]---- successed
+2021-04-08 09:07:43,635-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/index"]---- successed
+2021-04-08 09:07:45,916-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:45,916-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:45,980-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:45,980-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,058-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:46,068-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化专属测试"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\loading.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "为有效控制软件测试活动过程，
+对日常工作中出现的问题以及容易出现问题的地方进行文档规范说明，指导测试人员能够更好的执行测试，提高测试效率，确保软件产品质量。"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "江苏淮安"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "IT服务"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "金牌会员"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "吴忌"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "张无忌"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "@163.com"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "320804199701025118"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_first.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "5g消息"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_home_ipt").value="2019/07/05""-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_end_ipt").value="2022/07/05""-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "document.querySelector("#contract_renew_ipt").value="2021/07/05""-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "E:\test\test_second.jpg"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "18360766327"-- successed
+2021-04-08 09:07:46,068-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户删除测试"-- successed
+2021-04-08 09:07:46,130-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:46,130-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,239-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:46,239-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,303-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:46,303-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,303-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-08 09:07:46,303-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户自动化测试"-- successed
+2021-04-08 09:07:46,381-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:46,381-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,475-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:46,475-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,537-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:46,537-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,537-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "信息创建"-- successed
+2021-04-08 09:07:46,537-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-08 09:07:46,537-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户信息有误"-- successed
+2021-04-08 09:07:46,616-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:46,616-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,678-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:46,678-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,776-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:46,776-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:46,776-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "客户名称变更"-- successed
+2021-04-08 09:07:46,776-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-08 09:07:46,776-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_customer_data.xlsx get value-- "集团CSP"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "username"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji2020"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "wuji20"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "password"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- ".WKE$gpJGr"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "name"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "link_text"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "登录"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "id"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "imgCode"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "class"-- successed
+2021-04-08 09:07:46,791-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_login_data.xlsx get value-- "sms_Verification"-- successed
+2021-04-08 09:07:46,791-readini.py:[34]-[INFO]-from E:\CSP\config\config.ini get value:["https://isptest.189.cn/maap_isp/admin/main"]---- successed
+2021-04-08 09:07:46,963-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:46,963-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,042-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:47,042-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,105-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----search------成功
+2021-04-08 09:07:47,105-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,121-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-08 09:07:47,121-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "在线"-- successed
+2021-04-08 09:07:47,187-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:47,187-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,281-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:47,281-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,359-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----check------成功
+2021-04-08 09:07:47,359-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "第三方CSP"-- successed
+2021-04-08 09:07:47,359-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot名称不符合要求"-- successed
+2021-04-08 09:07:47,423-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:47,423-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,485-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:47,485-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,563-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----update------成功
+2021-04-08 09:07:47,563-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot变更"-- successed
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "100"-- successed
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信10000号"-- successed
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "电力、热力、燃气及水生产和供应业"-- successed
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "自动话"-- successed
+2021-04-08 09:07:47,563-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "张无忌"-- successed
+2021-04-08 09:07:47,641-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:47,641-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,751-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:47,751-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,844-writeexcel.py:[68]-[INFO]-打开excel文件且读取sheet-----add------成功
+2021-04-08 09:07:47,844-writeexcel.py:[125]-[INFO]-获取一整列数据成功
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "中国电信100016"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试100051"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "chatbot自动化专属测试"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "E:\test\Chatbot.jpg"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "IT服务"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "wuji0121@163.com"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "https://www.baidu.com/"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "15862342262.0"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "江苏省"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "淮安市"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "楚州区"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "万达广场"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "55"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "10.3.182.111"-- successed
+2021-04-08 09:07:47,844-readexcel.py:[36]-[INFO]-from E:\CSP\data\test_chatbot_data.xlsx get value-- "测试删除chatbot"-- successed
